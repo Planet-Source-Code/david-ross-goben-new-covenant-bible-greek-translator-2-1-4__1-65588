@@ -1,0 +1,9376 @@
+Strong	Word	Count
+1	Alpha 	4
+2	Aaron 	5
+3	Abaddon 	1
+4	not burdensome 	1
+5	Abba 	3
+6	Abel 	4
+7	Abia 	3
+8	Abiathar 	1
+9	Abilene 	1
+10	Abiud 	2
+11	Abraham 	73
+12	bottomless pit 	5
+12	deep 	2
+12	bottomless 	2
+13	Agabus 	2
+14	do good 	1
+15	do good 	7
+15	well doing 	2
+15	do well 	2
+16	well doing 	1
+17	do well 	1
+18	good 	77
+18	good thing 	14
+18	tthat which is good 	8
+18	the thing which is good	1
+18	well 	1
+18	benefit 	1
+19	goodness 	4
+20	gladness 	3
+20	joy 	1
+20	exceeding joy 	1
+21	rejoice 	7
+21	be exceeding glad 	1
+21	be glad 	1
+21	greatly rejoice 	1
+21	with exceeding joy 	1
+22	unmarried 	4
+23	have indignation 	2
+23	be much displeased 	2
+23	with indignation 	2
+23	be sore displeased 	1
+24	indignation 	1
+25	love 	135
+25	beloved 	7
+26	love 	86
+26	charity 	27
+26	dear 	1
+26	charitably 	1
+26	feast of charity 	1
+27	beloved 	47
+27	dearly beloved 	9
+27	well beloved 	3
+27	dear 	3
+28	Agar 	2
+29	compel to go 	3
+30	vessel 	2
+31	message 	1
+32	angel 	179
+32	messenger 	7
+33	go to 	2
+34	herd 	8
+35	without descent 	1
+36	base things 	1
+37	sanctify 	26
+37	hallow 	2
+37	be holy 	1
+38	holiness 	5
+38	sanctification 	5
+39	sanctuary 	4
+39	holy place 	3
+39	holiest of all 	3
+39	holiness 	1
+40	holy 	161
+40	saints 	61
+40	Holy One 	4
+40	miscellaneous 	3
+41	holiness 	1
+42	holiness 	3
+43	arm 	1
+44	hook 	1
+45	anchor 	4
+46	new 	2
+47	purity 	2
+48	purify 	5
+48	purify (one's) self 	2
+49	purification 	1
+50	be ignorant 	7
+50	ignorant 	4
+50	know not 	4
+50	understand not 	3
+50	ignorantly 	2
+50	unknown 	2
+51	error 	1
+52	ignorance 	4
+53	pure 	4
+53	chaste 	3
+53	clear 	1
+54	pureness 	1
+55	sincerely 	1
+56	not the knowledge 	1
+56	ignorance 	1
+57	unknown 	1
+58	market 	6
+58	marketplace 	4
+58	street 	1
+59	buy 	28
+59	redeem 	3
+60	baser sort 	1
+60	law 	1
+61	draught 	2
+62	unlearned 	1
+63	abide in the field 	1
+64	catch 	1
+65	wild olive tree 	1
+65	olive tree which is wild 	1
+66	wild 	2
+66	raging 	1
+67	Agrippa 	12
+68	field 	22
+68	country 	8
+68	land 	4
+68	farm 	1
+68	piece of ground 	1
+69	watch 	4
+70	watching 	2
+71	bring 	45
+71	lead 	12
+71	go 	7
+71	bring forth 	2
+71	miscellaneous 	5
+71	vr bring 	1
+72	manner of life 	1
+73	conflict 	2
+73	fight 	2
+73	contention 	1
+73	race 	1
+74	agony 	1
+75	strive 	3
+75	fight 	3
+75	labour fervently 	1
+76	Adam 	9
+77	without charge 	1
+78	Addi 	1
+79	sister 	24
+80	brethren 	226
+80	brother 	113
+80	brother's 	6
+80	brother's way 	1
+81	brotherhood 	1
+81	brethren 	1
+82	appear not 	1
+82	uncertain 	1
+83	uncertain 	1
+84	uncertainly 	1
+85	be very heavy 	2
+85	be full of heaviness 	1
+86	hell 	10
+86	grave 	1
+87	without partiality 	1
+88	continual 	1
+88	without ceasing 	1
+89	without ceasing 	4
+90	from a derivative of a compound of 1 (as a negative particle) and a derivative of 	1311
+91	hurt 	10
+91	do wrong 	8
+91	wrong 	2
+91	suffer wrong 	2
+91	be unjust 	2
+91	take wrong 	1
+91	injure 	1
+91	be an offender 	1
+91	vr 	
+92	matter of wrong 	1
+92	evil doing 	1
+92	iniquity 	1
+93	unrighteousness 	16
+93	iniquity 	6
+93	unjust 	2
+93	wrong 	1
+94	unjust 	8
+94	unrighteous 	4
+95	wrongfully 	1
+96	reprobate 	6
+96	castaway 	1
+96	rejected 	1
+97	sincere 	1
+98	Adramyttium 	1
+99	Adria 	1
+100	abundance 	1
+101	be impossible 	2
+102	impossible 	6
+102	impotent 	1
+102	could not do 	1
+102	weak 	1
+102	not possible 	1
+103	sing 	5
+104	alway 	4
+104	always 	3
+104	ever 	1
+105	eagle 	4
+106	unleavened bread 	8
+106	unleavened 	1
+107	Azor 	2
+108	Azotus 	1
+109	air 	7
+110	immortality 	3
+111	unlawful thing 	1
+111	abominable 	1
+111	abominable 	1
+112	without God 	1
+113	wicked 	2
+114	despise 	8
+114	reject 	4
+114	bring to nothing 	1
+114	frustrate 	1
+114	disannul 	1
+114	cast off 	1
+115	disannulling 	1
+115	to put away 	1
+116	Athens 	6
+117	Athenians 	1
+117	of Athens 	1
+118	strive 	2
+119	fight 	1
+120	be discouraged 	1
+121	innocent 	2
+122	goatskin 	1
+123	shore 	6
+124	Egyptian 	3
+124	Egyptians 	2
+125	Egypt 	24
+126	eternal 	1
+126	everlasting 	1
+127	shamefacedness 	1
+127	reverence 	1
+128	Ethiopian 	2
+129	blood 	99
+130	shedding of blood 	1
+131	diseased with an issue of blood 	1
+132	Aeneas 	2
+133	praise 	1
+134	praise 	9
+135	darkly 	1
+136	praise 	2
+137	Aenon 	1
+138	choose 	3
+139	sect 	5
+139	heresy 	4
+140	choose 	1
+141	that is a heretic 	1
+142	take up 	32
+142	take away 	25
+142	take 	25
+142	away with 	5
+142	lift up 	4
+142	bear 	3
+142	miscellaneous 	8
+143	perceive 	1
+144	judgment 	1
+145	senses 	1
+146	greedy of filthy lucre 	2
+146	given to filthy lucre 	1
+147	for filthy lucre 	1
+148	filthy communication 	1
+149	shame 	3
+150	filthy 	1
+151	filthiness 	1
+152	shame 	5
+152	dishonesty 	1
+153	be ashamed 	5
+154	ask 	48
+154	desire 	17
+154	beg 	2
+154	require 	2
+154	crave 	1
+154	call for 	1
+155	require 	1
+155	request 	1
+155	petition 	1
+156	cause 	9
+156	wherefore	3
+156	accusation 	3
+156	fault 	3
+156	case 	1
+156	crime 	1
+157	complaint 	1
+158	fault 	2
+158	cause 	2
+159	author 	1
+160	unawares 	1
+160	sudden 	1
+161	captivity 	3
+162	lead captive 	2
+163	bring into captivity 	2
+163	lead away captive 	1
+164	captive 	1
+165	ever 	71
+165	world 	38
+165	never	6
+165	evermore 	4
+165	age 	2
+165	eternal 	2
+165	miscellaneous 	5
+166	eternal 	42
+166	everlasting 	25
+166	the world began 	2
+166	since the world began	1
+166	for ever 	1
+167	uncleanness 	10
+168	filthiness 	1
+169	unclean 	28
+169	foul 	2
+170	lack of opportunity 	1
+171	out of season 	1
+172	simple 	1
+172	harmless 	1
+173	thorns 	14
+174	of thorns 	2
+175	unfruitful 	6
+175	without fruit 	1
+176	cannot be condemned 	1
+177	uncovered 	2
+178	uncondemned 	2
+179	endless 	1
+180	cannot cease 	1
+181	confusion 	2
+181	tumult 	2
+181	commotion 	1
+182	unstable 	1
+183	unruly 	1
+184	Aceldama 	1
+185	harmless 	2
+185	simple 	1
+186	without wavering 	1
+187	be fully ripe 	1
+188	yet 	1
+189	hearing 	10
+189	ears 	4
+189	fame 	3
+189	rumour 	2
+189	report 	2
+189	audience 	1
+189	miscellaneous 	2
+190	follow 	91
+190	reach 	1
+191	hear 	418
+191	hearken 	6
+191	give audience 	3
+191	hearer 	2
+191	miscellaneous 	8
+192	excess 	1
+192	incontinency 	1
+193	incontinent 	1
+194	without mixture 	1
+195	perfect manner 	1
+196	most straitest 	1
+197	more perfectly 	3
+197	more perfect 	1
+198	enquire diligently 	2
+199	diligently 	2
+199	perfect 	1
+199	perfectly 	1
+199	circumspectly 	1
+200	locust 	4
+201	place of hearing 	1
+202	hearer 	4
+203	uncircumcision 	16
+203	being circumcised 	2
+203	uncircumcised 	1
+203	though not circumcised 	1
+204	chief corner 	2
+205	spoils 	1
+206	uttermost part 	2
+206	one end 	1
+206	other 	1
+206	tip 	1
+206	top 	1
+207	Aquila 	6
+208	make of none effect 	2
+208	disannul 	1
+209	no man forbidding him 	1
+210	against (one's) will 	1
+211	alabaster box 	3
+211	box 	1
+212	boasting 	1
+212	pride 	1
+213	boaster 	2
+214	wail 	1
+214	tinkle 	1
+215	which cannot be uttered 	1
+216	dumb 	3
+217	salt 	8
+218	anoint 	9
+219	cockcrowing 	1
+220	cock 	12
+221	Alexandrian 	1
+221	born at Alexander 	1
+222	of Alexandria 	2
+223	Alexander 	6
+224	meal 	2
+225	truth 	107
+225	truly 	1
+225	true 	1
+225	verity 	1
+226	tell the truth 	1
+226	speak the truth 	1
+227	true 	23
+227	truly 	1
+227	truth 	1
+228	true 	27
+229	grinding 	2
+230	of a truth 	6
+230	indeed 	6
+230	surely 	3
+230	truly 	2
+230	very 	1
+230	miscellaneous 	3
+231	fishers 	4
+231	fishermen 	1
+232	a fishing 	1
+233	to salt 	3
+234	pollution 	1
+235	but 	573
+235	yea 	15
+235	yet 	11
+235	nevertheless 	10
+235	howbeit 	9
+235	nay 	4
+235	therefore 	3
+235	save 	2
+235	not translated 	2
+235	miscellaneous 	8
+236	change 	6
+237	some other way 	1
+238	be an allegory 	1
+239	alleluia 	4
+240	one another 	76
+240	themselves 	12
+240	yourselves 	3
+240	miscellaneous 	9
+241	stranger 	1
+242	leap 	2
+242	spring up 	1
+243	other(s) 	81
+243	another 	62
+243	some 	11
+243	one 	4
+243	miscellaneous 	2
+244	a busybody in other men's matters 	1
+245	stranger 	4
+245	another man's 	4
+245	strange 	2
+245	other men's 	2
+245	other 	1
+245	alien 	1
+246	one of another nation 	1
+247	otherwise 	1
+248	tread out the corn 	2
+248	thresh 	1
+249	brute 	2
+249	unreasonable 	1
+250	aloes 	1
+251	salt 	1
+252	salt 	1
+253	less sorrowful 	1
+254	chain 	10
+254	bonds 	1
+255	unprofitable 	1
+256	Alphaeus (father of James) 	4
+256	Alphaeus (father of Levi) 	1
+257	floor 	2
+258	fox 	3
+259	to be taken 	1
+260	together 	3
+260	withal 	3
+260	with 	1
+260	and 	1
+260	miscellaneous 	2
+261	unlearned 	1
+262	that fadeth not away 	1
+263	that fadeth not away 	1
+264	sin 	38
+264	trespass 	3
+264	offend 	1
+264	for your faults 	1
+265	sin 	4
+266	sin 	172
+266	sinful 	1
+266	offense 	1
+267	without witness 	1
+268	sinner 	43
+268	sinful 	4
+269	not a brawler 	1
+269	no brawler 	1
+270	reap down 	1
+271	amethyst 	1
+272	neglect 	2
+272	make light of 	1
+272	regard not 	1
+272	be negligent 	1
+273	blameless 	3
+273	unblameable 	1
+273	faultless 	1
+274	unblameably 	1
+274	blameless 	1
+275	secure 	1
+275	without carefulness 	1
+276	immutability 	1
+276	immutable 	1
+277	unmoveable 	1
+278	without repentance 	1
+278	not to be repented of 	1
+279	impenitent 	1
+280	things without measure 	2
+281	verily 	101
+281	amen 	51
+282	without mother 	1
+283	undefiled 	4
+284	Aminadab 	3
+285	sand 	5
+286	lamb 	4
+287	requite 	1
+288	vine 	8
+289	dresser of vineyard 	1
+290	vineyard 	23
+291	Amplias 	1
+292	defend 	1
+293	net 	2
+294	clothes 	4
+295	Amphipolis 	1
+296	place where two ways meet 	1
+297	both 	14
+298	without rebuke 	1
+298	blameless 	1
+299	without rebuke 	2
+299	without blame 	1
+299	unblameable 	1
+299	without spot 	1
+299	faultless 	1
+299	without fault 	1
+300	Amon 	2
+301	Amos 	1
+302	whosoever 	35
+302	whatsoever 	7
+302	whomsoever 	5
+302	whereinsoever 	1
+302	what things soever 	1
+302	whatsoever 	7
+302	an many as	4
+302	whosoever	2
+302	what things so ever	1
+302	wherewith soever	1
+302	whithersoever	4
+302	wheresoever	2
+302	whatsoever	5
+302	whosoever	3
+302	whose soever	2
+302	not translated 	111
+303	by 	3
+303	apiece 	2
+303	every man 	2
+303	each 	1
+303	several 	1
+303	two and two 	1
+303	among 	1
+303	through 	1
+303	between 	1
+303	by 	1
+303	in 	1
+304	stairs 	2
+305	go up 	37
+305	come up 	10
+305	ascend 	10
+305	ascend up 	8
+305	climb up 	2
+305	spring up 	2
+305	grow up 	2
+305	come 	2
+305	enter 	2
+305	arise 	2
+305	rise up 	2
+305	miscellaneous 	2
+305	vr ascend 	1
+306	defer 	1
+307	draw 	1
+308	receive sight 	15
+308	look up 	9
+308	look 	1
+308	see 	1
+309	recovering of sight 	1
+310	cry 	1
+310	cry aloud 	1
+310	cry out 	1
+311	delay 	1
+312	tell 	6
+312	show 	6
+312	declare 	3
+312	rehearse 	1
+312	speak 	1
+312	report 	1
+313	begat again 	1
+313	be born again 	1
+314	read 	33
+315	compel 	5
+315	constrain 	4
+316	necessary 	5
+316	near 	1
+316	more needful 	1
+316	of necessity 	1
+317	by constraint 	1
+318	necessity 	7
+318	must needs 	3
+318	distress 	3
+318	must of necessity 	2
+318	need 	1
+318	necessary 	1
+318	needful 	1
+319	be made known 	1
+320	reading 	3
+321	bring 	3
+321	loose 	3
+321	sail 	3
+321	launch 	3
+321	depart 	3
+321	miscellaneous 	9
+322	appoint 	1
+322	show 	1
+323	showing 	1
+324	receive 	2
+325	deliver 	1
+326	be alive again 	2
+326	revive 	2
+326	live again 	1
+327	seek 	2
+328	gird up 	1
+329	stir up 	1
+330	flourish 	1
+331	accursed 	4
+331	anathema 	1
+331	bind under a great curse 	1
+332	curse 	1
+332	bind under a curse 	1
+332	bind with an oath 	1
+332	bind under a great curse 	1
+333	behold 	1
+333	consider 	1
+334	gift 	1
+335	importunity 	1
+336	death 	2
+337	kill 	10
+337	slay 	8
+337	put to death 	2
+337	take up 	1
+337	do 	1
+337	take away 	1
+338	blameless 	1
+338	guiltless 	1
+339	sit up 	2
+340	renew 	1
+341	renew 	2
+342	renewing 	2
+343	untaken away 	1
+343	open 	1
+344	return 	3
+344	turn again 	1
+345	sit at meat 	5
+345	guests 	2
+345	sit 	2
+345	sit down 	1
+345	be set down 	1
+345	lie 	1
+345	lean 	1
+345	at the table 	1
+346	briefly comprehend 	1
+346	gather together in one 	1
+347	sit down 	3
+347	make sit down 	2
+347	sit down to meat 	1
+347	make sit down to meat 	1
+347	lay 	1
+348	hinder 	1
+349	cry out 	5
+350	examine 	6
+350	judge 	6
+350	ask question 	2
+350	search 	1
+350	discern 	1
+351	examination 	1
+352	lift up (one's) self 	3
+352	look up 	1
+353	take up 	4
+353	receive up 	3
+353	take 	3
+353	take in 	2
+353	take into 	1
+354	receive up 	1
+355	consume 	3
+356	proportion 	1
+357	consider 	1
+358	lose saltness 	1
+359	departure 	1
+360	return 	1
+360	depart 	1
+361	without sin 	1
+362	wait for 	1
+363	call to remembrance 	2
+363	call to mind 	1
+363	bring to remembrance 	1
+363	remember 	1
+363	put to remembrance 	1
+364	remembrance 	3
+364	remembrance again 	1
+365	renew 	1
+366	recover (one's) self 	1
+367	Ananias (of Damascus) 	6
+367	Ananias (of Jerusalem) 	3
+367	Ananias (high priest) 	2
+368	can not be spoken against 	1
+369	without gainsaying 	1
+370	unworthy 	1
+371	unworthily 	2
+372	rest 	4
+372	rest 	1
+373	rest 	4
+373	refresh 	4
+373	take rest 	2
+373	give rest 	1
+373	take ease 	1
+374	persuade 	1
+375	send 	2
+375	send again 	2
+376	maimed 	2
+377	sit down 	7
+377	sit down to meat 	2
+377	be set down 	1
+377	lean 	1
+378	fulfil 	2
+378	supply 	2
+378	occupy 	1
+378	fill up 	1
+379	without excuse 	1
+379	inexcusable 	1
+380	open 	1
+381	kindle 	3
+382	innumerable 	1
+383	move 	1
+383	stir up 	1
+384	subvert 	1
+385	pull out 	1
+385	draw out 	1
+386	resurrection 	39
+386	rising again 	1
+386	that should rise 	1
+386	raised to life again 	1
+387	turn upside down 	1
+387	make an uproar 	1
+387	trouble 	1
+388	crucify afresh 	1
+389	sigh deeply 	1
+390	return 	2
+390	have conversation 	2
+390	live 	2
+390	abide 	1
+390	overthrow 	1
+390	behave (one's) self 	1
+390	be used 	1
+390	pass 	1
+391	conversation 	13
+392	set forth in order 	1
+393	be up 	2
+393	rise 	2
+393	spring up 	1
+393	make rise 	1
+393	at the rising of 	1
+393	spring 	1
+393	arise 	1
+394	declare 	1
+394	communicate 	1
+395	east 	9
+395	dayspring 	1
+396	overthrow 	1
+396	subvert 	1
+397	nourish 	1
+397	nourish up 	1
+397	bring up 	1
+398	appear 	1
+398	discover 	1
+399	offer up 	3
+399	bear 	2
+399	offer 	2
+399	bring up 	1
+399	lead up 	1
+399	carry up 	1
+400	speak out 	1
+401	excess 	1
+402	depart 	8
+402	withdraw (one's) self 	2
+402	go aside 	2
+402	turn aside 	1
+402	give place 	1
+403	refreshing 	1
+404	refresh 	1
+405	manstealer 	1
+406	Andrew 	13
+407	quit you like men 	1
+408	Andronicus 	1
+409	manslayer 	1
+410	blameless 	4
+410	unreproveable 1 	
+411	unspeakable 	1
+412	unspeakable 	1
+413	not to fail 	1
+414	more tolerable 	6
+415	unmerciful 	1
+416	driven with the wind 	1
+417	wind 	31
+418	impossible 	1
+419	unsearchable 	1
+420	patient 	1
+421	past finding out 	1
+421	unsearchable 	1
+422	that needeth not to be ashamed 	1
+423	blameless 	2
+423	unrebukeable 	1
+424	go up 	3
+425	rest 	3
+425	liberty 	1
+425	be eased 	1
+426	examine 	2
+427	without 	3
+428	not commodious 	1
+429	find 	2
+430	suffer 	7
+430	bear with 	4
+430	forbear 	2
+430	endure 	2
+431	sister's son 	1
+432	anise 	1
+433	be convenient 	2
+433	be fit 	1
+434	fierce 	1
+435	man 	156
+435	husband 	50
+435	sir 	6
+435	fellow 	1
+435	not translated 	2
+436	resist 	9
+436	withstand 	5
+437	give thanks 	1
+438	flower 	4
+439	fire of coals 	2
+440	coals of fire 	1
+441	menpleasers 	2
+442	man's 	3
+442	after the manner of man 	1
+442	of man 	1
+442	common to man 	1
+442	mankind 	1
+443	murderer 	3
+444	man 	552
+444	not translated 	4
+444	miscellaneous 	3
+445	be deputy 	1
+446	deputy 	4
+447	loose 	2
+447	forbear 	1
+447	leave 	1
+448	without mercy 	1
+449	unwashen 	3
+450	arise 	38
+450	rise 	19
+450	rise up 	16
+450	rise again 	13
+450	raise up 	11
+450	stand up 	8
+450	raise up again 	2
+450	miscellaneous 	5
+451	Anna 	1
+452	Annas 	4
+453	foolish 	4
+453	fool 	1
+453	unwise 	1
+454	madness 	1
+454	folly 	1
+455	open 	77
+456	build again 	2
+457	that (one) may open 	1
+458	iniquity 	12
+458	unrighteousness 	1
+458	transgress the law 	1
+458	transgression of the law 	1
+459	without law 	4
+459	transgressor 	2
+459	wicked 	2
+459	lawless 	1
+459	unlawful 	1
+460	without law 	2
+461	make straight 	1
+461	set up 	1
+461	lift up 	1
+462	unholy 	2
+463	forbearance 	2
+464	strive against 	1
+465	in exchange 	2
+466	fill up 	1
+467	recompense 	4
+467	recompense again 	1
+467	repay 	1
+467	render 	1
+468	recompense 	2
+469	reward 	1
+470	answer again 	1
+470	reply again 	1
+471	gainsay 	1
+471	say against 	1
+472	hold to 	2
+472	support 	1
+472	holdfast 	1
+472	holdfast 	1
+473	for 	15
+473	because 	4
+473	for ... cause 	1
+473	therefore + (3639) 	1
+473	in the room of 	1
+474	have 	1
+475	oppose (one's) self 	1
+476	adversary 	5
+477	opposition 	1
+478	resist 	1
+479	bid again 	1
+480	adversary 	5
+480	be contrary 	2
+480	oppose 	1
+481	over against 	1
+482	help 	1
+482	support 	1
+482	partaker 	1
+482	partaker 	1
+483	speak against 	5
+483	deny 	1
+483	contradict 	1
+483	gainsay 	1
+483	gainsayer 	1
+483	answer again 	1
+484	help 	1
+485	contradiction 	2
+485	strife 	1
+485	gainsaying 	1
+486	revile again 	1
+487	ransom 	1
+488	measure again 	2
+489	recompense 	2
+490	Antioch 	18
+491	of Antioch 	1
+492	pass by on the other side 	2
+493	Antipas 	1
+494	Antipatris 	1
+495	over against 	1
+496	resist 	1
+497	war against 	1
+498	resist 	4
+498	oppose (one's) self 	1
+499	figure 	1
+499	like figure whereinto 	1
+499	like figure whereinto 	1
+500	antichrist 	5
+501	draw 	3
+501	draw out 	1
+502	nothing to draw with 	1
+503	bear up into 	1
+504	dry 	2
+504	without water 	2
+505	unfeigned 	4
+505	without dissimulation 	1
+505	without hypocrisy 	1
+506	unruly 	2
+506	disobedient 	1
+506	that is not put under 	1
+507	above 	5
+507	up 	2
+507	high 	1
+507	brim 	1
+508	upper room 	2
+509	from above 	5
+509	top 	3
+509	again 	2
+509	from the first 	1
+509	from the beginning 	1
+509	not translated 	1
+510	upper 	1
+511	higher 	1
+511	above 	1
+512	unprofitable 	1
+512	unprofitableness 	1
+513	axe 	2
+514	worthy 	35
+514	meet 	4
+514	due reward 	1
+514	unworthy 	1
+515	count worthy 	3
+515	think worthy 	2
+515	think good 	1
+515	desire 	1
+516	worthy 	3
+516	as becometh 	2
+516	after a godly sort 	1
+517	invisible 	4
+517	invisible things 	1
+518	tell 	26
+518	show 	10
+518	declare 	3
+518	report 	2
+518	bring word 	1
+518	bring word again 	1
+518	show again 	1
+518	vr 	
+519	hang (one's) self 	1
+520	lead away 	10
+520	lead 	2
+520	put to death 	1
+520	bring 	1
+520	take away 	1
+520	carry away 	1
+521	unlearned 	1
+522	take away 	2
+522	take 	1
+523	ask again 	1
+523	requite 	1
+523	requite 	1
+524	be past feeling 	1
+525	deliver 	2
+525	depart 	1
+526	be alienated with 	2
+526	be alien 	1
+527	tender 	2
+528	meet 	7
+529	to meet 	4
+530	once 	15
+531	unchangeable 	1
+532	unprepared 	1
+533	deny 	13
+534	from henceforth 	1
+535	finish 	1
+536	firstfruits 	8
+537	all 	34
+537	all things 	5
+537	whole 	3
+537	every one 	1
+537	every 	1
+538	deceive 	4
+539	deceitfulness 	3
+539	deceitful 	1
+539	deceit 	1
+539	deceivableness 	1
+539	deceivings 	1
+540	without father 	1
+541	brightness 	1
+542	see 	1
+543	unbelief 	4
+543	disobedient 	3
+544	believe not 	8
+544	disobedient 	4
+544	obey not 	3
+544	unbelieving 	1
+545	disobedient 	6
+546	threaten 	2
+547	threatening 	3
+547	straitly 	1
+548	be absent 	6
+548	absent 	1
+549	go 	1
+550	renounce 	1
+551	cannot be tempted 	1
+552	unskilful 	1
+553	wait for 	5
+553	look for 	2
+554	spoil 	1
+554	put off 	1
+555	putting off 	1
+556	drive 	1
+557	nought 	1
+558	freeman 	1
+559	Apelles 	1
+560	hope for again 	1
+561	over against 	2
+561	before 	2
+561	in the presence of 	1
+561	contrary 	1
+562	endless 	1
+563	without distraction 	1
+564	uncircumcised 	1
+565	go 	53
+565	depart 	27
+565	go (one's) way 	16
+565	go away 	14
+565	come 	4
+565	miscellaneous 	6
+566	be enough 	1
+567	abstain 	6
+568	be 	5
+568	have 	4
+568	receive 	2
+569	believe not 	7
+570	unbelief 	12
+571	that believe not 	6
+571	unbelieving 	5
+571	faithless 	4
+571	unbeliever 	4
+571	infidel 	2
+571	thing incredible 	1
+571	which believe not 	1
+572	simplicity 	3
+572	singleness 	2
+572	liberality 	1
+572	bountifulness 	1
+572	liberty 	1
+573	single 	2
+574	liberal 	1
+575	from 	393
+575	of 	129
+575	out of 	48
+575	for 	10
+575	off 	10
+575	by 	9
+575	at 	9
+575	in 	6
+575	since 	5
+575	on 	5
+575	not tr. 	16
+575	misc. 	31
+576	turn 	2
+576	go out 	1
+576	come 	1
+577	cast away 	2
+578	have respect 	1
+579	be refused 	1
+580	loss 	1
+580	casting away 	1
+581	being dead 	1
+582	taxing 	2
+583	tax 	3
+583	write 	1
+584	approve 	1
+584	prove 	1
+584	set forth 	1
+584	show 	1
+585	demonstration 	1
+586	pay tithe 	1
+586	tithe 	1
+586	give tithe 	1
+586	take tithe 	1
+587	acceptable 	2
+588	receive 	3
+588	receive gladly 	2
+588	accept 	1
+589	go into a far country 	3
+589	take (one's) journey 	2
+589	travel into a far country 	1
+590	taking a far journey 	1
+591	pay 	9
+591	give 	9
+591	render 	9
+591	reward 	7
+591	sell 	3
+591	yield 	2
+591	miscellaneous 	9
+592	separate (one's) self 	1
+593	reject 	7
+593	disallow 	2
+594	acceptation 	2
+595	putting away 	1
+595	must put off 	1
+596	barn 	4
+596	garner 	2
+597	lay in store 	1
+598	press 	1
+599	die 	98
+599	be dead 	29
+599	be at the point of death 	1
+599	perish 	1
+599	lie a dying 	1
+599	be slain	1
+599	vr dead 	1
+600	restore 	7
+600	restore again 	1
+601	reveal 	26
+602	revelation 	12
+602	be revealed 	2
+602	to lighten 	1
+602	manifestation 	1
+602	coming 	1
+602	appearing 	1
+603	earnest expectation 	2
+604	reconcile 	3
+605	restitution 	1
+606	lay up 	3
+606	appoint 	1
+607	behead 	4
+608	shut up 	1
+609	cut off 	6
+610	sentence 	1
+611	answer 	250
+612	answer 	4
+613	hide 	6
+614	hid 	2
+614	kept secret 	1
+615	kill 	55
+615	slay 	14
+615	put to death 	6
+616	bring forth 	1
+616	begat 	1
+617	roll away 	3
+617	roll back 	1
+618	receive 	10
+618	take aside 	1
+618	receive ... again 	1
+619	to enjoy	
+619	enjoy the pleasures	1
+620	leave 	3
+620	remain 	3
+621	lick 	1
+622	perish 	33
+622	destroy 	26
+622	lose 	22
+622	be lost 	5
+622	lost 	4
+622	miscellaneous 	2
+623	Apollyon 	1
+624	Apollonia 	1
+625	Apollos 	10
+626	answer 	3
+626	answer for (one's) self 	3
+626	make defence 	1
+626	excuse 	1
+626	excuse (one's) self 	1
+626	speak for (one's) self 	1
+627	defence 	3
+627	answer 	3
+627	answer for (one's) self 	1
+627	clearing of (one's) self 	1
+628	wash away 	1
+628	wash 	1
+629	redemption 	9
+629	deliverance 	1
+630	release 	17
+630	put away 	14
+630	send away 	13
+630	let go 	13
+630	set at liberty 	2
+630	let depart 	2
+630	dismiss 	2
+630	miscellaneous 	6
+631	wipe off 	1
+632	give 	1
+633	wash 	1
+634	fall 	1
+635	seduce 	1
+635	err 	1
+636	sail 	4
+637	wash 	1
+638	choke 	3
+639	doubt 	2
+639	be perplexed 	1
+639	stand in doubt 	1
+640	perplexity 	1
+641	cast (one's) self 	1
+642	take 	1
+643	take up (one's) carriages 	1
+644	shadow 	1
+645	draw 	1
+645	withdraw 	1
+645	draw away 	1
+645	be gotten 	1
+646	to forsake 	1
+646	falling away 	1
+647	divorcement 	2
+647	writing of divorcement 	1
+648	uncover 	1
+649	send 	110
+649	send forth 	15
+649	send away 	4
+649	send out 	2
+649	miscellaneous 	2
+650	defraud 	4
+650	destitute 	1
+650	keep back by fraud 	1
+651	apostleship 	4
+652	apostle 	78
+652	messenger 	2
+652	he that is sent 	1
+653	provoke to speak 	1
+654	turn away 	4
+654	turn away from 	2
+654	put up again 	1
+654	turn from 	1
+654	bring again 	1
+654	pervert 	1
+655	abhor 	1
+656	be put out of the synagogue 	2
+656	put out of the synagogue	1
+657	bid farewell 	2
+657	take leave 	2
+657	send away 	1
+657	forsake 	1
+658	finish 	1
+659	put off 	2
+659	lay aside 	2
+659	lay down 	1
+659	cast off 	1
+659	put away 	1
+659	lay apart 	1
+660	shake off 	2
+661	repay 	1
+662	be very bold 	1
+663	severity 	2
+664	sharpness 	1
+664	sharply 	1
+665	turn away 	1
+666	absence 	1
+667	carry away 	3
+667	carry 	1
+667	bring 	1
+668	escape 	2
+668	escape from 	1
+669	utterance 	1
+669	speak forth 	1
+669	say 	1
+670	unlade 	1
+671	using 	1
+672	depart 	3
+673	depart asunder 	1
+673	depart 	1
+674	heart failing 	1
+675	Appii 	1
+676	which no man can approach unto 1 	
+677	void of offense 	1
+677	none offence 	1
+677	without offence 	1
+678	without respect of persons 	1
+679	keep from falling 	1
+680	touch 	36
+681	light 	3
+681	kindle 	1
+682	Apphia 	1
+683	cast away 	2
+683	thrust away 	1
+683	put from 	1
+683	thrust from 	1
+683	put away 	1
+684	perdition 	8
+684	destruction 	5
+684	waste 	2
+684	damnable 	1
+684	to die 	1
+684	perish	1
+684	pernicious 	1
+685	cursing 	1
+686	therefore 	7
+686	so then	4
+686	now therefore	1
+686	then	2
+686	wherefore	1
+686	haply	1
+686	not translated 	7
+686	miscellaneous 	7
+687	therefore 	1
+687	not translated 	2
+688	Arabia 	2
+689	Aram 	3
+690	Arabians 	1
+691	linger 	1
+692	idle 	6
+692	slow 	1
+692	barren 	1
+693	silver 	2
+693	of silver 	1
+694	money 	11
+694	piece of silver 	5
+694	silver 	3
+694	silver piece 	1
+695	silversmith 	1
+696	silver 	5
+697	Areopagus 	1
+697	Mars Hill 	1
+698	Areopagite 	1
+699	pleasing 	1
+700	please 	17
+701	those things that please 	1
+701	reason 	1
+701	please 	1
+701	those things that are pleasing 	1
+702	Aretas 	1
+703	virtue 	4
+703	praise 	1
+704	lamb 	1
+705	number 	3
+706	number 	18
+707	Arimathaea 	4
+708	Aristarchus 	5
+709	dine 	3
+710	left hand 	1
+710	left 	1
+710	on the left 	1
+711	Aristobulus 	1
+712	dinner 	3
+713	sufficient 	1
+713	enough 	1
+713	suffice 	1
+714	be content 	3
+714	be sufficient 	2
+714	be enough 	1
+714	suffice 	1
+714	content 	1
+715	bear 	1
+716	chariot 	4
+717	Armageddon 	1
+718	espouse 	1
+719	joint 	1
+720	deny 	29
+720	refuse 	2
+721	Lamb i.e. Christ 	28
+721	lamb 	2
+722	plow 	3
+723	plough 	1
+724	extortion 	1
+724	ravening 	1
+724	spoiling 	1
+725	robbery 	1
+726	catch up 	4
+726	take by force 	3
+726	catch away 	2
+726	pluck 	2
+726	catch 	1
+726	pull 	1
+727	extortioner 	4
+727	ravening 	1
+728	earnest 	3
+729	without seam 	1
+730	male 	4
+730	man 	3
+730	man child 	1
+730	man child 	1
+731	unspeakable 	1
+732	sick 	2
+732	sick folk 	1
+732	be sick 	1
+732	sickly 	1
+733	abuser of (one's) self with mankind 	1
+733	defile (one's) self with mankind 	1
+734	Artemas 	1
+735	Diana 	5
+736	mainsail 	1
+737	now 	24
+737	henceforth 	2
+737	hereafter + (575) 	2
+737	this present 	2
+737	hitherto + (2193) 	2
+737	miscellaneous 	4
+738	newborn 	1
+739	perfect 	1
+740	bread 	72
+740	loaf 	23
+740	shewbread	4
+741	season 	3
+742	Arphaxad 	1
+743	archangel 	2
+744	old 	8
+744	of old time 	3
+744	a good while ago	1
+745	Archelaus 	1
+746	beginning 	40
+746	principality 	8
+746	corner 	2
+746	first 	2
+746	miscellaneous 	6
+747	prince 	2
+747	captain 	1
+747	author 	1
+748	of the high priest 	1
+749	chief priest 	64
+749	high priest 	58
+749	chief of the priest 	1
+750	chief shepherd 	1
+751	Archippus 	2
+752	ruler of the synagogue 	7
+752	chief ruler of the synagogue 	2
+753	masterbuilder 	1
+754	chief among the publicans 	1
+755	governor of the feast 	2
+755	ruler of the feast 	1
+756	begin 	83
+756	rehearse from the beginning 	1
+757	rule over 	1
+757	reign over 	1
+758	ruler 	22
+758	prince 	11
+758	chief 	2
+758	magistrate 	1
+758	chief ruler 	1
+759	spices 	3
+759	sweet spices 	1
+760	Asa 	2
+761	unmoveable 	1
+761	which cannot be moved 	1
+762	unquenchable 	2
+762	never shall be quenched 	2
+763	ungodliness 	4
+763	ungodly 	2
+764	live ungodly 	1
+764	commit ungodly 	1
+765	ungodly 	8
+765	ungodly men 	1
+766	lasciviousness 	6
+766	wantonness 	2
+766	filthy 	1
+767	mean 	1
+768	Aser 	2
+769	infirmity 	17
+769	weakness 	5
+769	disease 	1
+769	sickness 	1
+769	sickness 	1
+770	be weak 	12
+770	be sick 	10
+770	sick 	7
+770	weak 	3
+770	impotent man 	1
+770	be diseased 	1
+770	be made weak 	1
+771	infirmity 	1
+772	weak 	12
+772	sick 	6
+772	weakness 	2
+772	weaker 	1
+772	weak things 	1
+772	impotent 	1
+772	more feeble 	1
+772	without strength 	1
+773	Asia 	19
+774	of Asia 	1
+775	chief of Asia 	1
+776	abstinence 	1
+777	fasting 	1
+778	exercise 	1
+779	bottle 	12
+780	gladly 	2
+781	fool 	1
+782	salute 	42
+782	greet 	15
+782	embrace 	2
+782	take leave 	1
+783	salutation 	7
+783	greeting 	3
+784	without spot 	3
+784	unspotted 1 	
+785	asp 	1
+786	implacable 	1
+786	trucebreakers 	1
+787	farthing 	2
+788	close 	1
+789	Assos 	2
+790	have no certain dwelling place 	1
+791	fair 	1
+791	proper 	1
+792	star 	24
+793	unstable 	2
+794	without natural affection 	2
+795	err 	2
+795	swerve 	1
+796	lightning 	8
+796	light shining 	1
+797	lighten 	1
+797	shine 	1
+798	star 	4
+799	Asyncritus 	1
+800	agreed not 	1
+801	without understanding 	3
+801	foolish 	2
+802	covenant breaker 	1
+803	safety 	2
+803	certainty 	1
+804	certainty 	2
+804	certain 	1
+804	safe 	1
+804	sure 	1
+805	make sure 	3
+805	make fast 	1
+806	safely 	2
+806	assuredly 	1
+807	behave (one's) self uncomely 	1
+807	behave (one's) self unseemly 	1
+808	that which is unseemly 	1
+808	shame 	1
+809	uncomely 	1
+810	riot 	2
+810	excess 	1
+811	riotous 	1
+812	behave (one's) self disorderly 	1
+813	unruly 	1
+814	disorderly 	2
+815	without children 	2
+815	childless 	1
+816	look steadfastly 	2
+816	behold steadfastly 	2
+816	fasten (one's) eyes 	2
+816	look earnestly on 	1
+816	look earnestly upon 	1
+816	look up steadfastly 	1
+816	behold earnestly 	1
+816	miscellaneous 	4
+817	in the absence of 	1
+817	without 	1
+818	dishonour 	3
+818	entreat shamefully 	1
+818	suffer shame 	1
+818	despise 	1
+819	dishonour 	4
+819	vile 	1
+819	shame 	1
+819	reproach 	1
+820	without honour 	2
+820	despised 	1
+820	less honourable 	1
+821	handle shamefully 	1
+822	vapour 	2
+823	moment 	1
+824	amiss 	1
+824	harm 	1
+824	unreasonable 	1
+825	Attalia 	1
+826	shine 	1
+827	break of day 	1
+828	Augustus 	1
+829	self-willed 	2
+830	willing of (one's) self 	2
+831	usurp authority over 	1
+832	pipe 	3
+833	palace 	7
+833	hall 	2
+833	sheepfold 	1
+833	fold 	1
+833	court 	1
+834	minstrel 	1
+834	piper 	1
+835	lodge 	1
+835	abide 	1
+836	pipe 	1
+837	grow 	12
+837	increase 	7
+837	give the increase 	2
+837	grow up 	1
+838	increase 	2
+839	to morrow 	9
+839	morrow 	5
+839	next day 	1
+840	austere 	2
+841	sufficiency 	1
+841	contentment 	1
+842	content 	1
+843	condemned 	1
+844	of (one's) self 	1
+844	of (one's) own accord 	1
+845	eyewitness 	1
+846	him 	1947
+846	them 	1148
+846	her 	195
+846	it 	152
+846	not tr. 	36
+846	miscellaneous 	1676
+847	there 	3
+847	here 	1
+848	himself 	3
+848	themself 	1
+848	them 	1
+849	with (one's) own hands 	1
+850	dark 	1
+851	take away 	7
+851	cut off 	2
+851	smite off 	1
+852	that is not manifest 	1
+853	corrupt 	2
+853	disfigure 	1
+853	perish 	1
+853	vanish away 	1
+854	vanish away 	1
+855	vanish out of sight 	1
+856	draught 	2
+857	neglecting 	1
+858	singleness 	1
+859	remission 	9
+859	forgiveness 	6
+859	deliverance 	1
+859	liberty 	1
+860	joint 	2
+861	incorruption 	4
+861	immortality 	2
+861	sincerity 	2
+862	incorruptible 	4
+862	uncorruptible 	1
+862	immortal 	1
+862	not corruptible 	1
+863	leave 	52
+863	forgive 	47
+863	suffer 	14
+863	let 	8
+863	forsake 	6
+863	let alone 	6
+863	miscellaneous 	13
+864	come abroad 	1
+865	despiser of those that are good 	1
+866	not covetous 	1
+866	without covetousness 	1
+867	departing 	1
+868	depart 	10
+868	draw away 	1
+868	fall away 	1
+868	refrain 	1
+868	withdraw self 	1
+868	depart from 	1
+869	suddenly 	3
+870	without fear 	4
+871	make like 	1
+872	look 	1
+873	separate 	8
+873	divide 	1
+873	sever 	1
+874	occasion 	7
+875	foam 	2
+876	the (one) foameth again 	1
+877	foolishly 	2
+877	foolishness 	1
+877	folly 	1
+878	fool 	8
+878	foolish 	2
+878	unwise 	1
+879	fall asleep 	1
+880	dumb 	3
+880	without signification 	1
+881	Achaz 	2
+882	Achaia 	11
+883	Achaicus 	2
+884	unthankful 	2
+885	Achim 	2
+886	made without hands 	2
+886	not made with hands 	1
+887	mist 	1
+888	unprofitable 	2
+889	become unprofitable 	1
+890	unprofitable 	1
+891	until 	14
+891	unto 	13
+891	till 	3
+891	till + (3739) + version=kjv (302) 	3
+891	until + (3739) 	2
+891	while + (3739) 	2
+891	even to 	2
+891	miscellaneous 	7
+892	chaff 	2
+893		1
+894	wormwood 	2
+895	without life 	1
+896	Baal 	1
+897	Babylon 	12
+898	degree 	1
+899	depth 	5
+899	deep 	1
+899	deep 	1
+899	deepness 	1
+899	deep thing 	1
+900	dig deep 	1
+901	deep 	2
+901	very early in the morning 	1
+902	branch 	1
+903	Balaam 	3
+904	Balac 	1
+905	purse 	3
+905	bag 	1
+906	cast 	86
+906	put 	13
+906	thrust 	5
+906	cast out 	4
+906	lay 	3
+906	lie 	2
+906	miscellaneous 	12
+907	baptize 	76
+907	wash 	2
+907	baptist 	1
+907	baptized 	1
+908	baptism 	22
+909	washing 	3
+909	baptism 	1
+910	Baptist 	14
+911	dip 	3
+912	Barabbas 	11
+913	Barak 	1
+914	Barachias 	1
+915	barbarian 	5
+915	barbarous 	1
+916	be heavy 	3
+916	be pressed 	1
+916	be burdened 	1
+916	be charged 	1
+917	dully 	2
+918	Bartholomew 	4
+919	Barjesus 	1
+920	Barjona 	1
+921	Barnabas 	29
+922	burden 	4
+922	burdensome 	1
+922	weight 	1
+923	Joseph 	1
+923	Judas 	1
+924	Bartimaeus 	1
+925	be overcharged 	1
+926	grievous 	3
+926	heavy 	1
+926	weighty 	1
+926	weighter 	1
+927	very precious 	1
+928	torment 	8
+928	pain 	1
+928	toss 	1
+928	vex 	1
+928	toil 	1
+929	torment 	6
+930	tormentor 	1
+931	torment 	3
+932	kingdom (of God) 	71
+932	kingdom (of heaven) 	32
+932	kingdom (general or evil) 	20
+932	(Thy or Thine) kingdom 	6
+932	His kingdom 	6
+932	the kingdom 	5
+932	(My) kingdom 	4
+932	miscellaneous 	18
+933	king's court 	1
+934	royal 	1
+935	king 	82
+935	King (of Jews) 	21
+935	King (God or Christ) 	11
+935	King (of Israel) 	4
+936	reign 	20
+936	king 	1
+936	king 	1
+937	nobleman 	2
+937	royal 	2
+937	king's country 	1
+938	queen 	4
+939	foot (sole of) 	1
+940	bewitch 	1
+941	bear 	23
+941	carry 	3
+941	take up 	1
+942	bush 	4
+942	bramble bush 	1
+943	measure 	1
+944	frog 	1
+945	use vain repetitions 	1
+946	abomination 	6
+947	abominable 	1
+948	abhor 	1
+948	abominable 	1
+949	stedfast 	4
+949	sure 	2
+949	firm 	1
+949	of force 	1
+949	more sure 	1
+950	confirm 	5
+950	establish 	2
+950	stablish 	1
+950	stablish 	1
+951	confirmation 	2
+952	profane 	4
+952	profane person 	1
+953	profane 	2
+954	Beelzebub 	7
+955	Belial 	1
+956	dart 	1
+957	very well 	1
+958	Benjamin 	4
+959	Bernice 	3
+960	Berea 	2
+961	of Berea 	1
+962	Bethabara 	1
+963	Bethany 	11
+964	Bethesda 	1
+965	Bethlehem 	8
+966	Bethsaida 	7
+967	Bethphage 	3
+968	judgment seat 	10
+968	throne 	1
+968	to set (one's) foot on 	1
+969	beryl 	1
+970	violence 	4
+971	suffer violence 	1
+971	press 	1
+972	mighty 	1
+973	violent 	1
+974	little book 	4
+975	book 	29
+975	bill 	1
+975	scroll 	1
+975	writing 	1
+976	book 	13
+977	eat 	1
+978	Bithynia 	2
+979	life 	5
+979	living 	5
+979	good 	1
+980	live 	1
+981	manner of life 	1
+982	things pertaining to this life 	1
+982	things that pertain to this life 	1
+982	of this life 	1
+983	hurtful 	1
+984	hurt 	2
+985	spring up 	2
+985	bud 	1
+985	bring forth 	1
+986	Blastus 	1
+987	blaspheme 	17
+987	speak evil of 	10
+987	rail on 	2
+987	blasphemer 	1
+987	speak blasphemy 	1
+987	blasphemously 	1
+987	miscellaneous 	3
+988	blasphemy 	16
+988	railing 	2
+988	evil speaking 	1
+989	blasphemous 	2
+989	blasphemer 	2
+989	railing 	1
+990	seeing 	1
+991	see 	90
+991	take heed 	12
+991	behold 	10
+991	beware 	4
+991	look on 	4
+991	look 	3
+991	beware of 	3
+991	miscellaneous 	9
+992	must be put 	2
+993	Boanerges 	1
+994	cry 	11
+995	cry 	1
+996	help 	2
+997	help 	6
+997	succour 	2
+998	helper 	1
+999	ditch 	2
+1000	cast 	1
+1001	sound 	2
+1002	dart 	1
+1003	Booz 	3
+1004	mire 	1
+1005	north 	2
+1006	feed 	8
+1006	keep 	1
+1007	Bosor 	1
+1008	herb 	1
+1009	cluster of the vine 	1
+1010	counsellor 	2
+1011	consult 	2
+1011	be minded 	2
+1011	purpose 	2
+1011	determine 	1
+1011	take counsel 	1
+1012	counsel 	10
+1012	will 	1
+1012	advise 	1
+1013	purpose 	1
+1013	will 	1
+1014	will 	15
+1014	would 	11
+1014	be minded 	2
+1014	intend 	2
+1014	be disposed 	1
+1014	be willing 	1
+1014	list 	1
+1014	of his own will 	1
+1015	hill 	2
+1016	ox 	8
+1017	prize 	2
+1018	rule 	1
+1019	tarry 	1
+1019	be slack 	1
+1020	sail slowly 	1
+1021	slow 	3
+1022	slackness 	1
+1023	arm 	3
+1024	a little 	4
+1024	a little space 	1
+1024	a little while 	1
+1024	few words 	1
+1025	babe 	5
+1025	child 	1
+1025	infant 	1
+1025	young child 	1
+1026	rain 	3
+1026	wash 	2
+1026	rain 	1
+1027	thunder 	8
+1027	thundering 	4
+1028	rain 	2
+1029	snare 	1
+1030	gnashing 	7
+1031	gnash 	1
+1032	send forth 	1
+1033	meat 	16
+1033	victual 	1
+1034	meat 	1
+1035	meat 	6
+1035	rust 	2
+1035	morsel of meat 	1
+1035	eating 	1
+1035	food 	1
+1036	begin to sink 	1
+1036	drown 	1
+1037	deep 	1
+1038	tanner 	3
+1039	fine linen 	4
+1040	fine linen 	2
+1041	altar 	1
+1042	Gabbatha 	1
+1043	Gabriel 	2
+1044	canker 	1
+1045	Gad 	1
+1046	Gadarenes 	3
+1047	treasure 	1
+1048	Gaza 	1
+1049	treasury 	5
+1050	Gaius (of Corinth) 	2
+1050	Gaius (of Macedonia) 	1
+1050	Gaius (of Derbe) 	1
+1050	Gaius (a Christian) 	1
+1051	milk 	5
+1052	Galatians 	2
+1053	Galatia 	4
+1054	of Galatia 	2
+1055	calm 	3
+1056	Galilee 	63
+1057	Galilaean 	8
+1057	of Galilee 	3
+1058	Gallio 	3
+1059	Gamaliel 	2
+1060	marry 	24
+1060	married 	3
+1060	marry a wife 	2
+1060	marry a wife 	2
+1061	give in marriage 	1
+1062	marriage 	9
+1062	wedding 	7
+1063	for 	1027
+1063	miscellaneous 	28
+1063	not translated 	12
+1064	be with child + (1722) + version=kjv (2192) 	5
+1064	with child + (1722) + (2192) 	2
+1064	womb 	1
+1064	belly 	1
+1065	yet 	2
+1065	at least 	1
+1065	beside 	1
+1065	doubtless 	1
+1065	not translated 	4
+1066	Gedeon 	1
+1067	hell 	9
+1067	hell fire + (3588) + version=kjv (4442) 	3
+1068	Gethsemane 	2
+1069	neighbour 	4
+1070	laugh 	2
+1071	laughter 	1
+1072	fill 	7
+1072	be full 	1
+1072	fill ... fill 	1
+1073	full 	8
+1073	be full 	3
+1074	generation 	37
+1074	time 	2
+1074	age 	2
+1074	nation 	1
+1075	count (one's) descent 	1
+1076	genealogy 	2
+1077	birthday 	2
+1078	generation 	1
+1078	natural 	1
+1078	nature 	1
+1079	birth 	1
+1080	begat 	49
+1080	be born 	39
+1080	bear 	2
+1080	gender 	2
+1080	bring forth 	1
+1080	be delivered 	1
+1080	miscellaneous 	3
+1081	fruit 	5
+1081	generation 	4
+1082	Gennesaret 	3
+1083	birth 	2
+1084	that is born 	2
+1085	kind 	5
+1085	kindred 	3
+1085	offspring 	3
+1085	nation 	2
+1085	stock 	2
+1085	born 	2
+1085	diversity 	1
+1085	misc. 	3
+1086	Gergesenes 	1
+1087	senate 	1
+1088	old 	1
+1089	taste 	12
+1089	eat 	3
+1090	dress 	1
+1091	husbandry 	1
+1092	husbandman 	19
+1093	earth 	188
+1093	land 	42
+1093	ground 	18
+1093	country 	2
+1093	world 	1
+1093	earthly + (1537) + version=kjv (3588) 	1
+1094	old age 	1
+1095	be old 	1
+1095	wax old 	1
+1096	be 	255
+1096	come to pass 	82
+1096	be made 	69
+1096	be done 	63
+1096	come 	52
+1096	become 	47
+1096	God forbid 	15
+1096	arise 	13
+1096	have 	5
+1096	be fulfilled 	3
+1096	be married to 	3
+1096	be preferred 	3
+1096	not translated 	14
+1096	miscellaneous 	4
+1096	vr done 	2
+1097	know 	196
+1097	perceive 	9
+1097	understand 	8
+1097	miscellaneous 	10
+1098	new wine 	1
+1099	sweet 	3
+1099	fresh 	1
+1100	tongue 	50
+1101	bag 	2
+1102	fuller 	1
+1103	own 	2
+1103	sincerely 	1
+1103	true 	1
+1104	naturally 	1
+1105	blackness 	1
+1106	judgment 	3
+1106	mind 	2
+1106	purpose 	1
+1106	advice 	1
+1106	will 	1
+1106	agree + (4160) + (3391) 	1
+1107	make known 	16
+1107	declare 	4
+1107	certify 	1
+1107	give to understand 	1
+1107	do to wit 	1
+1107	wot 	1
+1108	knowledge 	28
+1108	science 	1
+1109	expert 	1
+1110	known 	12
+1110	acquaintance 	2
+1110	notable 	1
+1111	murmur 	8
+1112	murmuring 	3
+1112	grudging 	1
+1113	murmurer 	1
+1114	seducer 	1
+1115	Golgotha 	3
+1116	Gomorrha 	5
+1117	merchandise 	2
+1117	burden 	1
+1118	parents 	19
+1119	knee 	7
+1119	kneel + (5087) + version=kjv (3588) 	5
+1120	kneel down to 	2
+1120	bow the knee 	1
+1120	kneel to 	1
+1121	letter 	9
+1121	bill 	2
+1121	writing 	1
+1121	learning 	1
+1121	scripture 	1
+1121	written 	1
+1122	scribe 	66
+1122	townclerk 	1
+1123	written 	1
+1124	scripture 	51
+1125	write 	206
+1125	writing 	1
+1125	describe 	1
+1125	vr write 	1
+1126	old wife 	1
+1127	watch 	21
+1127	wake 	1
+1127	be vigilant 	1
+1128	exercise 	4
+1129	exercise 	1
+1130	be naked 	1
+1131	naked 	14
+1131	bare 	1
+1132	nakedness 	3
+1133	silly woman 	1
+1134	wife 	1
+1135	women 	129
+1135	wife 	92
+1136	Gog 	1
+1137	corner 	8
+1137	quarter 	1
+1137	quarter 	1
+1138	David 	59
+1139	possessed with devils 	4
+1139	possessed with the devil 	3
+1139	of the devils 	2
+1139	vexed with a devil 	1
+1139	possessed with a devil 	1
+1139	have a devil 	1
+1140	devil 	59
+1140	god 	1
+1141	devilish 	1
+1142	devils 	4
+1142	devil 	1
+1143	bite 	1
+1144	tear 	11
+1145	weep 	1
+1146	ring 	1
+1147	finger 	8
+1148	Dalmanutha 	1
+1149	Dalmatia 	1
+1150	tame 	4
+1151	heifer 	1
+1152	Damaris 	1
+1153	Damascenes 	1
+1154	Damascus 	15
+1155	lend 	3
+1155	borrow 	1
+1156	debt 	1
+1157	creditor 	1
+1158	Daniel 	2
+1159	spend 	3
+1159	be at charges with 	1
+1159	consume 	1
+1160	cost 	1
+1161	but 	1237
+1161	and 	934
+1161	now 	166
+1161	then 	132
+1161	also 	18
+1161	yet 	16
+1161	yea 	13
+1161	so 	13
+1161	moreover 	13
+1161	nevertheless 	11
+1161	for 	4
+1161	even 	3
+1161	miscellaneous 	10
+1161	not translated 	300
+1162	prayer 	12
+1162	supplication 	6
+1162	request 	1
+1163	must 	58
+1163	ought 	31
+1163	must needs 	5
+1163	should 	4
+1163	miscellaneous 	7
+1163	vr ought 	1
+1164	example 	1
+1165	make a show 	1
+1166	show 	31
+1167	fear 	1
+1168	be afraid 	1
+1169	fearful 	3
+1170	such a man 	1
+1171	grievously 	1
+1171	vehemently 	1
+1172	sup 	3
+1172	supper 	1
+1173	supper 	13
+1173	feast 	3
+1174	too superstitious 	1
+1175	superstition 	1
+1176	ten 	24
+1176	eighteen + (2532) + version=kjv (3638) 	3
+1177	twelve 	2
+1178	fifteen 	3
+1179	Decapolis 	3
+1180	fourteen 	5
+1181	tithe 	2
+1181	tenth part 	1
+1181	tenth 	1
+1182	tenth 	3
+1183	receive tithes 	1
+1183	pay tithes 	1
+1184	accepted 	3
+1184	acceptable 	2
+1185	entice 	1
+1185	beguile 	1
+1185	allure 	1
+1186	tree 	26
+1187	spearmen 	1
+1188	right hand 	39
+1188	right 	12
+1188	right side 	2
+1189	pray 	12
+1189	beseech 	9
+1189	make request 	1
+1190	of Derbe 	1
+1191	Derbe 	3
+1192	skin 	1
+1193	leathern 	1
+1193	of a skin 	1
+1194	beat 	12
+1194	smite 	3
+1195	bind 	2
+1196	bind 	1
+1197	bundle 	1
+1198	prisoner 	14
+1198	be in bonds 	1
+1198	in bonds 	1
+1199	bond 	15
+1199	band 	3
+1199	string 	1
+1199	chain 	1
+1200	keeper of the prison 	2
+1200	jailor 	1
+1201	prison 	4
+1202	prisoner 	2
+1203	Lord 	5
+1203	master 	5
+1204	come 	6
+1204	come hither 	2
+1204	hitherto + (891) + version=kjv (3588) 	1
+1205	come 	12
+1205	follow 	1
+1206	next day 	1
+1207	second after the first 	1
+1208	second 	34
+1208	the second time 	4
+1208	again + (1537) 	2
+1208	again 	1
+1208	secondarily 	1
+1208	afterward 	1
+1209	receive 	52
+1209	take 	4
+1209	accept 	2
+1209	take up 	1
+1210	bind 	37
+1210	tie 	4
+1210	knit 	1
+1210	be in bonds 	1
+1210	wind 	1
+1211	also 	1
+1211	now 	1
+1211	and 	1
+1211	therefore 	1
+1211	doubtless 	1
+1211	not translated 	1
+1212	bewray 	1
+1212	manifest 	1
+1212	evident 	1
+1212	certain 	1
+1213	declare 	3
+1213	signify 	3
+1213	show 	1
+1214	Demas 	3
+1215	make an oration 	1
+1216	Demetrius 	3
+1217	maker 	1
+1218	people 	4
+1219	common 	1
+1219	openly 	1
+1219	publicly 	2
+1220	penny 	9
+1220	pence 	5
+1220	pennyworth 	2
+1221	whatsoever 	1
+1222	verily 	1
+1223	by 	241
+1223	through 	88
+1223	with 	16
+1223	for 	58
+1223	for ... sake 	47
+1223	therefore 	44
+1223	for this cause + (5124) 	14
+1223	because 	52
+1223	miscellaneous 	86
+1224	pass 	1
+1224	come over 	1
+1224	pass through 	1
+1225	accuse 	1
+1226	affirm 	1
+1226	affirm constantly 	1
+1227	see clearly 	2
+1228	devil 	35
+1228	false accuser 	2
+1228	slanderer 	1
+1229	preach 	1
+1229	signify 	1
+1229	declare 	1
+1230	be past 	1
+1230	after 	1
+1230	be spent 	1
+1231	enquire 	1
+1231	know the uttermost 	1
+1232	make known abroad 	1
+1233	hearing 	1
+1234	murmur 	2
+1235	be awake 	1
+1236	lead a life 	1
+1236	living 	1
+1237	come after 	1
+1238	crown 	3
+1239	distribute 	2
+1239	make distribution 	1
+1239	divide 	1
+1239	give 	1
+1240	come into (one's) room 	1
+1241	gird 	3
+1242	covenant 	20
+1242	testament 	13
+1243	diversity 	2
+1243	difference 	1
+1243	difference 	1
+1244	divide 	2
+1245	throughly purged 	2
+1246	convince 	1
+1247	minister unto 	15
+1247	serve 	10
+1247	minister 	7
+1247	miscellaneous 	5
+1248	ministry 	16
+1248	ministration 	6
+1248	ministering 	3
+1248	miscellaneous 	9
+1249	minister 	20
+1249	servant 	8
+1249	deacon 	3
+1250	two hundred 	8
+1251	hear 	1
+1252	doubt 	5
+1252	judge 	3
+1252	discern 	2
+1252	contend 	2
+1252	waver 	2
+1252	miscellaneous 	5
+1253	discerning 	1
+1253	discern 	1
+1253	disputation 	1
+1254	forbid 	1
+1255	noise abroad 	1
+1255	commune 	1
+1256	dispute 	6
+1256	reason with 	2
+1256	reason 	2
+1256	preach unto 	1
+1256	preach 	1
+1256	speak 	1
+1257	cease 	1
+1258	tongue 	5
+1258	language 	1
+1259	reconcile 	1
+1260	reason 	11
+1260	dispute 	1
+1260	cast in the mind 	1
+1260	muse 	1
+1260	think 	1
+1260	consider 	1
+1261	thought 	9
+1261	reasoning 	1
+1261	imagination 	1
+1261	doubtful 	1
+1261	disputing 	1
+1261	doubting 	1
+1262	scatter 	1
+1263	testify 	11
+1263	charge 	3
+1263	witness 	1
+1264	strive 	1
+1265	continue 	3
+1265	remain 	2
+1266	part 	6
+1266	divide 	5
+1266	cloven 	1
+1267	division 	1
+1268	spread 	1
+1269	beckoned 	1
+1270	thought 	1
+1271	mind 	9
+1271	understanding 	3
+1271	imagination 	1
+1272	open 	8
+1273	continued all night 	1
+1274	finish 	1
+1275	always 	5
+1275	continually 	2
+1276	pass over 	3
+1276	go over 	1
+1276	pass 	1
+1276	sail over 	1
+1277	sail over 	1
+1278	grieve 	2
+1279	go through 	3
+1279	pass by 	1
+1279	in (one's) journey 	1
+1280	doubt 	2
+1280	be perplexed 	1
+1280	be much perplexed 	1
+1280	be in doubt 	1
+1281	gain by trading 	1
+1282	be cut to the heart 	1
+1282	be cut 	1
+1283	spoil 	4
+1284	rend 	3
+1284	break 	2
+1285	tell unto 	1
+1286	do violence to 	1
+1287	straw 	2
+1287	scatter abroad 	2
+1287	scatter 	2
+1287	waste 	2
+1287	disperse 	1
+1288	pluck asunder 	1
+1288	pull in pieces 	1
+1289	scatter abroad 	3
+1290	dispersed 	1
+1290	scatter abroad 	1
+1290	scattered 	1
+1291	charge 	6
+1291	give commandment 	1
+1291	be commanded 	1
+1292	space 	1
+1293	difference 	2
+1293	distinction 	1
+1294	perverse 	4
+1294	pervert 	2
+1294	turn away 	1
+1295	escape 	2
+1295	save 	2
+1295	make perfectly whole 	1
+1295	escape safe 	1
+1295	bring safe 	1
+1295	heal 	1
+1296	disposition 	1
+1296	ordinance 	1
+1297	commandment 	1
+1298	trouble 	1
+1299	command 	7
+1299	appoint 	4
+1299	ordain 	3
+1299	set in order 	1
+1299	give order 	1
+1300	continue 	1
+1301	keep 	2
+1302	why 	23
+1302	wherefore 	4
+1303	make 	3
+1303	testator 	2
+1303	appoint 	2
+1304	abide 	5
+1304	tarry 	2
+1304	continue 	2
+1304	be 	1
+1305	food 	1
+1306	dawn 	1
+1307	transparent 	1
+1308	be better 	3
+1308	be of more value 	2
+1308	differ from 	2
+1308	should carry 	1
+1308	publish 	1
+1308	drive up and down 	1
+1308	miscellaneous 	3
+1309	escape 	1
+1310	spread abroad (one's) fame 	1
+1310	be commonly reported 	1
+1310	blaze abroad 	1
+1311	destroy 	3
+1311	corrupt 	2
+1311	perish 	1
+1312	corruption 	6
+1313	more excellent 	2
+1313	differing 	1
+1313	divers 	1
+1314	keep 	1
+1315	slay 	1
+1315	kill 	1
+1316	depart 	1
+1317	apt to teach 	2
+1318	which (one) teacheth 	2
+1318	taught 	1
+1319	doctrine 	19
+1319	teaching 	1
+1319	learning 	1
+1320	Master (Jesus) 	40
+1320	teacher 	10
+1320	master 	7
+1320	doctor 	1
+1321	teach 	93
+1321	taught 	4
+1322	doctrine 	29
+1322	has been taught 	1
+1323	tribute 	1
+1323	tribute money 	1
+1324	Didymus 	3
+1325	give 	365
+1325	grant 	10
+1325	put 	5
+1325	show 	4
+1325	deliver 	2
+1325	make 	2
+1325	miscellaneous 	25
+1326	awake 	2
+1326	arise 	2
+1326	stir up 	2
+1326	raise 	1
+1327	highway + (3598) + version=kjv (3588) 	1
+1328	interpreter 	1
+1329	interpret 	4
+1329	by interpretation 	1
+1329	expound 	1
+1330	pass 	8
+1330	pass through 	7
+1330	go 	7
+1330	go over 	3
+1330	go through 	2
+1330	walk 	2
+1330	miscellaneous 	13
+1330	vr to go 	1
+1331	make enquiry for 	1
+1332	two years old 	1
+1333	two years 	2
+1334	tell 	4
+1334	declare 	3
+1334	show 	1
+1335	declaration 	1
+1336	continually 	2
+1336	for ever + (1519) 	2
+1337	where two seas meet 	1
+1338	pierce 	1
+1339	the space of ... after 	1
+1339	go further 	1
+1339	be parted 	1
+1340	confidently affirm 	1
+1340	constantly affirm 	1
+1341	righteous judgment 	1
+1342	righteous 	41
+1342	just 	33
+1342	right 	5
+1342	meet 	2
+1343	righteousness 	92
+1344	justify 	37
+1344	be freed 	1
+1344	be righteous 	1
+1344	justifier 	1
+1345	righteousness 	4
+1345	ordinance 	3
+1345	judgment 	2
+1345	justification 	1
+1346	justly 	2
+1346	righteously 	2
+1346	to righteousness 	1
+1347	justification 	2
+1348	judge 	3
+1349	vengeance 	2
+1349	judgment 	1
+1349	punish 	1
+1350	net 	12
+1351	doubletongued 	1
+1352	wherefore 	41
+1352	therefore 	10
+1352	for which cause 	2
+1353	go throughout 	1
+1353	pass through 	1
+1354	Dionysius 	1
+1355	wherefore 	3
+1356	which fell down from Jupiter 	1
+1357	reformation 	1
+1358	break through 	2
+1358	be broken up 	1
+1358	be broken through 	1
+1359	Castor and Pollux 	1
+1360	because 	10
+1360	for 	8
+1360	because that 	3
+1360	therefore 	1
+1361	Diotrephes 	1
+1362	double 	3
+1362	twofold more 	1
+1363	double 	1
+1364	twice 	4
+1364	again 	2
+1365	doubt 	2
+1366	twoedged 	2
+1366	with two edges 	1
+1367	two thousand 	1
+1368	strain at 	1
+1369	to set at variance 	1
+1370	division 	2
+1370	sedition 	1
+1371	cut sunder 	1
+1371	cut in asunder 	1
+1372	thirst 	10
+1372	be thirsty 	3
+1372	be athirst 	3
+1373	thirst 	1
+1374	double minded 	2
+1375	persecution 	10
+1376	persecutor 	1
+1377	persecute 	28
+1377	follow after 	6
+1377	follow 	4
+1377	suffer persecution 	3
+1377	miscellaneous 	3
+1378	decree 	3
+1378	ordinance 	2
+1379	be subject to ordinances 	1
+1380	think 	33
+1380	seem 	13
+1380	suppose 	7
+1380	seem good 	3
+1380	please 	2
+1380	miscellaneous 	5
+1381	prove 	10
+1381	try 	4
+1381	approve 	3
+1381	discern 	2
+1381	allow 	2
+1381	like 	1
+1381	examine 	1
+1382	proof 	3
+1382	experience 	2
+1382	trial 	1
+1382	experiment 	1
+1383	trying 	1
+1383	trial 	1
+1384	approved 	6
+1384	tried 	1
+1385	beam 	6
+1386	deceitful 	1
+1387	use deceit 	1
+1388	guile 	7
+1388	subtilty 	2
+1388	deceit 	2
+1388	craft 	1
+1389	handle ... deceitfully 	1
+1390	gift 	4
+1391	glory 	145
+1391	glorious 	10
+1391	honour 	6
+1391	praise 	4
+1391	dignity 	2
+1391	worship 	1
+1392	glorify 	54
+1392	honour 	3
+1392	have glory 	2
+1392	magnify 	1
+1392	make glorious 	1
+1392	full of glory 	1
+1393	Dorcas 	2
+1394	giving 	1
+1394	gift 	1
+1395	giver 	1
+1396	bring into subjection 	1
+1397	bondage 	5
+1398	serve 	18
+1398	be in bondage 	4
+1398	do service 	3
+1399	handmaiden 	2
+1399	handmaid 	1
+1401	servant 	120
+1401	bond 	6
+1401	bondman 	1
+1402	become servant 	2
+1402	bring into bondage 	2
+1402	be under bondage 	1
+1402	given 	1
+1402	make servant 	1
+1402	in bondage 	1
+1403	feast 	2
+1404	dragon 	13
+1405	take 	1
+1406	piece 	2
+1406	piece of silver 	1
+1407	sickle 	8
+1408	course 	3
+1409	Drusilla 	1
+1410	can (could) 	100
+1410	cannot 	45
+1410	be able 	37
+1410	may (might) 	18
+1410	able 	3
+1410	miscellaneous 	7
+1411	power 	77
+1411	mighty work 	11
+1411	strength 	7
+1411	miracle 	7
+1411	might 	4
+1411	virtue 	3
+1411	mighty 	2
+1411	miscellaneous 	9
+1412	strengthen 	1
+1413	mighty 	1
+1413	of great authority 	1
+1413	Potentate 	1
+1414	be mighty 	1
+1415	possible 	13
+1415	able 	10
+1415	mighty 	6
+1415	strong 	3
+1415	could 	1
+1415	power 	1
+1415	mighty man 	1
+1416	set 	2
+1417	two 	122
+1417	twain 	10
+1417	both 	2
+1417	two and two 	1
+1418	hard or 	
+1418	always used as a word 	
+1419	grievous to be borne 	2
+1420	bloody flux 	1
+1421	hard to be uttered 	1
+1422	hard 	1
+1423	hardly 	3
+1424	west 	5
+1425	hard to be understood 	1
+1426	evil report 	1
+1427	twelve 	72
+1428	twelfth 	1
+1429	twelve tribes 	1
+1430	house top 	7
+1431	gift 	11
+1432	freely 	6
+1432	without a cause 	1
+1432	in vain 	1
+1432	for nought 	1
+1433	give 	3
+1434	gift 	2
+1435	gift 	18
+1435	offering 	1
+1436	alone 	2
+1437	if 	200
+1437	whosoever 	14
+1437	whatsoever + (3739) 	16
+1437	though 	14
+1437	miscellaneous 	31
+1438	himself 	110
+1438	themselves 	57
+1438	yourselves 	36
+1438	ourselves 	20
+1438	his 	19
+1438	their 	15
+1438	itself 	9
+1438	miscellaneous 	73
+1439	suffer 	9
+1439	let alone 	1
+1439	leave 	1
+1439	let 	1
+1439	commit 	1
+1440	seventy 	2
+1440	three score and ten 	1
+1440	three score and fifteen 	1
+1441	seventy times 	1
+1442	seventh 	9
+1443	Heber 	1
+1444	Hebrew 	1
+1445	Hebrew 	5
+1446	Hebrew 	3
+1447	in the Hebrew tongue 	3
+1447	in the Hebrew 	2
+1447	in Hebrew 	1
+1448	draw nigh 	12
+1448	be at hand 	9
+1448	come nigh 	8
+1448	come near 	5
+1448	draw near 	4
+1448	miscellaneous 	5
+1449	write 	2
+1450	surety 	1
+1451	nigh 	13
+1451	at hand 	6
+1451	nigh at hand 	4
+1451	near 	4
+1451	from 	1
+1451	nigh unto 	1
+1451	ready 	1
+1452	nearer 	1
+1453	rise 	36
+1453	raise 	28
+1453	arise 	27
+1453	raise up 	23
+1453	rise up 	8
+1453	rise again 	5
+1453	raise again 	4
+1453	miscellaneous 	10
+1454	resurrection 	1
+1455	spy 	1
+1456	feast of dedication 	1
+1457	dedicate 	1
+1457	consecrate 	1
+1458	accuse 	4
+1458	implead 	1
+1458	call in question 	1
+1458	lay anything to the charge 	1
+1459	forsake 	7
+1459	leave 	2
+1460	dwell among 	1
+1461	graff in 	4
+1461	graff 	1
+1461	graff into 	1
+1462	laid to (one's) charge 	1
+1462	crime laid against (one) 	1
+1463	be clothed with 	1
+1464	hinder 	1
+1465	hinder 	3
+1465	be tedious unto 	1
+1466	temperance 	4
+1467	can contain 	1
+1467	be temperate 	1
+1468	temperate 	1
+1469	make of the number 	1
+1470	hide in 	2
+1471	great with child 	1
+1472	anoint 	1
+1473	I 	365
+1473	my 	2
+1473	me 	2
+1473	not translated 	1
+1474	lay even with the ground 	1
+1475	ground 	1
+1476	steadfast 	2
+1476	settled 	1
+1477	ground 	1
+1478	Ezekias 	2
+1479	will worship 	1
+1480	custom 	1
+1481	governor 	1
+1482	heathen 	1
+1482	heathen man 	1
+1483	after the manner of Gentiles 	1
+1484	Gentiles 	93
+1484	nation 	64
+1484	heathen 	5
+1484	people 	2
+1485	custom 	7
+1485	manner 	4
+1485	be wont 	1
+1486	be wont 	2
+1486	~ as his custom was + (2596) + version=kjv (3588) 	1
+1486	as his manner was + (2596) + (3588) 	1
+1487	if 	242
+1487	whether 	20
+1487	that 	6
+1487	not translated 	20
+1487	miscellaneous 	3
+1488	thou art 	81
+1488	be 	11
+1489	if so be that 	2
+1489	if 	2
+1489	if yet 	1
+1490	or else 	3
+1490	else 	4
+1490	if not 	2
+1490	if otherwise 	2
+1490	if not 	1
+1490	or else 	1
+1490	otherwise 	1
+1491	shape 	2
+1491	fashion 	1
+1491	sight 	1
+1491	appearance 	1
+1492	know 	282
+1492	cannot tell 	8
+1492	know how 	7
+1492	wist 	6
+1492	miscellaneous 	19
+1492	see 	314
+1492	behold 	16
+1492	look 	5
+1492	perceive 	5
+1492	vr see 	3
+1492	vr know 	1
+1493	idol's temple 	1
+1494	things offered unto idols 	4
+1494	things offered in sacrifice to idols 	3
+1494	things sacrificed unto idols 	2
+1494	meats offered to idols 	1
+1495	idolatry 	4
+1496	idolater 	7
+1497	idol 	11
+1498	should be 	3
+1498	be 	3
+1498	meant 	2
+1498	might be 	1
+1498	should mean 	1
+1498	wert 	1
+1498	not translated 	1
+1499	though 	14
+1499	if 	5
+1499	and if 	2
+1499	if that 	1
+1499	if also 	1
+1500	in vain 	5
+1500	without a cause 	1
+1500	vainly 	1
+1501	twenty 	12
+1502	give place 	1
+1503	be like 	2
+1504	image 	23
+1505	sincerity 	3
+1506	sincere 	1
+1506	pure 	1
+1507	roll together 	1
+1508	but 	53
+1508	save 	16
+1508	except 	6
+1508	if not 	5
+1508	not translated 	1
+1508	miscellaneous 	1
+1509	except 	3
+1510	I am 	74
+1510	am 	55
+1510	it is I + (1473) 	6
+1510	be 	2
+1510	I was + (1473) 	1
+1510	have been 	1
+1510	not translated 	7
+1511	to be 	33
+1511	be 	28
+1511	was 	15
+1511	is 	14
+1511	am 	7
+1511	are 	6
+1511	were 	4
+1511	not translated 	11
+1511	miscellaneous 	8
+1512	if so be that 	3
+1512	though 	1
+1512	seeing 	1
+1512	if so be 	1
+1513	if by any means 	4
+1514	have peace 	1
+1514	live peaceably 	1
+1514	live in peace 	1
+1514	be at peace 	1
+1515	peace 	89
+1515	one 	1
+1515	rest 	1
+1515	quietness 	1
+1516	peaceable 	2
+1517	make peace 	1
+1518	peacemakers 	1
+1519	into 	573
+1519	to 	281
+1519	unto 	207
+1519	for 	140
+1519	in 	138
+1519	on 	58
+1519	toward 	29
+1519	against 	26
+1519	miscellaneous 	322
+1520	one 	229
+1520	a 	9
+1520	other 	6
+1520	some 	6
+1520	not translated 	4
+1520	miscellaneous 	17
+1521	bring in 	5
+1521	bring 	4
+1521	lead 	1
+1522	hear 	5
+1523	receive 	1
+1524	go 	2
+1524	go in 	1
+1524	enter 	1
+1525	enter 	107
+1525	go 	22
+1525	come in 	19
+1525	go in 	18
+1525	enter in 	17
+1525	come 	14
+1525	arise 	1
+1526	are 	135
+1526	be 	14
+1526	were 	7
+1526	have 	2
+1526	not translated 	1
+1526	miscellaneous 	4
+1527	one by one 	2
+1528	call in 	1
+1529	coming 	1
+1529	entering in 	1
+1529	entrance in 	1
+1529	to enter into 	1
+1529	entrance 	1
+1530	run in 	1
+1530	spring in 	1
+1531	enter 	9
+1531	enter in 	4
+1531	come in 	3
+1531	go 	1
+1532	run in 	1
+1533	bring 	3
+1533	bring in 	2
+1533	lead 	2
+1534	then 	11
+1534	after that 	3
+1534	afterward 	1
+1534	furthermore 	1
+1535	or 	33
+1535	whether 	28
+1535	or whether 	3
+1535	if 	1
+1536	if any man 	35
+1536	if any 	19
+1536	if a man 	8
+1536	if any thing 	6
+1536	if ought 	3
+1536	whosoever 	2
+1536	miscellaneous 	6
+1537	of 	366
+1537	from 	181
+1537	out of 	162
+1537	by 	55
+1537	on 	34
+1537	with 	25
+1537	miscellaneous 	98
+1538	every man 	39
+1538	every one 	20
+1538	every 	17
+1538	miscellaneous 	7
+1539	always 	1
+1540	hundred 	15
+1540	hundredfold 	2
+1541	hundred years old 	1
+1542	hundredfold 	3
+1543	centurion 	21
+1544	cast out 	45
+1544	cast 	11
+1544	bring forth 	3
+1544	pull out 	3
+1544	send forth 	3
+1544	miscellaneous 	17
+1545	way of escape 	1
+1545	end 	1
+1546	lighten the ship 	1
+1547	give in marriage 	5
+1548	give in marriage 	2
+1549	nephew 	1
+1550	spend 1 	
+1551	wait for 	3
+1551	look for 	2
+1551	tarry for 	1
+1551	expect 	1
+1551	wait 	1
+1552	manifest 	1
+1553	be absent 	3
+1554	let out 	3
+1554	let forth 	1
+1555	declare 	2
+1556	avenge 	5
+1556	revenge 	1
+1557	vengeance 	4
+1557	avenge 	3
+1557	revenge 	1
+1557	punishment 	1
+1557	punishment 	1
+1558	avenger 	1
+1558	revenger 	1
+1559	persecute 	2
+1560	be delivered 	1
+1561	look for 	1
+1562	strip 	2
+1562	take off from 	2
+1562	unclothe 	1
+1563	there 	86
+1563	thither 	7
+1563	not translated 	3
+1563	miscellaneous 	3
+1564	thence 	16
+1564	from thence 	9
+1564	from that place 	1
+1564	there 	1
+1565	that 	99
+1565	those 	40
+1565	he 	40
+1565	the same 	20
+1565	they 	14
+1565	miscellaneous 	38
+1566	there 	2
+1567	require 	2
+1567	seek after 	2
+1567	diligently 	1
+1567	seek carefully 	1
+1567	enquire 	1
+1568	be affrighted 	2
+1568	sore amazed 	1
+1568	greatly amazed 	1
+1569	greatly wondering 	1
+1570	cast out 	1
+1571	purge out 	1
+1571	purge 	1
+1572	burn 	1
+1573	faint 	4
+1573	be weary 	2
+1574	pierce 	2
+1575	break off 	3
+1576	exclude 	2
+1577	church 	115
+1577	assembly 	3
+1578	eschew 	1
+1578	avoid 	1
+1578	go out of the way 	1
+1579	swim out 	1
+1580	carry out 	1
+1581	cut off 	4
+1581	hewn down 	3
+1581	cut down 	2
+1581	cut out 	1
+1581	be hindered 	1
+1582	be very attentive 	1
+1583	tell 	1
+1584	shine forth 	1
+1585	forget 	1
+1586	choose 	19
+1586	choose out 	1
+1586	make choice 	1
+1587	fail 	3
+1588	elect 	16
+1588	chosen 	7
+1589	election 	6
+1589	chosen 	1
+1590	faint 	5
+1590	faint 	1
+1591	wipe 	5
+1592	deride 	2
+1593	convey away 	1
+1594	awake 	1
+1595	willingly 	1
+1596	wilfully 	1
+1596	willingly 	1
+1597	of a long time 	1
+1597	of old 	1
+1598	tempt 	4
+1599	send forth 	1
+1599	send away 	1
+1600	stretch forth 	1
+1601	fall 	7
+1601	fall off 	2
+1601	be cast 	1
+1601	take none effect 	1
+1601	fall away 	1
+1601	fail 	1
+1601	vr fallen 	1
+1602	sail 	1
+1602	sail thence 	1
+1602	sail away 	1
+1603	fulfil 	1
+1604	accomplishment 	1
+1605	be astonished 	10
+1605	be amazed 	3
+1606	give up the ghost 	3
+1607	proceed 	10
+1607	go out 	6
+1607	go 	5
+1607	come 	4
+1607	depart 	3
+1607	go forth 	2
+1607	miscellaneous 	4
+1607	vr go forth 	1
+1608	give (one's) self over to fornication 	1
+1609	reject 	1
+1610	root up 	2
+1610	pluck up by the root 	2
+1611	trance 	3
+1611	be amazed 	2
+1611	amazement 	1
+1611	astonishment 	1
+1612	subvert 	1
+1613	exceedingly trouble 	1
+1614	stretch forth 	10
+1614	put forth 	3
+1614	stretch out 	2
+1614	cast 	1
+1615	finish 	2
+1616	instantly 	1
+1617	more earnestly 	1
+1618	without ceasing 	1
+1618	fervent 	1
+1619	fervently 	1
+1620	expound 	3
+1620	cast out 	1
+1621	shake off 	3
+1621	shake 	1
+1622	out of 	2
+1622	outside 	1
+1622	other than 	1
+1622	without 	1
+1622	be excepted 	1
+1622	except 	1
+1622	unless + (1508) 	1
+1622	but + (1508) 	1
+1623	sixth 	14
+1624	turn aside 	2
+1624	avoid 	1
+1624	turn 	1
+1624	turn out of the way 	1
+1625	nourish 	1
+1625	bring up 	1
+1626	born out of due time 	1
+1627	carry out 	3
+1627	bring forth 	2
+1627	carry forth 	1
+1627	bear 	1
+1628	escape 	5
+1628	flee 	2
+1629	terrify 	1
+1630	sore afraid 	1
+1630	exceedingly fear 	1
+1631	put forth 	2
+1632	pour out 	12
+1632	shed 	4
+1632	shed forth 	1
+1632	spill 1run out 	1
+1632	shed 	5
+1632	run greedily 	1
+1632	shed abroad 	1
+1632	gush out 	1
+1632	spill 	1
+1633	depart out 	1
+1634	give up the ghost 	2
+1634	yield up the ghost 	1
+1634	yield up the ghost 	1
+1635	willingly 	2
+1636	olives 	11
+1636	olive tree 	3
+1636	olive berries 	1
+1637	oil 	11
+1638	Olivet 	1
+1639	Elamites 	1
+1640	worse 	1
+1640	younger 	1
+1640	under 	1
+1640	less 	1
+1641	have lack 	1
+1642	make lower 	2
+1642	decrease 	1
+1643	row 	2
+1643	drive 	2
+1643	carry 	1
+1644	lightness 	1
+1645	light 	2
+1646	least 	9
+1646	very small 	2
+1646	smallest 	1
+1646	very little 	1
+1647	less than the least 	1
+1648	Eleazar 	2
+1649	rebuke 	1
+1650	reproof 	1
+1650	evidence 	1
+1651	reprove 	6
+1651	rebuke 	5
+1651	convince 	4
+1651	tell (one's) fault 	1
+1651	convict 	1
+1652	miserable 	2
+1653	have mercy on 	14
+1653	obtain mercy 	8
+1653	show mercy 	2
+1653	have compassion 	1
+1653	have compassion on 	1
+1653	have pity on 	1
+1653	have mercy 	1
+1653	have mercy upon 	1
+1653	receive mercy 	1
+1654	alms 	13
+1654	almsdeeds 	1
+1655	merciful 	2
+1656	mercy 	28
+1657	liberty 	11
+1658	free 	18
+1658	free woman 	3
+1658	at liberty 	1
+1658	free man 	1
+1659	make free 	6
+1659	deliver 	1
+1660	coming 	1
+1661	ivory 	1
+1662	Eliakim 	3
+1663	Eliezer 	1
+1664	Eliud 	2
+1665	Elisabeth 	9
+1666	Eliseus 	1
+1667	fold them up 	1
+1668	sore 	3
+1669	full of sores 	1
+1670	draw 	8
+1671	Greece 	1
+1672	Greek 	20
+1672	Gentile 	7
+1673	Greek 	2
+1674	Greek 	2
+1675	Grecians 	3
+1676	Greek 	2
+1677	impute 	1
+1677	put on (one's) account 	1
+1678	Elmodam 	1
+1679	trust 	18
+1679	hope 	10
+1679	hope for 	2
+1679	things hoped for 	1
+1679	vr hope 	1
+1680	hope 	53
+1680	faith 	1
+1681	Elymas 	1
+1682	Eloi 	2
+1683	myself 	29
+1683	me 	4
+1683	mine own self 	2
+1683	mine own 	1
+1683	I myself 	1
+1684	enter 	8
+1684	come 	2
+1684	get 	2
+1684	go 	2
+1684	take 	2
+1684	go up 	1
+1684	step in 	1
+1685	cast 	1
+1686	dip 	3
+1687	intrude into 	1
+1688	put 	1
+1689	behold 	5
+1689	look upon 	4
+1689	see 	1
+1689	gaze up 	1
+1689	can see 	1
+1690	straitly charge 	2
+1690	groan 	2
+1690	murmur against 	1
+1691	me 	83
+1691	I 	2
+1691	my 	2
+1691	myself 	1
+1692	spue 	1
+1693	mad against 	1
+1694	Emmanuel 	1
+1695	Emmaus 	1
+1696	continue 	3
+1697	Emmor 	1
+1698	me 	86
+1698	I 	6
+1698	mine 	2
+1698	my 	1
+1698	my 	1
+1699	my 	50
+1699	mine 	12
+1699	mine own 	11
+1699	of me 	4
+1699	I 	1
+1700	me 	97
+1700	my 	11
+1700	mine 	1
+1701	mocking 	1
+1702	mock 	13
+1703	mockers 	1
+1703	scoffers 	1
+1704	walk in 	1
+1705	fill 	4
+1705	be full 	1
+1706	fall 	7
+1707	entangle (one's) self with 	1
+1707	entangle therein 	1
+1708	plaiting 	1
+1709	breathe out 	1
+1710	buy and sell 	1
+1710	make merchandise 	1
+1710	vr buy and sell 	1
+1711	merchandise 	1
+1712	merchandise 	1
+1713	merchant 	5
+1714	burn up 	1
+1715	before 	41
+1715	in (one's) sight 	2
+1715	of 	1
+1715	against 	1
+1715	in the sight of 	1
+1715	in the presence of 	1
+1715	at 	1
+1716	spit upon 	2
+1716	spit on 	2
+1716	spit 	2
+1717	show openly + (1325) + version=kjv (1096) 	1
+1717	manifest 	1
+1718	inform 	3
+1718	be manifest 	2
+1718	appear 	2
+1718	signify 	1
+1718	show 	1
+1718	declare plainly 	1
+1719	afraid 	3
+1719	affrighted 	2
+1719	tremble 	1
+1720	breathe on 	1
+1721	engrafted 	1
+1722	in 	1874
+1722	by 	141
+1722	with 	134
+1722	among 	117
+1722	at 	112
+1722	on 	46
+1722	through 	37
+1722	miscellaneous 	321
+1723	take in (one's) arms 	1
+1723	take up in (one's) arms 	1
+1724	things in the sea 	1
+1725	before 	1
+1726	before 	4
+1726	in the sight of 	1
+1727	contrary 	6
+1727	against 	2
+1728	begin 	2
+1729	lack 	1
+1730	manifest token 	1
+1731	show 	9
+1731	show forth 	1
+1731	do 	1
+1731	vr show 	1
+1732	to declare 	1
+1732	to declare + (4214) 	1
+1732	proof 	1
+1732	evident token 	1
+1733	eleven 	6
+1734	eleventh 	3
+1735	it can be 	1
+1736	be at home 	1
+1736	be present 	1
+1736	present 	1
+1737	wear 	1
+1737	clothe with 	1
+1738	just 	2
+1739	building 	1
+1740	glorify 	2
+1741	glorious 	2
+1741	gorgeously 	1
+1741	honourable 	1
+1742	raiment 	5
+1742	garment 	2
+1742	clothing 	1
+1743	be strong 	3
+1743	strengthen 	2
+1743	increase in strength 	1
+1743	enable 	1
+1743	be made strong 	1
+1744	creep 	1
+1745	put on 	1
+1746	put on 	18
+1746	clothed with 	2
+1746	clothed in 	2
+1746	have on 	2
+1746	clothe with 	1
+1746	be endued 	1
+1746	arrayed in 	1
+1746	be clothed 	1
+1746	vr put on 	1
+1747	laying with 	1
+1748	lie in wait for 	1
+1748	lay wait for 	1
+1749	lying in wait 	1
+1750	wrap in 	1
+1751	such things as (one) has 	1
+1752	for ... sake 	14
+1752	for ... cause 	5
+1752	for 	2
+1752	because 	1
+1752	wherefore + (5101) 	1
+1752	by reason of 	1
+1752	that ... might 	1
+1753	working 	4
+1753	effectual working 	2
+1753	operation 	1
+1753	strong 	1
+1754	work 	12
+1754	show forth (one's) self 	2
+1754	wrought 	1
+1754	be effectual 	1
+1754	effectually work 	1
+1754	effectual fervent 	1
+1754	work effectually in 	1
+1754	be might in 	1
+1754	to do 	1
+1755	operation 	1
+1755	working 	1
+1756	effectual 	2
+1756	powerful 	1
+1757	bless 	2
+1758	have a quarrel with 	1
+1758	urge 	1
+1758	entangle with 	1
+1759	hither 	4
+1759	here 	3
+1759	there 	1
+1760	think 	3
+1761	thought 	3
+1761	device 	1
+1762	there is 	4
+1762	is 	1
+1763	year 	14
+1764	present 	3
+1764	things present 	2
+1764	be at hand 	1
+1764	come 	1
+1765	strengthen 	2
+1766	ninth 	10
+1767	nine 	1
+1768	ninety nine 	4
+1769	speechless 	1
+1770	make signs 1 	
+1771	intent 	1
+1771	mind 	1
+1772	lawful 	1
+1772	under law 	1
+1773	a great while before day 	1
+1774	dwell in 	5
+1774	vr dwell in 	1
+1775	unity 	2
+1776	trouble 	1
+1777	in danger of 	5
+1777	guilty of 	4
+1777	subject to 	1
+1778	commandment 	3
+1779	burial 	1
+1779	bury 	1
+1780	burying 	2
+1781	command 	10
+1781	give commandment 	3
+1781	give charge 	2
+1781	enjoin 	1
+1781	charge 	1
+1782	hence 	6
+1782	on either side 	4
+1782	from hence 	3
+1783	intercession 	1
+1783	prayer 	1
+1784	precious 	2
+1784	dear 	1
+1784	more honourable 	1
+1784	in reputation 	1
+1785	commandment 	69
+1785	precept 	2
+1786	of that place 	1
+1787	within 	2
+1788	reverence 	4
+1788	regard 	2
+1788	be ashamed 	2
+1788	shame 	1
+1789	nourish up in 	1
+1790	tremble 	1
+1790	trembling 	1
+1790	quake 	1
+1791	shame 	2
+1792	sport (one's) self 	1
+1793	make intercession 	4
+1793	deal 	1
+1794	wrap in 	2
+1794	wrap together 	1
+1795	engrave 1 	
+1796	do despite unto 	1
+1797	dream 	1
+1797	filthy dreamer 	1
+1798	dream 	1
+1799	before 	64
+1799	in the sight of 	16
+1799	in the presence of 	7
+1799	in (one's) sight 	5
+1799	in (one's) presence 	2
+1799	to 	1
+1799	not translated 	2
+1800	Enos 	1
+1801	hearken to 	1
+1802	Enoch 	3
+1803	six 	12
+1804	show forth 	1
+1805	redeem 	4
+1806	lead out 	6
+1806	bring out 	5
+1806	bring forth 	1
+1806	fetch out 	1
+1807	deliver 	5
+1807	pluck out 	2
+1807	rescue 	1
+1808	take away 	1
+1808	put away 	1
+1809	desire 	1
+1810	suddenly 	5
+1811	follow 	3
+1812	six hundred 	1
+1813	blot out 	3
+1813	wipe away 	2
+1814	leap up 	1
+1815	resurrection 	1
+1816	spring up 	2
+1817	raise up 	2
+1817	rise up 	1
+1818	deceive 	4
+1818	beguile 	1
+1819	suddenly 	1
+1820	despair 	1
+1820	in despair 	1
+1821	send away 	4
+1821	send forth 	4
+1821	send 	2
+1821	send out 	1
+1822	accomplish 	1
+1822	thoroughly furnish 1 	
+1823	glistening 	1
+1824	immediately 	3
+1824	by and by 	1
+1824	straightway 	1
+1824	presently 	1
+1825	raise up 	2
+1826	depart 	2
+1826	go out 	1
+1826	get 	1
+1827	convince 	1
+1828	draw away 	1
+1829	vomit 	1
+1830	search diligently 	1
+1831	go out 	60
+1831	come 	34
+1831	depart 	28
+1831	go 	25
+1831	go forth 	25
+1831	come out 	23
+1831	come forth 	9
+1831	miscellaneous 	18
+1832	be lawful 	29
+1832	may 	2
+1832	let 	1
+1833	search 	1
+1833	enquire 	1
+1833	ask 	1
+1834	declare 	5
+1834	tell 	1
+1835	threescore 	4
+1835	sixty 	3
+1835	sixtyfold 	1
+1836	next 	1
+1836	next day 	1
+1836	day after 	1
+1836	day following 	1
+1836	morrow 	1
+1837	sound out 	1
+1838	use 	1
+1839	be amazed 	6
+1839	be astonished 	5
+1839	bewitch 	2
+1839	be beside (one's) self 	2
+1839	make astonished 	1
+1839	wonder 	1
+1840	be able 	1
+1841	decease 	2
+1841	departing 	1
+1842	destroy 	1
+1843	confess 	8
+1843	thank 	2
+1843	promise 	1
+1844	adjure 	1
+1845	exorcist 	1
+1846	break up 	1
+1846	pluck down 	1
+1847	be set at nought 	1
+1848	despise 	6
+1848	set at nought 	3
+1848	esteem lease 	1
+1848	contemptible 	1
+1849	power 	69
+1849	authority 	29
+1849	right 	2
+1849	liberty 	1
+1849	jurisdiction 	1
+1849	strength 	1
+1850	have power of 	2
+1850	exercise authority upon 	1
+1850	bring under power 	1
+1851	principal 	1
+1852	awake out of sleep 	1
+1853	awake out of sleep 	1
+1857	outer 	3
+1858	keep the feast 	1
+1859	feast 	26
+1859	holy day 	1
+1860	promise 	52
+1860	message 	1
+1861	promise 	11
+1861	profess 	2
+1861	make promise 	2
+1862	promise 	2
+1863	bring 	1
+1863	bring upon 	1
+1863	bring in upon 	1
+1864	earnestly contend for 	1
+1865	gather thick together 	1
+1866	Epaenetus 	1
+1867	praise 	4
+1867	laud 	1
+1867	commend 	1
+1868	praise 	11
+1869	lift up 	15
+1869	exalt (one's) self 	2
+1869	take up 	1
+1869	hoisted up 	1
+1870	be ashamed 	11
+1871	to beg 	1
+1872	follow 	3
+1872	follow after 	1
+1873	hear 	1
+1874	hear 	1
+1875	when 	3
+1876	necessary 	1
+1877	return 	1
+1877	thrust out 	1
+1877	launch out 	1
+1878	put in mind 	1
+1879	rest 	1
+1879	rest in 	1
+1880	come again 	1
+1880	return 	1
+1881	rise up against 	2
+1882	correction 	1
+1883	over 	6
+1883	on 	4
+1883	thereon 	3
+1883	upon 	3
+1883	above 	3
+1883	more than 	1
+1884	relieve 	3
+1885	province 	2
+1886	habitation 	1
+1887	morrow 	7
+1887	next day 	6
+1887	day following 	2
+1887	next day after 	1
+1887	morrow after 	1
+1888	in the very act (thief) 	1
+1889	Epaphras 	3
+1890	foam out 	1
+1891	Epaphroditus 	3
+1892	raise 	1
+1892	stir up 	1
+1893	because 	7
+1893	otherwise 	4
+1893	for then 	3
+1893	else 	3
+1893	seeing 	3
+1893	forasmuch as 	2
+1893	for that 	1
+1893	miscellaneous 	4
+1894	for 	3
+1894	because 	2
+1894	seeing 	2
+1894	forasmuch as 	1
+1894	after that 	1
+1894	since 	1
+1894	for that 	1
+1895	forasmuch as 	1
+1896	look on 	1
+1896	behold 	1
+1897	seeing 	1
+1898	bringing in 	1
+1899	then 	9
+1899	after that 	4
+1899	afterward(s) 	3
+1900	beyond 	1
+1901	reach forth unto 	1
+1902	be clothed upon 	2
+1903	fisher's coat 	1
+1904	come 	6
+1904	come upon 	2
+1904	come on 	1
+1904	come thither 	1
+1905	ask 	53
+1905	demand 	2
+1905	desire 	1
+1905	ask question 	1
+1905	question 	1
+1905	ask after 	1
+1906	answer 	1
+1907	mark 	1
+1907	give heed unto 	1
+1907	stay 	1
+1907	hold forth 	1
+1907	take heed unto 	1
+1908	despitefully use 	2
+1908	falsely accuse 	1
+1909	on 	196
+1909	in 	120
+1909	upon 	159
+1909	unto 	41
+1909	to 	41
+1909	miscellaneous 	339
+1910	sit 	1
+1910	come 	1
+1910	go aboard 	1
+1910	take 	1
+1910	come into 	1
+1910	enter into 	1
+1911	lay 	8
+1911	put 	3
+1911	lay on 	1
+1911	beat 	1
+1911	cast on 	1
+1911	think thereon 	1
+1911	fall 	1
+1911	stretch forth 	1
+1911	cast upon 	1
+1912	overcharge 	1
+1912	be chargeable unto 	1
+1912	be chargeable to 	1
+1913	set on 	2
+1913	set thereon 	1
+1914	regard 	1
+1914	look 	1
+1914	have respect to 	1
+1915	piece 	4
+1916	cry 	1
+1917	lying in wait 	1
+1917	lay wait for 	1
+1917	lay wait + (3195) + (2071) 	1
+1917		1
+1918	marry 	1
+1919	earthly 	4
+1919	terrestrial 	2
+1919	in earth 	1
+1920	blow 	1
+1921	know 	30
+1921	acknowledge 	5
+1921	perceive 	3
+1921	take knowledge of 	2
+1921	have knowledge of 	1
+1921	know well 	1
+1922	knowledge 	16
+1922	acknowledging 	3
+1922	acknowledgement 	1
+1923	superscription 	5
+1924	write 	2
+1924	write over 	1
+1924	write thereon 	1
+1924	with this inscription + (1722) + version=kjv (3639) 	1
+1925	show 	9
+1926	receive 	2
+1927	be there 	1
+1927	stranger 	1
+1928	add thereto 	1
+1929	give 	7
+1929	deliver 	1
+1929	offer 	1
+1929	let drive 	1
+1929	deliver unto 	1
+1930	set in order 	1
+1931	go down 	1
+1932	clemency 	1
+1932	gentleness 	1
+1933	gentle 	3
+1933	patient 	1
+1933	moderation 	1
+1934	seek after 	5
+1934	seek 	3
+1934	desire 	3
+1934	seek for 	2
+1934	enquire 	1
+1935	appoint to death 	1
+1936	laying on 	3
+1936	putting on 	1
+1937	desire 	8
+1937	covet 	3
+1937	lust 	3
+1937	lust after 	1
+1937	fain 	1
+1938	lust after 	1
+1939	lust 	31
+1939	concupiscence 	3
+1939	desire 	3
+1939	lust after 	1
+1940	set 	1
+1940	vr set 	1
+1941	call on 	7
+1941	be (one's) surname 	6
+1941	be surnamed 	5
+1941	call upon 	4
+1941	appeal unto 	4
+1941	call 	4
+1941	appeal to 	1
+1941	appeal 	1
+1942	cloke 	1
+1943	cover 	1
+1944	cursed 	3
+1945	press upon 	1
+1945	be instant 	1
+1945	lie 	1
+1945	be laid thereon 	1
+1945	lie on 	1
+1945	be laid upon 	1
+1945	be imposed on 	1
+1946	Epicurean 	1
+1947	help 	1
+1948	give sentence 	1
+1949	take 	7
+1949	take by 	3
+1949	catch 	2
+1949	take on 	2
+1949	lay hold on 	2
+1949	take hold of 	2
+1949	lay hold upon 	1
+1950	forget 	7
+1950	be forgetful 	1
+1951	be called 	1
+1951	choose 	1
+1952	fail 	1
+1953	forgetful 	1
+1954	rest 	1
+1955	interpretation 	1
+1956	expound 	1
+1956	determine 	1
+1957	testify 	1
+1958	refresh (one's) self 	1
+1959	take care of 	3
+1960	diligently 	1
+1961	tarry 	7
+1961	continue in 	5
+1961	continue 	2
+1961	abide 	2
+1961	abide in 	1
+1961	abide still 	1
+1962	consent 	1
+1963	thought 	1
+1964	forswear (one's) self 	1
+1965	perjured person 	1
+1966	next day 	2
+1966	following 	2
+1966	next 	1
+1967	daily 	2
+1968	fall 	10
+1968	fall on 	1
+1968	press 	1
+1968	lie 	1
+1969	rebuke 	1
+1970	choke 	1
+1971	greatly desire 	2
+1971	long 	1
+1971	earnestly desire 	1
+1971	long after 	1
+1971	greatly long after 	1
+1971	lust 	1
+1971	desire 	1
+1971	longed after 	1
+1972	earnestly desire 	1
+1972	vehemently desire 	1
+1973	longed for 	1
+1974	great desire 	1
+1975	come 	1
+1976	sew 	1
+1977	cast 	2
+1978	notable 	1
+1978	of note 	1
+1979	victuals 	1
+1980	visit 	10
+1980	look out 	1
+1981	rest 	1
+1982	overshadow 	5
+1983	look diligently 	1
+1983	take the oversight 	1
+1984	visitation 	2
+1984	bishoprick 	1
+1984	office of a bishop 	1
+1985	bishop 	6
+1985	overseer 	1
+1986	become circumcised 	1
+1987	know 	13
+1987	understand 	1
+1988	Master 	7
+1989	write 	1
+1989	write unto 	1
+1989	write a letter unto 	1
+1990	endued with knowledge 	1
+1991	confirm 	3
+1991	strengthen 	1
+1992	epistle 	15
+1992	letter 	9
+1993	stop the mouth 	1
+1994	turn 	16
+1994	be converted 	6
+1994	return 	6
+1994	turn about 	4
+1994	turn again 	3
+1994	miscellaneous 	4
+1995	conversion 	1
+1996	gather together 	5
+1996	gather 	2
+1997	gathering together 	1
+1997	assembling together 	1
+1998	come running together 	1
+1999	that which comes upon 	1
+1999	a raising up 	1
+2000	dangerous 	1
+2001	be more fierce 	1
+2002	heap 	1
+2003	commandment 	6
+2003	authority 	1
+2004	command 	8
+2004	charge 	1
+2004	enjoin 	1
+2005	perform 	3
+2005	perfect 	2
+2005	accomplish 	2
+2005	finish 	1
+2005	performance 	1
+2005	make 	1
+2005	do 	1
+2006	things which are needful 	1
+2007	lay on 	10
+2007	lay 	7
+2007	put 	6
+2007	lay upon 	4
+2007	put on 	3
+2007	put upon 	2
+2007	set 	2
+2007	not translated 	1
+2007	miscellaneous 	7
+2008	rebuke 	24
+2008	charge 	4
+2008	straightly charge 	1
+2009	punishment 	1
+2010	suffer 	10
+2010	permit 	4
+2010	give leave 	2
+2010	give liberty 	1
+2010	give license 	1
+2010	let 	1
+2011	commission 	1
+2012	steward 	2
+2012	tutor 	1
+2013	obtain 	5
+2014	appear 	3
+2014	give light 	1
+2015	appearing 	5
+2015	brightness 	1
+2016	notable 	1
+2017	give light 	1
+2018	bring 	2
+2018	take 	1
+2018	add 	1
+2018	bring against 	1
+2019	cry 	1
+2019	give a shout 	1
+2019	cry against 	1
+2020	begin to dawn 	1
+2020	draw on 	1
+2021	take in hand 	1
+2021	go about 	1
+2021	take upon 	1
+2022	pour in 	1
+2023	minister 	2
+2023	minister nourishment 	1
+2023	add 	1
+2023	minister unto 	1
+2024	supply 	2
+2025	anoint 	1
+2025	anoint 	1
+2026	build up 	3
+2026	build thereupon 	2
+2026	build 	2
+2026	build thereon 	1
+2027	run aground 	1
+2028	call 	1
+2029	behold 	2
+2030	eyewitness 	1
+2031	say 	1
+2032	heavenly 	16
+2032	celestial 	2
+2032	in heaven 	1
+2032	high 	1
+2033	seven 	86
+2033	seventh 	1
+2034	seven times 	4
+2035	seven thousand 	1
+2036	say 	859
+2036	speak 	57
+2036	tell 	41
+2036	command 	8
+2036	bid 	5
+2036	miscellaneous 	6
+2036	vr say 	1
+2037	Erastus 	3
+2038	work 	22
+2038	wrought 	7
+2038	do 	3
+2038	minister about 	1
+2038	forbear working 	1
+2038	labour for 	1
+2038	labour 	1
+2038	commit 	1
+2038	trade by 	1
+2038	trade 	1
+2039	gain 	3
+2039	craft 	1
+2039	diligence 	1
+2039	work 	1
+2040	labourer 	10
+2040	workman 	3
+2040	worker 	3
+2041	work 	152
+2041	deed 	22
+2041	doing 	1
+2041	labour 	1
+2042	provoke 	2
+2043	stick fast 	1
+2044	utter 	1
+2045	search 	6
+2046	say 	57
+2046	speak 	7
+2046	tell 	4
+2046	speak of 	2
+2046	call 	1
+2047	wilderness 	3
+2047	desert 	1
+2048	wilderness 	32
+2048	desert 	13
+2048	desolate 	4
+2048	solitary 	1
+2049	bring to desolation 	2
+2049	desolate 	1
+2049	come to nought 	1
+2049	make desolate 	1
+2050	desolation 	3
+2051	strive 	1
+2052	strife 	5
+2052	contention 	1
+2052	contentious 	1
+2053	wool 	2
+2054	strife 	4
+2054	debate 	2
+2054	contention 	2
+2054	variance 	1
+2055	goat 	1
+2056	goat 	1
+2056	kid 	1
+2057	Hermas 	1
+2058	interpretation 	2
+2059	by interpretation 	3
+2059	being interpreted 	1
+2060	Mercurius 	1
+2060	Hermes a Christian 	1
+2061	Hermogenes 	1
+2062	creeping thing 	3
+2062	serpent 	1
+2063	Red 	2
+2064	come 	616
+2064	go 	13
+2064	miscellaneous 	13
+2064	vr come 	1
+2065	ask 	23
+2065	beseech 	14
+2065	pray 	14
+2065	desire 	6
+2065	intreat 	1
+2066	apparel 	3
+2066	clothing 	2
+2066	robe 	1
+2066	raiment 	1
+2067	garment 	1
+2068	eat 	63
+2068	live 	1
+2068	devour 	1
+2069	Esli 	1
+2070	are 	49
+2070	have hope 	1
+2070	was 	1
+2070	be 	1
+2070	have our being 	1
+2071	shall be 	151
+2071	will be 	9
+2071	be 	6
+2071	shall have 	6
+2071	shall come to pass 	4
+2071	shall 	4
+2071	not translated 	1
+2071	miscellaneous 	7
+2072	glass 	2
+2073	evening 	2
+2073	eventide 	1
+2074	Esrom 	3
+2075	are 	82
+2075	be 	5
+2075	is 	2
+2075	belong to 	1
+2075	have been 	1
+2075	not translated 	1
+2076	is 	744
+2076	are 	51
+2076	was 	29
+2076	be 	25
+2076	have 	11
+2076	not translated 	15
+2076	miscellaneous 	25
+2076	vr is 	1
+2077	let be 	10
+2077	be 	5
+2077	not translated 	1
+2078	last 	46
+2078	lowest 	2
+2078	uttermost 	2
+2078	last state 	2
+2078	ends 	1
+2078	latter end 	1
+2079	lie at the point of death 	1
+2080	within 	3
+2080	in 	1
+2080	into 	1
+2080	inward 	1
+2080	inner 	1
+2080	not translated 	1
+2081	within 	7
+2081	from within 	3
+2081	inward part 	1
+2081	inwardly 	1
+2081	inward man 	1
+2081	without 	1
+2082	inner 	1
+2082	within 	1
+2083	friend 	3
+2083	fellow 	1
+2084	other tongue 	1
+2085	teach other doctrine 	1
+2085	teach otherwise 	1
+2086	be unequally yoked together with 	1
+2087	another 	43
+2087	other 	42
+2087	other thing 	3
+2087	some 	2
+2087	next day 	2
+2087	miscellaneous 	7
+2088	otherwise 	1
+2089	yet 	51
+2089	more 	28
+2089	any more 	5
+2089	still 	4
+2089	further 	4
+2089	longer 	3
+2089	miscellaneous 	12
+2090	prepare 	29
+2090	make ready 	10
+2090	provide 	1
+2091	preparation 	1
+2092	ready 	14
+2092	prepared 	1
+2092	readiness 	1
+2092	make ready to (one's) hand 	1
+2093	ready 	3
+2094	year 	49
+2095	well 	3
+2095	well done 	2
+2095	good 	1
+2096	Eve 	2
+2097	preach 	23
+2097	preach the Gospel 	22
+2097	bring good tidings 	2
+2097	show glad tidings 	2
+2097	bring glad tidings 	1
+2097	declare 	1
+2097	declare glad tidings 	1
+2097	miscellaneous 	3
+2098	gospel 	46
+2098	gospel of Christ 	11
+2098	gospel of God 	7
+2098	gospel of the Kingdom 	3
+2098	miscellaneous 	10
+2099	evangelist 	3
+2100	please 	2
+2100	be well pleased 	1
+2101	acceptably 	4
+2101	well pleasing 	3
+2101	please well 	1
+2101	accepted 	1
+2102	acceptable 	1
+2103	Eubulus 	1
+2104	nobleman 	1
+2104	more noble 	1
+2104	noble 	1
+2105	fair weather 	1
+2106	be well pleased 	7
+2106	please 	5
+2106	have pleasure 	4
+2106	be willing 	2
+2106	be (one's) good pleasure 	1
+2106	take pleasure 	1
+2106	think good 	1
+2107	good pleasure 	4
+2107	good will 	2
+2107	seem good 	2
+2107	desire 	1
+2108	good deed done 	1
+2108	benefit 	1
+2109	doing good 	1
+2110	benefactor 	1
+2111	fit 	2
+2111	meet 	1
+2112	immediately 	35
+2112	straightway 	32
+2112	forthwith 	7
+2112	miscellaneous 	6
+2113	come with a straight course 	2
+2114	be of good cheer 	2
+2114	be merry 	1
+2115	of good cheer 	1
+2115	more cheerfully 	1
+2116	make straight 	1
+2116	governor 	1
+2117	straight 	5
+2117	right 	3
+2117	immediately 	3
+2117	straightway 	2
+2117	anon 	1
+2117	by and by 	1
+2117	forthwith 	1
+2118	righteousness 	1
+2119	have leisure 	1
+2119	spend time 	1
+2119	have convenient time 	1
+2120	opportunity 	2
+2121	convenient 	1
+2121	in time of need 	1
+2122	conveniently 	1
+2122	in season 	1
+2123	easier 	7
+2124	godly fear 	1
+2124	fear 	1
+2125	fearing 	1
+2125	moved with fear 	1
+2126	devout 	3
+2127	bless 	43
+2127	praise 	1
+2128	blessed (said of God) 	8
+2129	blessing 	11
+2129	bounty 	2
+2129	bountifully 	2
+2129	fair speech 	1
+2130	ready to distribute 	1
+2131	Eunice 	1
+2132	agree 	1
+2133	benevolence 	1
+2133	good will 	1
+2134	make eunuchs 	2
+2135	eunuch 	8
+2136	Euodias 	1
+2137	prosper 	3
+2137	have a prosperous journey 	1
+2138	easy to be intreated 	1
+2139	which doth so easily beset 	1
+2140	to do good 	1
+2141	his ability 	1
+2142	wealth 	1
+2143	grace 	1
+2144	accepted 	3
+2144	acceptable 	2
+2145	that (one) may attend upon + (4314) + version=kjv (3588) 	1
+2146	make a fair show 	1
+2147	find 	174
+2147	miscellaneous 	4
+2148	Euroclydon 	1
+2149	broad 	1
+2150	godliness 	14
+2150	holiness 	1
+2151	worship 	1
+2151	show piety 	1
+2152	devout 	3
+2152	godly 	1
+2153	godly 	2
+2154	easy to understood 	1
+2155	tenderhearted 	1
+2155	pitiful 	1
+2156	honestly 	2
+2156	decently 	1
+2157	comeliness 	1
+2158	honourable 	3
+2158	comely 	2
+2159	vehemently 	1
+2159	mightily 	1
+2160	jesting 	1
+2161	Eutychus 	1
+2162	good report 	1
+2163	of good report 	1
+2164	bring forth plentifully 	1
+2165	rejoice 	6
+2165	be merry 	3
+2165	make merry 	3
+2165	fare 	1
+2165	make glad 	1
+2166	Euphrates 	2
+2167	joy 	1
+2167	gladness 	1
+2168	give thanks 	26
+2168	thank 	12
+2168	be thankful 	1
+2169	thanksgiving 	9
+2169	giving of thanks 	3
+2169	thanks 	2
+2169	thankfulness 	1
+2170	thankful 	1
+2171	vow 	2
+2171	prayer 	1
+2172	wish 	3
+2172	pray 	2
+2172	can wish 	1
+2172	I would 	1
+2173	profitable 	2
+2173	meet for use 	1
+2174	be of good comfort 	1
+2175	sweet savour 	1
+2175	sweet smelling 	1
+2175	sweet smell 	1
+2176	left 	5
+2176	on the left hand 	4
+2176	left foot 	1
+2177	leap 	1
+2178	once 	5
+2179	of Ephesus 	1
+2180	Ephesian 	6
+2180	of Ephesus 	1
+2181	Ephesus 	15
+2182	inventor 	1
+2183	course 	2
+2184	daily 	1
+2185	reach 	2
+2186	come upon 	6
+2186	come 	4
+2186	stand 	3
+2186	stand by 	3
+2186	miscellaneous 	5
+2187	Ephraim 	1
+2188	ephphatha 	1
+2189	enmity 	5
+2189	hatred 	1
+2190	enemy 	30
+2190	foe 	2
+2191	viper 	5
+2192	have 	613
+2192	be 	22
+2192	need 	12
+2192	miscellaneous 	63
+2192	vr have 	2
+2193	till 	28
+2193	unto 	27
+2193	until 	25
+2193	to 	16
+2193	till 	11
+2193	miscellaneous 	41
+2194	Zabulon 	3
+2195	Zacchaeus 	3
+2196	Zara 	1
+2197	Zacharias 	11
+2198	live 	117
+2198	be alive 	9
+2198	alive 	6
+2198	quick 	4
+2198	lively 	3
+2198	not translated 	1
+2198	miscellaneous 	2
+2198	vr live 	1
+2199	Zebedee 	12
+2200	hot 	3
+2201	pair 	1
+2201	yoke 	1
+2202	band 	1
+2203	Jupiter 	2
+2204	be fervent 	1
+2204	fervent 	1
+2205	zeal 	6
+2205	envying 	5
+2205	indignation 	2
+2205	envy 	1
+2205	fervent mind 	1
+2205	jealousy 	1
+2205	emulation 	1
+2206	zealously affect 	2
+2206	more with envy 	2
+2206	envy 	1
+2206	be zealous 	1
+2206	affect 	1
+2206	desire 	1
+2206	covet 	1
+2206	covet earnestly 	1
+2206	miscellaneous 	2
+2207	zealous 	5
+2208	Zelotes 	2
+2209	loss 	3
+2209	damage 	1
+2210	lose 	2
+2210	suffer loss 	2
+2210	be cast away 	1
+2210	receive damage 	1
+2211	Zenas 	1
+2212	seek 	100
+2212	seek for 	5
+2212	go about 	4
+2212	desire 	3
+2212	miscellaneous 	7
+2213	question 	5
+2214	question 	6
+2215	tares 	8
+2216	Zorobabel 	3
+2217	darkness 	2
+2217	mist 	1
+2217	blackness 	1
+2218	yoke 	5
+2218	pair of balances 	1
+2219	leaven 	13
+2220	leaven 	4
+2221	catch 	1
+2221	take captive 	1
+2222	life 	133
+2222	lifetime 	1
+2223	girdle 	6
+2223	purse 	2
+2224	gird 	2
+2225	preserve 	1
+2225	live 	1
+2226	beast 	23
+2227	quicken 	9
+2227	give life 	2
+2227	make alive 	1
+2228	or 	259
+2228	than 	38
+2228	either 	8
+2228	or else 	5
+2228	nor 	5
+2228	not translated 	21
+2228	miscellaneous 	20
+2229	surely 	1
+2230	be governor 	2
+2231	reign 	1
+2232	governor 	19
+2232	ruler 	2
+2232	prince 	1
+2233	count 	10
+2233	think 	4
+2233	esteem 	3
+2233	have rule over 	3
+2233	be governor 	2
+2233	miscellaneous 	6
+2234	gladly 	3
+2235	now 	37
+2235	already 	17
+2235	yet 	2
+2235	even now 	1
+2235	by this time 	1
+2235	now already 	1
+2236	most gladly 	1
+2236	very gladly 	1
+2237	pleasure 	3
+2237	lust 	2
+2238	mint 	2
+2239	manners 	1
+2240	come 	27
+2241	Eli 	2
+2242	Heli 	1
+2243	Elias 	30
+2244	stature 	5
+2244	age 	3
+2245	what great 	1
+2245	how great 	1
+2246	sun 	30
+2246	east 	2
+2247	nail 	2
+2248	us 	148
+2248	we 	25
+2248	our 	2
+2248	us-ward 	2
+2248	not translated 	1
+2249	we 	122
+2249	us 	3
+2249	we ourselves 	1
+2250	day 	355
+2250	daily 	15
+2250	time 	3
+2250	not translated 	2
+2250	miscellaneous 	14
+2251	our 	8
+2251	your 	1
+2252	was 	13
+2252	I imprisoned + (1473) + version=kjv (5439) 	1
+2252	I was + (1473) 	1
+2252	should be 	1
+2253	half dead 	1
+2254	us 	161
+2254	we 	13
+2254	our 	2
+2254	for us 	1
+2255	half 	5
+2256	half an hour 	1
+2257	our 	313
+2257	us 	82
+2257	we 	12
+2257	not translated 	1
+2257	miscellaneous 	2
+2258	was 	266
+2258	were 	115
+2258	had been 	12
+2258	had 	11
+2258	taught 	4
+2258	stood + (2476) 	4
+2258	miscellaneous 	42
+2258	vr was 	1
+2259	when 	2
+2260	than 	1
+2261	gentle 	2
+2262	Er 	1
+2263	quiet 	1
+2264	quiet 	1
+2264	Antipas 	27
+2264	the Great 	11
+2264	Herod Agrippa 	6
+2265	Herodians 	3
+2266	Herodias 	6
+2267	Herodian 	1
+2268	Esaias 	21
+2269	Esau 	3
+2270	hold (one's) peace 	2
+2270	rest 	1
+2270	cease 	1
+2270	be quiet 	1
+2271	silent 	3
+2271	quietness 	1
+2272	quiet 	1
+2272	peaceable 	1
+2273	whether 	1
+2274	overcome 	2
+2274	be inferior 	1
+2275	diminishing 	1
+2275	fault 	1
+2276	worse 	1
+2276	less 	1
+2277	be 	2
+2278	roaring 	1
+2278	sounding 	1
+2279	sound 	2
+2279	fame 	1
+2280	Thaddaeus 	2
+2281	sea 	92
+2282	cherish 	2
+2283	Thamar 	1
+2284	be amazed 	2
+2284	be astonished 	2
+2285	be amazed 	1
+2285	be astonished + (4023) 	1
+2285	wonder 	1
+2286	deadly 	1
+2287	deadly 	1
+2288	death 	117
+2288	deadly 	2
+2289	put to death 	4
+2289	cause to be put to death 	3
+2289	kill 	2
+2289	become dead 	1
+2289	mortify 	1
+2290	bury 	11
+2291	Thara 	1
+2292	be bold 	2
+2292	be confident 	1
+2292	confident 	1
+2292	have confidence 	1
+2292	boldly 	1
+2293	be of good cheer 	5
+2293	be of good comfort 	3
+2294	courage 	1
+2295	admiration 	1
+2296	marvel 	29
+2296	wonder 	14
+2296	have in admiration 	1
+2296	admire 	1
+2296	marvelled 	1
+2296	vr wonder 	1
+2297	wonderful 	1
+2298	marvellous 	5
+2298	marvel 	1
+2298	marvellous thing 	1
+2299	goddess 	3
+2300	see 	20
+2300	behold 	2
+2300	look 	1
+2300	look upon 	1
+2301	make a gazing stock 	1
+2302	theatre 	2
+2302	spectacle 	1
+2303	brimstone 	7
+2304	divine 	2
+2304	Godhead 	1
+2305	Godhead 	1
+2306	brimstone 	1
+2307	will 	62
+2307	desire 	1
+2307	pleasure 	1
+2308	will 	1
+2309	will/would 	159
+2309	will/would have 	16
+2309	desire 	13
+2309	desirous 	3
+2309	list 	3
+2309	to will 	2
+2309	miscellaneous 	4
+2310	foundation 	16
+2311	found 	2
+2311	ground 	2
+2311	lay the foundation 	1
+2311	settle 	1
+2312	taught of God 	1
+2313	fight against God 	1
+2314	to fight against God 	1
+2315	given by inspiration of God 	1
+2316	God 	1320
+2316	god 	13
+2316	godly 	3
+2316	God-ward 	2
+2316	miscellaneous 	5
+2317	godliness 	1
+2318	worshipper of God 	1
+2319	hater of God 	1
+2320	Godhead 	1
+2321	Theophilus 	2
+2322	household 	2
+2322	healing 	2
+2323	heal 	38
+2323	cure 	5
+2323	worship 	1
+2324	servant 	1
+2325	reap 	21
+2326	harvest 	13
+2327	reaper 	2
+2328	warm (one's) self 	5
+2328	be warmed 	1
+2329	heat 	1
+2330	summer 	3
+2331	Thessalonians 	5
+2331	of Thessalonica 	1
+2332	Thessalonica 	5
+2333	Theudas 	1
+2334	see 	40
+2334	behold 	11
+2334	perceive 	4
+2334	consider 	1
+2334	look on 	1
+2335	sight 	1
+2336	sheath 	1
+2337	give suck 	4
+2337	suck 	1
+2337	suckling 	1
+2338	woman 	2
+2338	female 	3
+2339	trap 	1
+2340	catch 	1
+2341	fight with beasts 	1
+2342	beast 	42
+2342	wild beast 	3
+2342	venomous beast 	1
+2343	lay up 	3
+2343	in store 	1
+2343	lay up treasure 	1
+2343	treasure up 	1
+2343	heap treasure together 	1
+2343	keep in store 	1
+2344	treasure 	18
+2345	touch 	2
+2345	handle 	1
+2346	trouble 	4
+2346	afflict 	3
+2346	narrow 	1
+2346	throng 	1
+2346	suffer tribulation 	1
+2347	tribulation 	21
+2347	affliction 	17
+2347	trouble 	3
+2347	anguish 	1
+2347	persecution 	1
+2347	burdened 	1
+2347	to be afflicted 	1
+2348	be dead 	10
+2348	die 	1
+2348	dead man 	1
+2348	dead 	1
+2349	mortal 	5
+2349	mortality 	1
+2350	make ado 	1
+2350	make a noise 	1
+2350	set on an uproar 	1
+2350	trouble (one's) self 	1
+2351	tumult 	4
+2351	uproar 	3
+2352	bruise 	1
+2353	cattle 	1
+2354	mourn 	2
+2354	lament 	2
+2355	lamentation 	1
+2356	religion 	3
+2356	worshipping 	1
+2357	religious 	1
+2358	cause to triumph 	1
+2358	triumph over 	1
+2359	hair 	15
+2360	trouble 	3
+2361	great drop 	1
+2362	throne 	54
+2362	seat 	7
+2363	Thyatira 	4
+2364	daughter 	29
+2365	little daughter 	1
+2365	young daughter 	1
+2366	tempest 	1
+2367	thyine 	1
+2368	incense 	4
+2368	odour 	2
+2369	censer 	1
+2370	burn incense 	1
+2371	highly displeased 	1
+2372	wrath 	15
+2372	fierceness 	2
+2372	indignation 	1
+2373	be wroth 	1
+2374	door 	38
+2374	gate 	1
+2375	shield 	1
+2376	window 	2
+2377	porter 	2
+2377	that keeps the door 	2
+2378	sacrifice 	29
+2379	altar 	23
+2380	kill 	8
+2380	sacrifice 	3
+2380	do sacrifice 	2
+2380	slay 	1
+2381	Thomas 	12
+2382	breastplate 	5
+2383	Jairus 	2
+2384	Jacob 	27
+2385	James (son of Zebedee) 	21
+2385	James (son of Alphaeus) 	16
+2385	James (brother of Jesus) 	5
+2386	healing 	3
+2387	Jambres 	1
+2388	Janna 	1
+2389	Jannes 	1
+2390	heal 	26
+2390	make whole 	2
+2391	Jared 	1
+2392	cure 	1
+2392	to heal 	1
+2392	healing 	1
+2393	jasper 	4
+2394	Jason 	5
+2395	physician 	7
+2396	behold 	22
+2396	lo 	3
+2396	look 	1
+2396	see 	1
+2397	countenance 	1
+2398	his own 	48
+2398	their own 	13
+2398	privately 	8
+2398	apart 	7
+2398	your own 	6
+2398	his 	5
+2398	own 	5
+2398	not translated 	1
+2398	miscellaneous 	20
+2399	unlearned 	3
+2399	ignorant 	1
+2399	rude 	1
+2400	behold 	181
+2400	lo 	29
+2400	see 	3
+2401	Idumaea 	1
+2402	sweat 	1
+2403	Jezebel 	1
+2404	Hierapolis 	1
+2405	priest's office 	1
+2405	office of the priesthood 	1
+2406	priesthood 	2
+2407	execute the priest's office 	1
+2408	Jeremias 	1
+2408	Jeremy 	2
+2409	priest 	31
+2409	high priest 	1
+2410	Jericho 	7
+2411	temple 	71
+2412	as becometh holiness 	1
+2413	holy 	2
+2414	Jerusalem 	59
+2415	of Jerusalem 	2
+2416	commit sacrilege 	1
+2417	robber of the churches 	1
+2418	minister 	1
+2419	Jerusalem 	83
+2420	priesthood 	4
+2421	Jesse 	5
+2422	Jephthae 	1
+2423	Jechonias 	2
+2424	Jesus 	972
+2424	Jesus (Joshua) 	2
+2424	Jesus (Justus) 	1
+2425	many 	11
+2425	much 	6
+2425	worthy 	5
+2425	long 	4
+2425	sufficient 	3
+2425	miscellaneous 	12
+2426	sufficiency 	1
+2427	make able 	1
+2427	make meet 	1
+2428	supplication 	1
+2429	moisture 	1
+2430	Iconium 	6
+2431	cheerful 	1
+2432	cheerfulness 	1
+2433	be merciful 	1
+2433	make reconciliation 	1
+2434	propitiation 	2
+2435	propitiation 	1
+2435	mercyseat 	1
+2436	be it far 	1
+2436	merciful 	1
+2437	Illyricum 	1
+2438	latchet 	3
+2438	thong 	1
+2439	clothe 	2
+2440	garment 	30
+2440	raiment 	12
+2440	clothes 	12
+2440	cloke 	2
+2440	robe 	2
+2440	vesture 	2
+2440	apparel 	1
+2440	not translated 	1
+2441	vesture 	2
+2441	apparel 	2
+2441	raiment 	1
+2441	array 	1
+2442	be affectionately desirous 	1
+2443	that 	536
+2443	to 	69
+2443	for to 	8
+2443	not translated 	1
+2443	miscellaneous 	7
+2444	why 	5
+2444	wherefore 	1
+2445	Joppa 	10
+2446	Jordan 	15
+2447	poison 	2
+2447	rust 	1
+2448	Juda 	3
+2449	Judaea 	43
+2449	Jewry 	2
+2450	to live as do the Jews 	1
+2451	Jewish 	1
+2452	as do the Jews 	1
+2453	Jew 	193
+2453	of Judea 	1
+2453	Jewess 	2
+2454	Jews' religion 	2
+2455	Judas (Iscariot) 	22
+2455	Juda (Son of Jacob) 	7
+2455	Judah (Son of Jacob)  	1
+2455	Judas (Son of Jacob) 	2
+2455	Judas (Brother of James) 	3
+2455	Jude (Brother of James) 	1
+2455	Judas Barsabas 	3
+2455	Juda (Ancestors of Jesus 	2
+2455	miscellaneous 	1
+2456	Julia 	1
+2457	Julius 	2
+2458	Junia 	1
+2459	Justus (of Corinth) 	1
+2459	Justus (surnamed Barabbas) 	1
+2459	Justus 	
+2459	Justus (a fellow worker of Paul) 	1
+2460	horseman 	2
+2461	horseman 	1
+2462	horse 	16
+2463	rainbow 	2
+2464	Isaac 	20
+2465	equal to the angels 	1
+2466	Issachar 	1
+2467	know 	2
+2468	be thou 	1
+2468	be 	1
+2468	agree 	1
+2468	give thyself wholly to + (1722) 	1
+2468	not translated 	1
+2469	Iscariot 	11
+2470	equal 	4
+2470	agree together 	2
+2470	as much 	1
+2470	like 	1
+2471	equality 	2
+2471	equal 	1
+2472	like precious 	1
+2473	likeminded 	1
+2474	Israel 	70
+2475	Israel 	5
+2475	Israelite 4 	
+2476	stand 	116
+2476	set 	11
+2476	establish 	5
+2476	stand still 	4
+2476	stand by 	3
+2476	miscellaneous 	17
+2476	vr stand 	2
+2477	see 	1
+2478	mighty 	10
+2478	strong 	9
+2478	strong man 	5
+2478	boisterous 	1
+2478	powerful 	1
+2478	valiant 	1
+2479	strength 	4
+2479	power 	2
+2479	might 	2
+2479	ability 	1
+2479	mightily 	1
+2479	mighty 	1
+2480	can (could) 	9
+2480	be able 	6
+2480	avail 	3
+2480	prevail 	3
+2480	be whole 	2
+2480	cannot 	1
+2480	can do 	1
+2480	may 	1
+2480	miscellaneous 	3
+2481	it may be 	1
+2482	Italy 	5
+2483	Italian 	1
+2484	Ituraea 	1
+2485	little fish 	1
+2485	small fish 	1
+2486	fish 	20
+2487	step 	3
+2488	Joatham 	2
+2489	Joanna 	2
+2490	Joanna 	1
+2491	John (the Baptist) 	92
+2491	John (the apostle) 	36
+2491	John (Mark) 	4
+2491	John (the chief priest) 	1
+2492	Job 	1
+2493	Joel 	1
+2494	Jonan 	1
+2495	Jonas (the prophet) 	9
+2495	Jona (father of Peter) 	4
+2496	Joram 	2
+2497	Jorim 	1
+2498	Josaphat 	2
+2499	Jose (son of Eliezer) 	1
+2500	Joses (brother of James) 	3
+2500	Joses (Brother of Jesus) 	2
+2500	Joses (Barnabas) 	1
+2501	Joseph (husband of Mary) 	16
+2501	Joseph (son of Jacob) 	9
+2501	Joseph of Arimathaea 	6
+2501	Joseph (son of Judas) 	1
+2501	Joseph of Barsabas 	1
+2501	Joseph son of Jonan 	1
+2501	Joseph (son of Mattathias) 	1
+2502	Josias 	2
+2503	jot 	1
+2504	and I 	34
+2504	I also 	17
+2504	so I 	4
+2504	I 	4
+2504	even I 	3
+2504	me also 	3
+2504	miscellaneous 	7
+2505	as 	1
+2506	destruction 	2
+2506	pulling down 	1
+2507	take down 	4
+2507	destroy 	2
+2507	put down 	1
+2507	pull down 	1
+2507	cast down 	1
+2508	purge 	2
+2509	as 	7
+2509	even as 	5
+2509	as well as 	1
+2510	fasten on 	1
+2511	cleanse 	16
+2511	make clean 	5
+2511	be clean 	3
+2511	purge 	3
+2511	purify 	3
+2512	cleansing 	2
+2512	purifying 	2
+2512	be purged 	1
+2512	purge 	1
+2512	purification 	1
+2513	pure 	17
+2513	clean 	10
+2513	clear 	1
+2514	purifying 	1
+2515	seat 	3
+2516	sit 	6
+2517	in order 	2
+2517	afterward 	1
+2517	after 	1
+2517	by order 	1
+2518	sleep 	22
+2519	master 	3
+2520	fit 	1
+2520	convenient 	1
+2521	sit 	82
+2521	sit down 	3
+2521	sit by 	2
+2521	be set down 	1
+2521	dwell 	1
+2522	daily 	1
+2523	sit 	26
+2523	sit down 	14
+2523	set 	2
+2523	be set 	2
+2523	be set down 	2
+2523	continue 	1
+2523	tarry 	1
+2524	let down 	4
+2525	make 	8
+2525	make ruler 	6
+2525	ordain 	3
+2525	be 	2
+2525	appoint 	1
+2525	conduct 	1
+2525	set 	1
+2526	according to 	2
+2526	as 	1
+2526	inasmuch as 	1
+2527	at all 	1
+2528	arm 	1
+2529	clearly see 	1
+2530	because 	2
+2530	forsomuch as 	1
+2530	as 	1
+2530	according as 	1
+2531	as 	138
+2531	even as 	36
+2531	according as 	4
+2531	when 	1
+2531	according to 	1
+2531	how 	1
+2531	as well as 	1
+2532	and 	8172
+2532	also 	514
+2532	even 	108
+2532	both 	43
+2532	then 	20
+2532	so 	18
+2532	likewise 	13
+2532	not tr. 	348
+2532	miscellaneous 	32
+2532	vr and 	1
+2533	Caiaphas 	9
+2534	at least 	1
+2534	also 	1
+2535	Cain 	3
+2536	Cainan 	2
+2537	new 	44
+2538	newness 	2
+2539	though 	5
+2539	and yet 	1
+2540	time 	64
+2540	season 	13
+2540	opportunity 	2
+2540	due time 	2
+2540	always + (1722) + version=kjv (3956) 	2
+2540	not translated 	1
+2540	miscellaneous 	3
+2541	Caesar 	30
+2542	Caesarea (of Palestine) 	15
+2542	Caesarea (Philippi) 	2
+2543	although 	1
+2544	though 	2
+2544	nevertheless 	1
+2545	burn 	10
+2545	did burn 	1
+2545	light 	1
+2546	and there 	9
+2546	there also 	1
+2546	thither also 	1
+2547	and from thence 	5
+2547	and thence 	2
+2547	and afterward 	1
+2547	thence also 	1
+2548	and he 	4
+2548	and they 	3
+2548	he also 	3
+2548	and them 	2
+2548	and the other 	2
+2548	and him 	2
+2548	they also 	2
+2548	him also 	1
+2548	miscellaneous 	4
+2549	malice 	6
+2549	maliciousness 	2
+2549	evil 	1
+2549	wickedness 	1
+2549	naughtiness 	1
+2550	malignity 	1
+2551	curse 	2
+2551	speak evil of 	2
+2552	suffering affliction 	1
+2553	endure hardness 	1
+2553	suffer trouble 	1
+2553	endure affliction 	1
+2553	be afflicted 	1
+2554	do evil 	3
+2554	evil doing 	1
+2555	evildoer 	4
+2555	malefactor 	1
+2556	evil 	40
+2556	evil things 	3
+2556	harm 	2
+2556	that which is evil 	2
+2556	wicked 	1
+2556	ill 	1
+2556	bad 	1
+2556	noisome 	1
+2557	malefactor 	3
+2557	evil doer 1 	
+2558	torment 	1
+2558	suffer adversity 	1
+2559	entreat evil 	2
+2559	make evil affected 	1
+2559	vex 	1
+2559	hurt 	1
+2559	harm 	1
+2560	be sick 	7
+2560	be diseased + (2192) 	2
+2560	evil 	2
+2560	grievously 	1
+2560	sore 	1
+2560	miserable 	1
+2560	amiss 	1
+2560	sick people + (2192) 	1
+2561	affliction 	1
+2562	stubble 	1
+2563	reed 	11
+2563	pen 	1
+2564	call 	125
+2564	bid 	16
+2564	be so named 	1
+2564	named 	1
+2564	miscellaneous 	3
+2565	good olive tree 	1
+2566	very well 	1
+2567	teacher of good things 	1
+2568	Fair Havens 	1
+2569	well doing 	1
+2570	good 	83
+2570	better 	7
+2570	honest 	5
+2570	meet 	2
+2570	goodly 	2
+2570	miscellaneous 	3
+2571	vail 	4
+2572	cover 	5
+2572	hide 	3
+2573	well 	30
+2573	good 	2
+2573	full well 	1
+2573	misc. 	3
+2574	camel 	6
+2575	furnace 	4
+2576	close 	2
+2577	be wearied 	1
+2577	sick 	1
+2577	faint 	1
+2578	bow 	4
+2579	though 	4
+2579	and if 	3
+2579	if but 	2
+2579	also if 	1
+2579	at the least 	1
+2579	and if so much as 	1
+2579	yet 	1
+2580	Cana 	4
+2581	Canaanite 	2
+2582	Candace 	1
+2583	rule 	4
+2583	line 	1
+2584	Capernaum 	16
+2585	corrupt 	1
+2586	smoke 	13
+2587	Cappadocia 	2
+2588	heart 	159
+2588	broken hearted 	1
+2589	which knows the hearts 	2
+2590	fruit 	66
+2591	Carpus 	1
+2592	bring forth fruit 	6
+2592	bear fruit 	1
+2592	be fruitful 	1
+2593	fruitful 	1
+2594	endure 	1
+2595	mote 	6
+2596	according to 	107
+2596	after 	61
+2596	against 	58
+2596	in 	36
+2596	by 	27
+2596	daily 	15
+2596	as 	11
+2596	miscellaneous 	165
+2597	come down 	41
+2597	descend 	18
+2597	go down 	17
+2597	fall down 	1
+2597	step down 	1
+2597	get down 	1
+2597	fall 	1
+2597	vr come down 	1
+2598	cast down 	2
+2598	lay 	1
+2599	burden 	1
+2600	descent 	1
+2601	bring down 	1
+2601	thrust down 	1
+2602	foundation 	10
+2602	to conceive 	1
+2603	beguile of (one's) reward 	1
+2604	setter forth 	1
+2605	preach 	10
+2605	show 	3
+2605	declare 	2
+2605	teach 	1
+2605	speak of 	1
+2606	laugh to scorn 	3
+2607	condemn 	2
+2607	blame 	1
+2608	break 	4
+2609	bring down 	5
+2609	land 	2
+2609	bring 	1
+2609	bring forth 	1
+2609	touch 	1
+2610	subdue 	1
+2611	bind up 	1
+2612	evident 	1
+2613	condemn 	5
+2614	follow after 	1
+2615	bring into bondage 	2
+2616	oppress 	2
+2617	ashamed 	7
+2617	confound 	3
+2617	dishonour 	2
+2617	shame 	1
+2618	burn 	7
+2618	burn up 	4
+2618	burn utterly 	1
+2619	cover 	3
+2620	boast against 	1
+2620	rejoice against 	1
+2620	glory 	1
+2620	boast 	1
+2621	lie 	6
+2621	sit at meat 	3
+2621	keep 	1
+2621	sat down 	1
+2622	break 	2
+2623	shut up 	2
+2624	divide by lot 	1
+2625	sit down 	1
+2625	sit at meat 	1
+2625	make sit down 	1
+2626	overflow 	1
+2627	flood 	4
+2628	follow after 	1
+2628	follow 	1
+2629	cut 	1
+2630	cast down headlong 	1
+2631	condemnation 	3
+2632	condemn 	17
+2632	damn 	2
+2633	condemnation 	1
+2633	condemn 	1
+2634	exercise dominion over 	1
+2634	overcome 	1
+2634	be lord over 	1
+2634	exercise lordship over 	1
+2635	speak evil of 	4
+2635	speak against 	1
+2636	backbiting 	1
+2636	evil speaking 	1
+2637	backbiter 	1
+2638	take 	3
+2638	apprehend 	3
+2638	comprehend 	2
+2638	come upon 	1
+2638	attain 	1
+2638	find 	1
+2638	overtake 	1
+2638	obtain 	1
+2639	take into the number 	1
+2640	remnant 	1
+2641	leave 	22
+2641	forsake 	2
+2641	reserve 	1
+2642	stone 	1
+2643	reconciliation 	2
+2643	atonement 	1
+2643	reconciling 	1
+2644	reconcile 	6
+2645	residue 	1
+2646	guest chamber 	2
+2646	inn 1 	
+2647	destroy 	9
+2647	throw down 	3
+2647	lodge 	1
+2647	guest 	1
+2647	come to nought 	1
+2647	overthrow 	1
+2647	dissolve 	1
+2648	consider 	1
+2649	witness against 	4
+2650	abode 	1
+2651	alone 	2
+2652	curse 	1
+2653	curse 	1
+2654	consume 	1
+2655	be burdensome 	2
+2655	be chargeable 	1
+2656	beckon 	1
+2657	consider 	7
+2657	behold 	4
+2657	perceive 	2
+2657	discover 	1
+2658	come 	11
+2658	attain 	2
+2659	slumber 	1
+2660	prick 	1
+2661	count worthy 	2
+2661	account worthy 	2
+2662	tread underfoot 	2
+2662	trample 	1
+2662	tread down 	1
+2662	tread 	1
+2663	rest 	9
+2664	restrain 	1
+2664	rest 	1
+2664	give rest 	1
+2664	cease 	1
+2665	veil 	6
+2666	swallow 	4
+2666	drown 	1
+2666	devour 	1
+2667	fall 	1
+2667	fall down 	1
+2668	arrive 	1
+2669	oppress 	1
+2669	vex 	1
+2670	sink 	1
+2670	drown 	1
+2671	curse 	3
+2671	cursing 	2
+2671	cursed 	1
+2672	curse 	6
+2673	destroy 	5
+2673	do away 	3
+2673	abolish 	3
+2673	cumber 	1
+2673	loose 	1
+2673	cease 	1
+2673	fall 	1
+2673	deliver 	1
+2673	miscellaneous 	11
+2674	number 	1
+2675	perfect 	2
+2675	make perfect 	2
+2675	mend 	2
+2675	be perfect 	2
+2675	fit 	1
+2675	frame 	1
+2675	prepare 	1
+2675	restore 	1
+2675	perfectly joined together 	1
+2676	perfection 	1
+2677	perfecting 	1
+2678	beckon 	4
+2679	ruin 	1
+2679	dig down 	1
+2680	prepare 	6
+2680	build 	3
+2680	make 	1
+2680	ordain 	1
+2681	lodge 	3
+2681	rest 	1
+2682	nest 	2
+2683	shadow 	1
+2684	spy out 	1
+2685	spy 	1
+2686	deal subtilly with 1 	
+2687	appease 	1
+2687	quiet 	1
+2688	behaviour 	1
+2689	apparel 	1
+2690	overthrow 	2
+2691	begin to wax wanton against 	1
+2692	subverting 	1
+2692	overthrow 	1
+2693	overthrow 	1
+2694	hale 	1
+2695	slay 	1
+2696	seal 	1
+2697	possession 	2
+2698	lay 	1
+2698	show 	1
+2698	do 	1
+2699	concision 	1
+2700	thrust through 	1
+2701	run down 	1
+2702	fall 	1
+2702	sink down 	1
+2702	give 	1
+2703	flee 	2
+2704	corrupt 	1
+2704	utterly perish 	1
+2705	kiss 	6
+2706	despise 	9
+2707	despiser 	1
+2708	pour 	2
+2709	under the earth 	1
+2710	abuse 	2
+2711	cool 	1
+2712	wholly give to idolatry 	1
+2713	over against 	4
+2713	before 	1
+2714	before 	2
+2714	in sight of 	1
+2714	in (one's) sight 	1
+2714	before the presence of 	1
+2715	exercise authority upon 	2
+2716	work 	15
+2716	do 	5
+2716	do deed 	1
+2716	to perform 	1
+2716	cause 	1
+2716	work out 	1
+3000	serve 	16
+3000	worship 	3
+3000	do the service 	1
+3000	worshipper 	1
+3001	herb 	4
+3002	Lebbaeus 	1
+3003	legion 	4
+3004	say 	1184
+3004	speak 	61
+3004	call 	48
+3004	tell 	33
+3004	miscellaneous 	17
+3005	remnant 	1
+3006	smooth 	1
+3007	lack 	2
+3007	be wanting 	2
+3007	want 	1
+3007	be destitute 	1
+3008	minister 	3
+3009	service 	3
+3009	ministry 	2
+3009	ministration 	1
+3010	ministering 	1
+3011	minister 	4
+3011	he that ministers 	1
+3012	towel 	2
+3013	scale 	1
+3014	leprosy 	4
+3015	leper 	9
+3016	mite 	3
+3017	Levi 	5
+3018	Levi 	3
+3019	Levite 	3
+3020	Levitical 	1
+3021	white 	1
+3021	make white 	1
+3022	white 	25
+3023	lion 	9
+3024	forget 	1
+3025	winepress 	4
+3026	idle tales 	1
+3027	thief 	11
+3027	robber 	4
+3028	receiving 	1
+3029	exceeding 	5
+3029	greatly 	4
+3029	very chiefest 	2
+3029	great 	1
+3029	sore 	1
+3029	very 	1
+3030	frankincense 	2
+3031	censer 	2
+3032	Libertine 	1
+3033	Libya 	1
+3034	stone 	8
+3035	of stone 	3
+3036	stone 	8
+3036	cast stone 	1
+3037	stone 	49
+3037	one stone 	4
+3037	another 	4
+3037	stumbling stone 	2
+3037	mill stone + (3457) 	1
+3038	Pavement 	1
+3039	grind to powder 	2
+3040	haven 	2
+3040	the fair havens 	1
+3041	lake 	10
+3042	famine 	7
+3042	hunger 	3
+3042	dearth 	2
+3043	flax 	1
+3043	linen 	1
+3044	Linus 	1
+3045	dainty 	1
+3046	pound 	2
+3047	south west 	1
+3048	collection 	1
+3048	gatherings 	1
+3049	think 	9
+3049	impute 	8
+3049	reckon 	6
+3049	count 	5
+3049	account 	4
+3049	suppose 	2
+3049	reason 	1
+3049	number 	1
+3049	miscellaneous 	5
+3050	reasonable 	1
+3050	of the word 	1
+3051	oracle 	4
+3052	eloquent 	1
+3053	thought 	1
+3053	imagination 	1
+3054	strive about words 	1
+3055	strife of words 	1
+3056	word 	218
+3056	saying 	50
+3056	account 	8
+3056	speech 	8
+3056	Word 	7
+3056	thing 	5
+3056	not translated 	2
+3056	miscellaneous 	32
+3057	spear 	1
+3058	revile 	4
+3059	railing 	2
+3059	to speak reproachfully 	1
+3060	railer 	1
+3060	reviler 	1
+3061	pestilence 	2
+3061	pestilent 	1
+3062	other 	15
+3062	rest 	12
+3062	others 	7
+3062	remnant 	4
+3062	residue 	1
+3062	which remains 	1
+3062	other things 	1
+3063	finally 	5
+3063	now 	2
+3063	then 	1
+3063	besides 	1
+3063	moreover + (1161) + version=kjv (3739) 	1
+3063	it remains + (2076) 	1
+3063	furthermore 	1
+3063	henceforth 	1
+3063	from henceforth 	1
+3064	from henceforth 	1
+3065	Luke 	2
+3065	Lucas 	2
+3066	Lucius 	2
+3067	washing 	2
+3068	wash 	6
+3069	Lydda 	3
+3070	Lydia 	2
+3071	Lycaonia 	1
+3072	speech of Lycaonia 	1
+3073	Lycia 	1
+3074	wolf 	6
+3075	make havoc 	1
+3076	be sorrowful 	6
+3076	grieve 	6
+3076	make sorry 	6
+3076	be sorry 	3
+3076	sorrow 	3
+3076	cause grief 	1
+3076	be in heaviness 	1
+3077	sorrow 	11
+3077	heaviness 	2
+3077	grievous 	1
+3077	grudging 	1
+3077	grief 1 	16
+3078	Lysanias 	1
+3079	Lysias 	3
+3080	to be loosed 	1
+3081	it is better 	1
+3082	Lystra 	6
+3083	ransom 	2
+3084	redeem 	3
+3085	redemption 	2
+3085	redeem 	1
+3086	deliverer 	1
+3087	candlestick 	12
+3088	candle 	8
+3088	light 	6
+3089	loose 	27
+3089	break 	5
+3089	unloose 	3
+3089	destroy 	2
+3089	dissolve 	2
+3089	put off 	1
+3089	melt 	1
+3089	break up 	1
+3089	break down 	1
+3090	Lois 	1
+3091	Lot 	4
+3092	Maath 	1
+3093	Magdala 	1
+3094	Magdalene 	12
+3095	sorcery 	1
+3096	use sorcery 	1
+3097	wise man 	4
+3097	sorcerer 	2
+3098	Magog 	1
+3099	Madian 	1
+3100	teach 	2
+3100	instruct 	1
+3100	be disciple 	1
+3101	disciple 	268
+3101	vr disciple 	1
+3102	disciple 	1
+3103	Mathusala 	1
+3104	Menan 	1
+3105	be mad 	4
+3105	be beside (one's) self 	1
+3106	call blessed 	1
+3106	count happy 	1
+3107	blessed 	44
+3107	happy 	5
+3107	happier 	1
+3108	blessedness 	3
+3109	Macedonia 	24
+3110	of Macedonia 	4
+3110	Macedonian 	1
+3111	shambles 	1
+3112	far 	4
+3112	afar off 	2
+3112	good way off 	1
+3112	far hence 	1
+3112	great way off 	1
+3112	far off 	1
+3113	afar off 	13
+3113	from far 	1
+3114	be patient 	3
+3114	have patience 	2
+3114	have long patience 	1
+3114	bear long 	1
+3114	suffer long 	1
+3114	be longsuffering 	1
+3114	patiently endure 	1
+3115	longsuffering 	12
+3115	patience 	2
+3116	patiently 	1
+3117	long 	3
+3117	far 	2
+3118	live long 	1
+3119	disease 	3
+3120	soft 	3
+3120	effeminate 	1
+3121	Maleleel 	1
+3122	specially 	5
+3122	especially 	4
+3122	chiefly 	2
+3122	most of all 	1
+3123	more 	32
+3123	rather 	33
+3123	the more 	12
+3123	better 	2
+3123	miscellaneous 	4
+3124	Malchus 	1
+3125	grandmother 	1
+3126	mammon 	4
+3127	Manaen 	1
+3128	Manasses 	3
+3129	learn 	24
+3129	understand 	1
+3130	mad 	1
+3131	manna 	5
+3132	by soothsaying 	1
+3133	fade away 	1
+3134	Maranatha 	1
+3135	pearl 	9
+3136	Martha 	13
+3137	Mary the mother of Jesus 	19
+3137	Mary Magdalene 	13
+3137	Mary the sister of Martha 	11
+3137	Mary the mother of James 	9
+3137	Mary the mother of John Mark 	1
+3137	Mary of Rome 	1
+3138	Mark 	5
+3138	Marcus 	3
+3139	marble 	1
+3140	bear witness 	25
+3140	testify 	19
+3140	bear record 	13
+3140	witness 	5
+3140	be a witness 	2
+3140	give testimony 	2
+3140	have a good report 	2
+3140	miscellaneous 	11
+3141	witness 	15
+3141	testimony 	14
+3141	record 	7
+3141	report 	1
+3142	testimony 	15
+3142	witness 	4
+3142	to be testified 	1
+3143	testify 	2
+3143	take to record 	1
+3144	witness 	29
+3144	martyr 	3
+3144	record 	2
+3145	gnaw 	1
+3146	scourge 	7
+3147	to scourge 	1
+3148	plague 	4
+3148	scourging 	2
+3149	pap 	3
+3150	vain jangling 	1
+3151	vain talker 	1
+3152	vain 	5
+3152	vanities 	1
+3153	vanity 	3
+3154	become vain 	1
+3155	in vain 	2
+3156	Matthew 	5
+3157	Matthan 	2
+3158	Matthat 	2
+3159	Matthias 	2
+3160	Mattatha 	1
+3161	Mattathias 	2
+3162	sword 	29
+3163	fighting 	2
+3163	strife 	1
+3163	striving 	1
+3164	strive 	3
+3164	fight 	1
+3165	me 	262
+3165	I 	37
+3165	my 	1
+3165	not translated 	1
+3166	boast great things 	1
+3167	great thing 	1
+3167	wonderful work 	1
+3168	mighty power 	1
+3168	magnificence 	1
+3168	majesty 	1
+3169	excellent 	1
+3170	magnify 	5
+3170	enlarge 	2
+3170	show great 	1
+3171	greatly 	1
+3172	Majesty 	2
+3172	majesty 	1
+3173	great 	150
+3173	loud 	33
+3173	miscellaneous 	12
+3174	greatness 	1
+3175	great men 	2
+3175	lords 	1
+3176	exceeding great 	1
+3177	being interpreted 	6
+3177	be by interpretation 	1
+3178	drunkenness 	3
+3179	remove 	2
+3179	put out 	1
+3179	turn away 	1
+3179	translate 	1
+3180	lie in wait 	1
+3180	wile 	1
+3181	border 	1
+3182	be drunken 	2
+3182	be drunk 	1
+3183	drunkard 	2
+3184	be drunken 	5
+3184	have well drunk 	1
+3184	be made drunk 	1
+3185	the more 	1
+3186	greater 	1
+3187	greater 	34
+3187	greatest 	9
+3187	elder 	1
+3187	more 	1
+3188	ink 	3
+3189	black 	3
+3190	Melea 	1
+3191	premeditate 	1
+3191	imagine 	1
+3191	meditate 	1
+3192	honey 	4
+3193	honeycomb 	1
+3194	Melita 	1
+3195	shall 	25
+3195	should 	20
+3195	would 	9
+3195	to come 	9
+3195	will 	7
+3195	things to come 	4
+3195	not translated 	3
+3195	miscellaneous 	33
+3196	member 	34
+3197	Melchi 	2
+3198	Melchisedec 	9
+3199	care 	9
+3199	take care 	1
+3200	parchment 	1
+3201	find fault 	3
+3202	complainer 	1
+4000	five thousand 	6
+4001	five hundred 	2
+4002	five 	36
+4002	three score and fifteen 	1
+4002	fifty thousand + (3461) 	1
+4003	fifteenth 	1
+4004	fifty 	7
+4005	Pentecost 	3
+4006	confidence 	5
+4006	trust 	1
+4007	not translated 	3
+4008	other side 	10
+4008	beyond 	7
+4008	over 	3
+4008	on the other side 	2
+4008	farther side 	1
+4009	end 	2
+4009	utmost part 	1
+4009	uttermost part 	1
+4010	Pergamos 	2
+4011	Perga 	3
+4012	of 	148
+4012	for 	61
+4012	concerning 	40
+4012	about 	31
+4012	as touching 	8
+4012	touching 	3
+4012	whereof 	3
+4012	not translated 	4
+4012	miscellaneous 	33
+4013	go about 	4
+4013	lead about 	1
+4013	compass 	1
+4014	take away 	3
+4014	take up 	1
+4015	shine round 	1
+4015	shine round about 	1
+4016	clothe 	7
+4016	clothed with 	4
+4016	array 	3
+4016	array in 	3
+4016	clothe in 	3
+4016	cast about 	3
+4016	put on 	1
+4017	look round about 	3
+4017	look round about upon 	2
+4017	look round about on 	2
+4018	covering 	1
+4018	vesture 	1
+4019	bind about 	1
+4020	be a busybody 	1
+4021	curious arts 	1
+4021	busybody 	1
+4022	wander about 	2
+4022	vagabond 	1
+4022	fetch a compass 	1
+4023	be astonished 	1
+4023	after this manner + (5126) + (5176) 	1
+4023	be contained 	1
+4024	gird (one's) self 	3
+4024	be girded about 	1
+4024	have girded 	1
+4024	have girded about 	1
+4024	be girt 	1
+4025	wearing 	1
+4026	shun 	1
+4026	avoid 	1
+4026	stand by 	1
+4026	stand round about 	1
+4027	filth 	1
+4028	cover 	1
+4028	blindfold 	1
+4028	overlay 	1
+4029	be hanged 	2
+4029	be bound with 	1
+4029	be compassed with 	1
+4029	be compassed about with 	1
+4030	helmet 	2
+4031	come by 	1
+4032	hide 	1
+4033	compass round 	1
+4034	shine round about 	2
+4035	remain 	2
+4036	exceeding sorrowful 	2
+4036	very sorrowful 	2
+4036	exceeding sorry 	1
+4037	wait for 	1
+4038	round about 	1
+4038	round about 	1
+4039	dwell round about 	1
+4040	neighbour 	1
+4041	peculiar 	1
+4042	place 	1
+4043	walk 	93
+4043	go 	1
+4043	walk about 	1
+4043	be occupied 	1
+4044	pierce through 	1
+4045	fall into 	2
+4045	fall among 	1
+4046	purchase 	2
+4047	purchased possession 	1
+4047	to obtain 	1
+4047	obtaining 	1
+4047	saving 	1
+4047	peculiar + (1519) 	1
+4048	rend off 	1
+4049	cumber 	1
+4050	abundance 	2
+4050	abundantly 	1
+4050	superfluity 	1
+4051	abundance 	4
+4051	that was left 	1
+4052	abound 	17
+4052	abundance 	3
+4052	remain 	3
+4052	exceed 	2
+4052	increase 	2
+4052	be left 	1
+4052	redound 	1
+4052	miscellaneous 	10
+4053	more 	2
+4053	beyond measure 	1
+4053	vehemently 	1
+4053	more abundantly 	1
+4053	advantage 	1
+4053	superfluous 	1
+4053	very highly + (5228) + (1537) 	1
+4053	exceeding abundantly above + (5228) + (1537) 	1
+4053	exceeding + (5228) + (1537) 	1
+4054	more abundantly 	2
+4054	a great deal 	1
+4054	far more 	1
+4055	more 	4
+4055	greater 	3
+4055	more abundant 	3
+4055	much more 	1
+4055	overmuch 	1
+4056	more abundantly 	4
+4056	more exceedingly 	2
+4056	more abundant 	2
+4056	much more 	1
+4056	more frequent 	1
+4056	the rather 	1
+4056	exceedingly 	1
+4056	the more earnest 	1
+4057	the more 	1
+4057	out of measure 	1
+4057	exceedingly 	1
+4058	dove 	9
+4058	pigeon 	1
+4059	circumcise 	18
+4060	put on 	3
+4060	put upon 	1
+4060	set about 	1
+4060	put about 	1
+4060	bestow upon 	1
+4060	hedge around 	1
+4061	circumcision 	35
+4061	circumcised 	1
+4062	make mad + (3130) + version=kjv (1519) 	1
+4063	run through 	1
+4064	carry about 	4
+4064	bear about 	1
+4065	despise 	1
+4066	region round about 	5
+4066	country round about 	3
+4066	country about 	1
+4066	region that lieth around about 	1
+4067	offscouring 	1
+4068	vaunt itself 	1
+4069	Persis 	1
+4070	a year ago 	2
+4071	fowl 	9
+4071	bird 	5
+4072	fly 	3
+4072	flying 	2
+4073	rock 	16
+4074	Peter 	161
+4074	stone 	1
+4075	stony place 	2
+4075	stony ground 	2
+4076	rue 	1
+4077	fountain 	8
+4077	well 	4
+4078	pitch 	1
+4079	rudder 	1
+4079	helm 	1
+4080	how great 	1
+4080	how large 	1
+4081	clay 	6
+4082	scrip 	6
+4083	cubit 	4
+4084	take 	7
+4084	catch 	2
+4084	apprehend 	2
+4084	lay hand on 	1
+4085	press down 	1
+4086	enticing words 	1
+4087	make bitter 	2
+4087	be bitter 	2
+4088	bitterness 	4
+4089	bitter 	2
+4090	bitterly 	2
+4091	Pilate 	55
+4092	swollen 	1
+4093	writing table 	1
+4094	charger 	4
+4094	platter 	1
+4095	drink 	68
+4095	drink of 	7
+4096	fatness 	1
+4097	sell 	9
+4098	fall 	69
+4098	fall down 	19
+4098	light 	1
+4098	fail 	1
+4099	Pisidia 	2
+4100	believe 	239
+4100	commit unto 	4
+4100	commit to (one's) trust 	1
+4100	be committed unto 	1
+4100	be put in trust with 	1
+4100	be commit to one's trust 	1
+4100	believer 	1
+4101	spikenard 	2
+4102	faith 	239
+4102	assurance 	1
+4102	believe 	1
+4102	belief 	1
+4102	them that believe 	1
+4102	fidelity 	1
+4103	faithful 	53
+4103	believe 	6
+4103	believing 	2
+4103	true 	2
+4103	faithfully 	1
+4103	believer 	1
+4103	sure 	1
+4104	be assured of 	1
+4105	deceive 	24
+4105	err 	6
+4105	go astray 	5
+4105	seduce 	2
+4105	wander 	1
+4105	be out of the way 	1
+4106	error 	7
+4106	to deceive 	1
+4106	deceit 	1
+4106	delusion 	1
+4107	wandering 	1
+4108	deceiver 	4
+4108	seducing 	1
+4109	table 	3
+4110	thing formed 	1
+4111	form 	2
+4112	feigned 	1
+4113	street 	9
+4114	breadth 	4
+4115	enlarge 	2
+4115	make broad 	1
+4116	wide 	1
+4117	broidered hair 	1
+4118	most 	2
+4118	very great 	1
+4119	more 	23
+4119	many 	12
+4119	greater 	5
+4119	further 	3
+4119	most 	2
+4119	more part 	2
+4119	not translated 	1
+4119	miscellaneous 	8
+4120	plait 	3
+4121	abound 	6
+4121	abundant 	1
+4121	have over 	1
+4121	make to increase 	1
+4122	make a gain 	2
+4122	defraud 	2
+4122	get an advantage 	1
+4123	covetous 	4
+4124	covetousness 	8
+4124	greediness 	1
+4124	covetous practice 	1
+4125	side 	5
+4126	sail 	5
+4127	plague 	12
+4127	stripe 	5
+4127	wound 	4
+4128	multitude 	30
+4128	company 	1
+4128	bundle 	1
+4129	multiply 	11
+4129	abound 	1
+4130	fill 	18
+4130	accomplish 	4
+4130	furnish 	1
+4130	full ... come 	1
+4131	striker 	2
+4132	flood 	1
+4133	but 	14
+4133	nevertheless 	8
+4133	notwithstanding 	4
+4133	but rather 	2
+4133	except 	1
+4133	than 	1
+4133	save 	1
+4134	full 	17
+4135	be fully persuaded 	2
+4135	be most surely believed 	1
+4135	be fully known 	1
+4135	make full proof of 	1
+4136	full assurance 	3
+4136	assurance 	1
+4137	fulfil 	51
+4137	fill 	19
+4137	be full 	7
+4137	complete 	2
+4137	end 	2
+4137	miscellaneous 	9
+4138	fulness 	13
+4138	full 	1
+4138	fulfilling 	1
+4138	which is put in to fill up 	1
+4138	pierce that filled up 	1
+4139	neighbour 	16
+4139	near 	1
+4140	satisfying 	1
+4141	smite 	1
+4142	boat 	3
+4142	little ship 	2
+4142	small ship 	1
+4143	ship 	66
+4143	shipping 	1
+4144	course 	1
+4144	sailing 	1
+4144	voyage 	1
+4145	rich 	28
+4146	richly 	2
+4146	abundantly 	2
+4147	be rich 	7
+4147	be made rich 	2
+4147	rich 	1
+4147	wax rich 	1
+4147	be increased with goods 	1
+4148	enrich 	2
+4148	make rich 	1
+4149	riches 	22
+4150	wash 	1
+4151	Spirit 	111
+4151	Holy Ghost 	89
+4151	Spirit (of God) 	13
+4151	Spirit (of the Lord) 	5
+4151	(My) Spirit 	3
+4151	Spirit (of truth) 	3
+4151	Spirit (of Christ) 	2
+4151	human (spirit) 	49
+4151	(evil) spirit 	47
+4151	spirit (general) 	26
+4151	spirit 	8
+4151	(Jesus' own) spirit 	6
+4151	(Jesus' own) ghost 	2
+4151	miscellaneous 	21
+4152	spiritual 	26
+4153	spiritual 	2
+4154	blow 	6
+4154	wind 	1
+4155	take by the throat 	1
+4155	choke 	1
+4156	strangled 	3
+4157	wind 	1
+4157	breath 	1
+4158	garment down to the foot 	1
+4159	whence 	28
+4160	do 	357
+4160	make 	113
+4160	bring forth 	14
+4160	commit 	9
+4160	cause 	9
+4160	work 	8
+4160	show 	5
+4160	bear 	4
+4160	keep 	4
+4160	fulfil 	3
+4160	deal 	2
+4160	perform 	2
+4160	not translated 	3
+4160	miscellaneous 	43
+4160	vr do 	3
+4161	thing that is made 	1
+4161	workmanship 	1
+4162	deed 	1
+4163	doer 	5
+4163	poet 	1
+4164	divers 	8
+4164	manifold 	2
+4165	feed 	6
+4165	rule 	4
+4165	feed cattle 	1
+4166	shepherd 	15
+4166	Shepherd 	2
+4166	pastor 	1
+4167	flock 	4
+4167	fold 	1
+4168	flock 	5
+4169	what 	27
+4169	which 	4
+4169	what things 	1
+4169	what way 	1
+4169	what manner of 	1
+4170	make war 	3
+4170	fight 	3
+4170	war 	1
+4171	war 	12
+4171	battle 	5
+4171	fight 	1
+4172	city 	164
+4173	ruler of the city 	2
+4174	freedom 	1
+4174	commonwealth 	1
+4175	conversation 	1
+4176	live 	1
+4176	let (one's) conversation be 	1
+4177	citizen 	3
+4178	often 	7
+4178	oft 	5
+4178	ofttimes 	3
+4178	oftentimes 	3
+4179	manifold more 	1
+4180	much speaking 	1
+4181	at sundry times 	1
+4182	manifold 	1
+4183	many 	210
+4183	much 	73
+4183	great 	59
+4183	miscellaneous 	23
+4184	very pitiful 	1
+4185	very precious 	1
+4185	costly 	1
+4185	of great price 	1
+4186	of great price 	1
+4186	very costly 	1
+4187	in divers manners 	1
+4188	drink 	2
+4189	wickedness 	6
+4189	iniquity 	1
+4190	evil 	51
+4190	wicked 	10
+4190	wicked one 	6
+4190	evil things 	2
+4190	miscellaneous 	7
+4191	more wicked 	2
+4192	pain 	3
+4193	born in Pontus 	1
+4194	Pontius [Pilate] 	4
+4195	Pontus 	2
+4196	Publius 	2
+4197	journeying 	1
+4197	way 	1
+4198	go 	117
+4198	depart 	11
+4198	walk 	9
+4198	go (one's) way 	8
+4198	miscellaneous 	9
+4199	destroy 	2
+4199	waste 	1
+4200	gain 	2
+4201	Porcius 	1
+4202	fornication 	26
+4203	commit fornication 	7
+4203	commit 	1
+4204	harlot 	8
+4204	whore 	4
+4205	fornicator 	5
+4205	whoremonger 	5
+4206	far 	2
+4206	a great way off 	1
+4207	afar off 	2
+4208	further 	1
+4209	purple 	5
+4210	purple 	3
+4211	seller of purple 	1
+4212	how often 	2
+4212	how oft 	1
+4213	drink 	3
+4214	how much 	13
+4214	how many 	9
+4214	how many things 	2
+4214	what 	1
+4214	how long 	1
+4214	how great 	1
+4215	river 	9
+4215	flood 	4
+4215	stream 	2
+4215	water 	1
+4216	carried away of the flood 	1
+4217	what manner of 	4
+4217	what 	1
+4217	what manner of man 	1
+4217	what manner of person 	1
+4218	in time past 	5
+4218	at any time 	3
+4218	in times past 	3
+4218	sometimes 	3
+4218	sometime 	3
+4218	once 	2
+4218	not translated 	1
+4218	miscellaneous 	9
+4219	when 	12
+4219	how long 	7
+4220	whether 	1
+4221	cup 	33
+4222	give to drink 	4
+4222	give drink 	4
+4222	water 	3
+4222	make to drink 	2
+4222	watering 	1
+4222	feed 	1
+4223	Puteoli 	1
+4224	banqueting 	1
+4225	a certain place 	2
+4225	about 	1
+4226	where 	37
+4226	whither 	10
+4227	Pudens 	1
+4228	foot 	85
+4228	footstool 	8
+4229	thing 	6
+4229	matter 	3
+4229	business 	1
+4229	work 	1
+4230	affair 	1
+4231	occupy 	1
+4232	judgment hall 	4
+4232	hall of judgment 	1
+4232	common hall 	1
+4232	praetorium 	1
+4232	palace 	1
+4233	officer 	2
+4234	deed 	4
+4234	work 	1
+4234	office 	1
+4235	meek 	1
+4236	meekness 	9
+4237	in ranks 	1
+4237	not tr. 	1
+4238	do 	28
+4238	commit 	5
+4238	exact 	1
+4238	require 	1
+4238	deed 	1
+4238	keep 	1
+4238	use arts 	1
+4239	meek 	3
+4240	meekness 	3
+4241	become 	6
+4241	comely 	1
+4242	ambassage 	1
+4242	message 	1
+4243	ambassador 	2
+4244	elders 	1
+4244	estate of elders 	1
+4244	presbytery 	1
+4245	elder 	64
+4245	old man 	1
+4245	eldest 	1
+4245	elder woman 	1
+4246	old man 	1
+4246	aged man 	1
+4246	aged 	1
+4247	aged women 	1
+4248	headlong 	1
+4249	saw asunder 	1
+4250	before 	11
+4250	before that 	2
+4250	ere 	1
+4251	Prisca 	1
+4252	Priscilla 	5
+4253	before 	44
+4253	above 	2
+4253	above ... ago 	1
+4253	or ever 	1
+4254	go before 	14
+4254	bring forth 	2
+4254	went before 	1
+4254	bring out 	1
+4255	purpose 	1
+4256	prove before 	1
+4257	hear before 	1
+4258	sin already 	1
+4258	sin heretofore 	1
+4259	porch 	1
+4260	be well stricken 	2
+4260	go on 	1
+4260	go farther 	1
+4260	be of ... age + (2250) + version=kjv (1722) 	1
+4261	shoot forth 	1
+4261	put forward 	1
+4261	vr put forward 	1
+4262	sheep market 	1
+4263	sheep 	40
+4263	sheepfold 	1
+4264	instruct before 	1
+4264	draw 	1
+4265	provide 	1
+4266	be past 	1
+4267	foreknow 	2
+4267	foreordain 	1
+4267	know 	1
+4267	know before 	1
+4268	foreknowledge 	2
+4269	parent 	1
+4269	forefather 	1
+4270	write 	1
+4270	write aforetime 	1
+4270	write afore 	1
+4270	evidently set forth 	1
+4270	before ordain 	1
+4271	evident 	1
+4271	manifest beforehand 	1
+4271	open beforehand 	1
+4272	first give 	1
+4273	traitor 	2
+4273	betrayer 	1
+4274	forerunner 	1
+4275	see before 	1
+4275	foresee 	1
+4276	first trust 	1
+4277	speak before 	1
+4277	tell in time past 	1
+4277	forewarn 	1
+4278	begin 	1
+4278	begin before 	1
+4279	promise afore 	1
+4280	say before 	4
+4280	tell before 	2
+4280	speak before 	2
+4280	foretell 	1
+4281	go before 	5
+4281	go farther 	1
+4281	go forward 	1
+4281	outgo 	1
+4281	pass on 	1
+4282	prepare afore 	1
+4282	before ordain 	1
+4283	preach before the gospel 	1
+4284	be better 	1
+4285	prefer 	1
+4286	purpose 	8
+4286	shewbread 	4
+4287	time appointed 	1
+4288	forwardness of mind 	1
+4288	readiness 	1
+4288	readiness of mind 	1
+4288	ready mind 	1
+4288	willing mind 	1
+4289	ready 	2
+4289	willing 	1
+4290	of a ready mind 	1
+4291	rule 	5
+4291	maintain 	2
+4291	be over 	1
+4292	provoke 	1
+4293	show before 	2
+4293	foretell 	1
+4293	have notice before 	1
+4294	make up beforehand 	1
+4295	be set before 	3
+4295	be first 	1
+4295	be set forth 	1
+4296	preach before 	1
+4296	preach first 	1
+4297	furtherance 	2
+4297	profit 	1
+4298	increase 	2
+4298	be far spent 	1
+4298	profit 	1
+4298	proceed 	1
+4298	wax 	1
+4299	prefer one before another 	1
+4300	confirm before 	1
+4301	come aforehand 	1
+4301	take before 	1
+4301	overtake 	1
+4302	tell before 	2
+4302	foretell 	1
+4303	testify beforehand 	1
+4304	meditate before 	1
+4305	take thought beforehand 	1
+4306	provide for 	2
+4306	provide 	1
+4307	providence 	1
+4307	provision 	1
+4308	foresee 	1
+4308	set before 	1
+4309	predestinate 	4
+4309	determine before 	1
+4309	ordain 	1
+4310	suffer before 	1
+4311	bring on (one's) way 	4
+4311	bring (forward) on (one's) journey 	3
+4311	conduct forth 	1
+4311	accompany 	1
+4312	rashly 	1
+4312	heady 	1
+4313	go 	1
+4313	go before 	1
+4314	unto 	340
+4314	to 	203
+4314	with 	43
+4314	for 	25
+4314	against 	24
+4314	among 	20
+4314	at 	11
+4314	not translated 	6
+4314	miscellaneous 	53
+4314	vr to 	1
+4315	day before the sabbath 	1
+4316	call 	1
+4317	bring 	3
+4317	draw near 	1
+4318	access 	3
+4319	beg 	3
+4320	go up 	1
+4321	spend 	1
+4322	supply 	2
+4323	confer 	1
+4323	add in conference 	1
+4324	threaten further 	1
+4325	spend more 	1
+4326	need 	1
+4327	look for 	4
+4327	wait for 	3
+4327	receive 	3
+4327	waited for 	1
+4327	allow 	1
+4327	take 	1
+4327	accept 	1
+4328	look for 	8
+4328	waited for 	2
+4328	expect 	1
+4328	be in expectation 	1
+4328	look 	1
+4328	look when 	1
+4328	waiting for 	1
+4328	tarry 	1
+4329	looking after 	1
+4329	expectation 	1
+4330	suffer 	1
+4331	come nigh 	1
+4332	wait at 	1
+4333	gain 	1
+4334	come 	30
+4334	come to 	25
+4334	come unto 	19
+4334	go to 	3
+4334	go unto 	2
+4334	draw near 	2
+4334	miscellaneous 	5
+4335	prayer 	36
+4335	pray earnestly 	1
+4336	pray 	83
+4336	make prayer 	3
+4336	pray for 	1
+4337	beware 	7
+4337	give heed to 	5
+4337	take heed to 	3
+4337	give heed unto 	1
+4337	take heed 	1
+4337	take heed unto 	1
+4337	take heed whereunto 	1
+4337	miscellaneous 	5
+4338	nail to 	1
+4339	proselyte 	4
+4340	for a while 	1
+4340	for a time 	1
+4340	temporal 	1
+4340	for a season 	1
+4341	call unto 	20
+4341	call 	7
+4341	call for 	2
+4341	call to 	1
+4342	continue 	4
+4342	continue instant 	1
+4342	continue steadfastly 	1
+4342	attend continually 	1
+4342	give (one's) self continually 	1
+4342	wait on 	1
+4342	wait on continually 	1
+4343	perseverance 	1
+4344	pillow 	1
+4345	consort with 	1
+4346	partiality 	1
+4347	cleave 	2
+4347	be joined 	1
+4347	join (one's) self 	1
+4348	stumbling stone 	2
+4348	stumbling block 	2
+4348	stumbling 	1
+4348	offence 	1
+4349	offence 	1
+4350	stumble 	3
+4350	stumble at 	2
+4350	dash 	2
+4350	beat upon 	1
+4351	roll 	2
+4352	worship 	60
+4353	worshipper 	1
+4354	speak to 	1
+4354	speak with 	1
+4355	receive 	7
+4355	take 	5
+4355	take unto 	2
+4356	receiving 	1
+4357	continue with 	1
+4357	continue in 	1
+4357	be with 	1
+4357	cleave unto 	1
+4357	tarry 	1
+4357	abide still 	1
+4358	draw to the shore 	1
+4359	owe besides 	1
+4360	be grieved with 	2
+4361	very hungry 	1
+4362	crucify 	1
+4363	fall down before 	5
+4363	beat upon 	1
+4363	fall down at 	1
+4363	fall 	1
+4364	make as though 	2
+4365	come unto 	1
+4366	beat vehemently upon 	1
+4366	beat vehemently against 	1
+4367	command 	6
+4367	bid 	1
+4368	succourer 	1
+4369	add 	11
+4369	again send 	2
+4369	give more 	1
+4369	increase 	1
+4369	proceed further 	1
+4369	lay unto 	1
+4369	speak to any more 	1
+4370	run to 	1
+4370	run 	1
+4370	run thither to 	1
+4371	meat 	1
+4372	new 	1
+4373	lately 	1
+4374	offer 	22
+4374	bring unto 	10
+4374	bring to 	4
+4374	bring 	3
+4374	offer up 	3
+4374	offer unto 	1
+4374	offer to 	1
+4374	miscellaneous 	4
+4375	lovely 	1
+4376	offering 	8
+4376	offering up 	1
+4377	call 	2
+4377	call unto 	1
+4377	call to 	1
+4377	speak 	1
+4377	speak to 	1
+4377	speak unto 	1
+4378	sprinkling 	1
+4379	touch 	1
+4380	have respect to persons 	1
+4381	respecter of persons 	1
+4382	respect of persons 	4
+4383	face 	55
+4383	person 	7
+4383	presence 	7
+4383	countenance 	3
+4383	not translated 	1
+4383	miscellaneous 	5
+4384	appoint before 	1
+4385	bind 	1
+4385	vr bind 	1
+4386	before 	3
+4386	first 	2
+4386	former 	2
+4386	before 	2
+4386	at the first + (3588) 	1
+4387	former 	1
+4388	purpose 	2
+4388	set forth 	1
+4389	exhort 	1
+4390	run before 	1
+4390	outrun 	1
+4391	be before 	1
+4391	be beforetime 	1
+4392	pretence 	3
+4392	cloke 	2
+4392	show 	1
+4392	colour 	1
+4393	bring forth 	2
+4394	prophecy 	16
+4394	prophesying 	3
+4395	prophesy 	28
+4396	prophet 	149
+4397	of the prophets 	1
+4397	of prophecy 	1
+4398	prophetess 	2
+4399	prevent 	1
+4400	choose 	1
+4400	make 	1
+4401	choose before 	1
+4402	Prochorus 	1
+4403	hinder part of ship 	1
+4403	stern 	1
+4403	hinder part 	1
+4404	in the morning 	5
+4404	early in the morning 	2
+4404	early 	2
+4404	morning 	1
+4405	morning 	3
+4405	early 	1
+4406	early 	1
+4407	morning 	1
+4408	forepart 	1
+4408	foreship 	1
+4409	have the preeminence 	1
+4410	chief seat 	2
+4410	uppermost seat 	1
+4410	highest seat 	1
+4411	uppermost room 	2
+4411	chief room 	2
+4411	highest room 	1
+4412	first 	52
+4412	at the first 	2
+4412	first of all 	2
+4412	miscellaneous 	5
+4413	first 	84
+4413	chief 	9
+4413	first day 	2
+4413	former 	2
+4413	miscellaneous 	7
+4414	ringleader 	1
+4415	birthright 	1
+4416	firstborn 	7
+4416	first begotten 	2
+4417	offend 	3
+4417	stumble 	1
+4417	fall 	1
+4418	heel 	1
+4419	pinnacle 	2
+4420	wing 	5
+4421	bird 	1
+4422	terrify 	2
+4423	amazement 	1
+4424	Ptolemais 	1
+4425	fan 	2
+4426	terrify 	1
+4427	spittle 	1
+4428	close 	1
+4429	spit 	3
+4430	dead body 	3
+4430	carcase 	1
+4430	corpse 	1
+4431	fall 	2
+4432	poverty 	3
+4433	become poor 	1
+4434	poor 	30
+4434	beggar 	2
+4434	poor man 	1
+4434	beggarly 	1
+4435	oft 	1
+4436	divination 	1
+4437	often 	2
+4437	oftener 	1
+4438	fight 	1
+4439	gate 	10
+4440	gate 	17
+4440	porch 	1
+4441	ask 	7
+4441	demand 	2
+4441	enquire 	2
+4441	understand 	1
+4442	fire 	73
+4442	fiery 	1
+4443	fire 	2
+4444	tower 	4
+4445	be sick of a fever 	2
+4446	fever 	6
+4447	of fire 	1
+4448	burn 	3
+4448	fiery 	1
+4448	be on fire 	1
+4448	try 	1
+4449	be red 	2
+4450	red 	2
+4451	burning 	2
+4451	fiery trial 	1
+4452	fiery trial 	1
+4453	sell 	21
+4453	be sold 	1
+4454	colt 	12
+4455	at any time 	3
+4455	yet never 	1
+4455	never 	1
+4455	never + (3364) 	1
+4456	harden 	3
+4456	blind 	2
+4457	blindness 	2
+4457	hardness 	1
+4458	be any means 	7
+4458	by some means 	1
+4458	perhaps 	1
+4458	haply 	1
+4458	not translated 	5
+4459	how 	99
+4459	by what means 	2
+4459	after what manner 	1
+4459	that 	1
+4460	Rahab 	2
+4461	Master (Christ) 	9
+4461	Rabbi (Christ) 	5
+4461	rabbi 	3
+4462	Lord (Christ) 	1
+4462	Rabboni (Christ) 	1
+4463	beat 	1
+4463	beat with rods 	1
+4464	rod 	6
+4464	staff 	4
+4464	sceptre 	2
+4465	sergeant 	2
+4466	Ragau 	1
+4467	lewdness 	1
+4468	mischief 	1
+4469	Raca 	1
+4470	cloth 	2
+4471	Rama 	1
+4472	sprinkle 	4
+4473	sprinkling 	2
+4474	smite 	1
+4474	smite with the palm of (one's) hand 	1
+4475	strike with the palm of (one's) hand 	1
+4475	strike with the palm of (one's) hand + (1325) 	1
+4475	smite with (one's) hand + (1325) 	1
+4476	needle 	3
+4477	Rachab 	1
+4478	Rachel 	1
+4479	Rebecca 	1
+4480	chariot 	1
+4481	Remphan 	1
+4482	flow 	1
+4483	speak 	12
+4483	speak 	12
+4483	speak of 	3
+4483	command 	1
+4483	make 	1
+4484	Rhegium 	1
+4485	ruin 	1
+4486	burst 	2
+4486	tear 	1
+4486	rend 	1
+4486	break 	1
+4486	break forth 	1
+4486	throw down 	1
+4487	word 	56
+4487	saying 	9
+4487	thing 	3
+4487	no thing 	1
+4487	not translated 	1
+4488	Rhesa 	1
+4489	orator 	1
+4490	expressly 	1
+4491	root 	17
+4492	root 	2
+4493	twinkling 	1
+4494	toss 	1
+4495	cast off 	1
+4496	cast down 	2
+4496	cast 	2
+4496	scatter abroad 	1
+4496	cast out 	1
+4496	throw 	1
+4497	Roboam 	2
+4498	Rhoda 	1
+4499	Rhodes 	1
+4500	with a great noise 	1
+4501	sword 	7
+4502	Reuben 	1
+4503	Ruth 	1
+4504	Rufus 	2
+4505	street 	3
+4505	lane 	1
+4506	deliver 	17
+4506	Deliverer 	1
+4507	filthiness 	1
+4508	vile 	1
+4509	filth 	1
+4510	filthy 	2
+4511	issue 	3
+4512	wrinkle 	1
+4513	Latin 	1
+4514	Roman 	12
+4514	of Rome 	1
+4515	Latin 	1
+4516	Rome 	14
+4517	farewell 	2
+4518	sabachthani 	2
+4519	sabaoth 	2
+4520	rest 	1
+4521	sabbath day 	37
+4521	sabbath 	22
+4521	week 9 	
+4522	net 	1
+4523	Sadducees 	14
+4524	Sadoc 	2
+4525	move 	1
+4526	sackcloth 	4
+4527	Sala 	1
+4528	Salathiel 	3
+4529	Salamis 	1
+4530	Salim 	1
+4531	shake 	10
+4531	move 	1
+4531	shake together 	1
+4531	that are shaken 	1
+4531	which cannot be shaken 	1
+4531	stir up 	1
+4532	Salem 	2
+4533	Salmon 	3
+4534	Salmone 	1
+4535	wave 	1
+4536	trumpet 	9
+4536	trump 	2
+4537	sound 	10
+4537	sound of a trumpet 	1
+4537	trumpet sounds 	1
+4538	trumpeter 	1
+4539	Salome 	2
+4540	Samaria 11 	
+4541	Samaritans 	9
+4542	Samaria 	2
+4543	Samothracia 	1
+4544	Samos 	1
+4545	Samuel 	3
+4546	Samson 	1
+4547	sandal 	2
+4548	board 	1
+4549	Saul (Paul) 	8
+4549	Saul (son of Cis) 	1
+4550	corrupt 	7
+4550	bad 	1
+4551	Sapphira 	1
+4552	sapphire 	1
+4553	basket 	1
+4554	Sardis 	3
+4555	sardine 	1
+4556	sardius 	1
+4557	sardonyx 	1
+4558	Sarepta 	1
+4559	carnal 	9
+4559	fleshly 	2
+4560	fleshly 	1
+4561	flesh 	147
+4561	carnal 	2
+4561	carnally minded 	1
+4561	fleshly 	1
+4562	Saruch 	1
+4563	sweep 	3
+4564	Sarah 	2
+4564	Sara 	2
+4565	Saron 	1
+4566	Satan 	1
+4567	Satan 	36
+4568	measure 	2
+4569	Saul 	17
+4570	quench 	7
+4570	go out 	1
+4571	thee 	178
+4571	thou 	16
+4571	thy house 	1
+4571	not translated 	2
+4572	thyself 	35
+4572	thine own self 	2
+4572	thou thyself 	1
+4572	thee 	1
+4572	thy 	1
+4573	worship 	1
+4574	devotion 	1
+4574	that is worshipped 	2
+4575	Augustus 	3
+4576	worship 	6
+4576	devout 	3
+4576	religious 	1
+4577	chain 	1
+4578	earthquake 	13
+4578	tempest 	1
+4579	shake 	3
+4579	move 	1
+4579	quake 	1
+4580	Secundus 	1
+4581	Seleucia 	1
+4582	moon 	9
+4583	be lunatick 	2
+4584	Semei 	1
+4585	fine flour 	1
+4586	grave 	3
+4586	honest 1 	
+4587	gravity 	2
+4587	honesty 	1
+4588	Sergius (Paulus) 	1
+4589	Seth 	1
+4590	Sem 	1
+4591	signify 	6
+4592	sign 	50
+4592	miracle 	23
+4592	wonder 	3
+4592	token 	1
+4593	note 	1
+4594	this day 	22
+4594	to day 	18
+4594	this 	1
+4595	be corrupted 	1
+4596	silk 	1
+4597	moth 	3
+4598	motheaten 	1
+4599	strengthen 	1
+4600	cheek 	2
+4601	hold (one's) peace 	4
+4601	keep silence 	3
+4601	keep close 	1
+4601	keep secret 	1
+4602	silence 	2
+4603	of iron 	4
+4603	iron 	1
+4604	iron 	1
+4605	Sidon 	11
+4606	Sidon 	1
+4607	murderer 	1
+4608	strong drink 	1
+4609	Silas 	13
+4610	Silvanus 	4
+4611	Siloam 	3
+4612	apron 	1
+4613	Simon (Peter) 	49
+4613	Simon (Zelotes) 	4
+4613	Simon (father of Judas) 	4
+4613	Simon (Magus) 	4
+4613	Simon (the tanner) 	4
+4613	Simon (the Pharisee) 	3
+4613	Simon (of Cyrene) 	3
+4613	Simon (brother of Jesus) 	2
+4613	Simon (the leper) 	2
+4614	Sina 	2
+4614	Sinai 	2
+4615	mustard seed 	5
+4616	linen cloth 	3
+4616	linen 	2
+4616	fine linen 	1
+4617	sift 	1
+4618	fatted 	3
+4619	fatling 	1
+4620	portion of meat 	1
+4621	wheat 	12
+4621	corn 	2
+4622	Sion 	7
+4623	hold (one's) peace 	9
+4623	peace 	1
+4623	dumb 	1
+4624	offend 	28
+4624	make to offend 	2
+4625	offence 	9
+4625	stumbling block 	3
+4625	occasion of stumbling 	1
+4625	occasion to fall 	1
+4625	thing that offends 	1
+4626	dig 	3
+4627	boat 	3
+4628	leg 	3
+4629	raiment 	1
+4630	Sceva 	1
+4631	tackling 	1
+4632	vessel 	19
+4632	goods 	2
+4632	stuff 	1
+4632	sail 	1
+4633	tabernacle 	19
+4633	habitation 	1
+4634	tabernacles 	1
+4635	tentmaker 	1
+4636	tabernacle 	2
+4637	dwell 	5
+4638	tabernacle 	3
+4639	shadow 	7
+4640	leap 	2
+4640	leap for joy 	1
+4641	hardness of heart 	3
+4642	hard 	5
+4642	fierce  	6
+4643	hardness 	1
+4644	stiffnecked 	1
+4645	harden 	6
+4646	crooked 	2
+4646	untoward 	1
+4646	froward 	1
+4647	thorn 	1
+4648	mark 	2
+4648	take heed 	1
+4648	look on 	1
+4648	look at 	1
+4648	consider 	1
+4649	mark 	1
+4650	scatter 	3
+4650	scatter abroad 	1
+4650	disperse abroad 	1
+4651	scorpion 	5
+4652	full of darkness 	2
+4652	dark 	1
+4653	darkness 	14
+4653	dark 	2
+4654	darken 	8
+4655	darkness 	32
+4656	full of darkness 	1
+4657	dung 	1
+4658	Scythian 	1
+4659	of a sad countenance 	1
+4659	sad 	1
+4660	trouble 	2
+4660	trouble (one's) self 	1
+4661	spoils 	1
+4662	eaten of worms 	1
+4663	worm 	3
+4664	emerald 	1
+4665	emerald 	1
+4666	myrrh 	2
+4667	Smyrna 	1
+4668	Smyrna 	1
+4669	mingle with myrrh 	1
+4670	Sodom 	9
+4670	Sodoma 	1
+4671	thee 	200
+4671	thou 	14
+4671	thy 	4
+4671	thine own 	1
+4671	not translated 	2
+4672	Solomon 	12
+4673	bier 	1
+4674	thy 	13
+4674	thine 	9
+4674	thine own 	3
+4674	thy goods 	1
+4674	thy friends 	1
+4675	thy 	358
+4675	thee 	76
+4675	thine 	50
+4675	thine own 	7
+4675	thou 	6
+4675	not translated 	1
+4676	napkin 	3
+4676	handkerchief 	1
+4677	Susanna 	1
+4678	wisdom 	51
+4679	make wise 	1
+4679	cunningly devised 	1
+4680	wise 	22
+4681	Spain 	2
+4682	tear 	3
+4682	rend 	1
+4683	wrap in swaddling clothes 	2
+4684	live in pleasure 	1
+4684	be wanton 	1
+4685	draw 	1
+4685	draw out 	1
+4686	band 	7
+4687	sow 	43
+4687	sower 	6
+4687	receive seed 	4
+4687	vr sow 	1
+4688	executioner 	1
+4689	be ready to be offered 	1
+4689	be offered 	1
+4690	seed 	43
+4690	issue 	1
+4691	babbler 	1
+4692	make haste 	3
+4692	haste 	1
+4692	haste unto 	1
+4692	with haste 	1
+4693	den 	5
+4693	cave 	1
+4694	spot 	1
+4695	spot 	2
+4696	defile 	1
+4696	spot 	1
+4697	have compassion 	7
+4697	be moved with compassion 	5
+4698	bowels 	9
+4698	inward affection 	1
+4698	tender mercy 	1
+4699	spunge 	3
+4700	ashes 	3
+4701	seed 	1
+4702	corn field 	2
+4702	corn 	1
+4703	seed 	4
+4703	seed sown 	1
+4704	endeavour 	3
+4704	do diligence 	2
+4704	be diligent 	2
+4704	give diligence 	1
+4704	be forward 	1
+4704	labour 	1
+4704	study 	1
+4705	diligent 	1
+4706	very diligently 	1
+4707	more forward 	1
+4707	more diligent 	1
+4708	the more carefully 	1
+4709	instantly 	1
+4709	diligently 	1
+4710	diligence 	5
+4710	haste 	2
+4710	business 	1
+4710	care 	1
+4710	forwardness 	1
+4710	earnest care 	1
+4710	carefulness 	1
+4711	basket 	5
+4712	furlong 	5
+4712	race 	1
+4713	pot 	1
+4714	sedition 	3
+4714	dissension 	3
+4714	insurrection 	1
+4714	uproar 	1
+4714	standing 	1
+4715	piece of money 	1
+4716	cross 	28
+4717	crucify 	46
+4718	grapes 	3
+4719	ear of corn 	3
+4719	ear 	2
+4720	Stachys 	1
+4721	roof 	3
+4722	can forbear 	2
+4722	bear 	1
+4722	suffer 	1
+4723	barren 	4
+4724	avoid 	1
+4724	withdraw (one's) self 	1
+4725	garland 	1
+4726	groaning 	2
+4727	groan 	3
+4727	sigh 	1
+4727	with grief 	1
+4727	grudge 	1
+4728	strait 	3
+4729	straiten 	2
+4729	distress 	1
+4730	distress 	3
+4730	anguish 	1
+4731	strong 	2
+4731	sure 	1
+4731	stedfast 	1
+4732	receive strength 	1
+4732	make strong 	1
+4732	establish 	1
+4733	stedfastness 	1
+4734	Stephanas 	4
+4735	crown 	18
+4736	Stephen 	7
+4737	crown 	3
+4738	breast 	5
+4739	stand fast 	6
+4739	stand 	2
+4740	stedfastness 	1
+4741	stablish 	6
+4741	establish 	3
+4741	strengthen 	2
+4741	fix 	1
+4741	stedfastly set 	1
+4742	mark 	1
+4743	moment 	1
+4744	shining 	1
+4745	porch 	4
+4746	branch 	1
+4747	element 	4
+4747	rudiment 	2
+4747	principle 	1
+4748	walk 	4
+4748	walk orderly 	1
+4749	robe 	5
+4749	long clothing 	1
+4749	long garment 	1
+4749	them 	1
+4749	long robe 	1
+4750	mouth 	73
+4750	face 	4
+4750	edge 	2
+4751	stomach 	1
+4752	warfare 	2
+4753	army 	6
+4753	man of war 	1
+4753	soldier 	1
+4754	war 	5
+4754	goeth a warfare 	1
+4754	soldier 	1
+4755	captain 	5
+4755	magistrate 	5
+4756	host 	2
+4757	soldier 	26
+4758	choose to be a soldier 	1
+4759	captain of the guard 	1
+4760	army 	1
+4761	wrest 	1
+4762	turn 	11
+4762	turn (one's) self 	2
+4762	turn (one) 	1
+4762	turn again 	1
+4762	turn back again 	1
+4762	turn (one) about 	1
+4762	be converted 	1
+4762	vr turn 	1
+4763	live deliciously 	2
+4764	delicacy 	1
+4765	sparrow 	4
+4766	spread 	2
+4766	straw 	2
+4766	furnish 	2
+4766	make (one's) bed 	1
+4767	hateful 	1
+4768	lower 	1
+4768	be sad 	1
+4769	pillar 	4
+4770	Stoicks 	1
+4771	thou 	178
+4772	kindred 	3
+4773	kinsman 	7
+4773	cousin 	2
+4773	kinsfolk 	2
+4773	kin 	1
+4774	permission 	1
+4775	sat 	1
+4775	sit with 	1
+4776	make sit together 	1
+4776	be set down together 	1
+4777	be partaker of affliction 	1
+4778	suffer affliction with 	1
+4779	call together 	8
+4780	cover 	1
+4781	bow down 	1
+4782	go down with 	1
+4783	agreement 	1
+4784	consented 	1
+4785	number 	1
+4786	temper together 	1
+4786	mix with 	1
+4787	stir up 	1
+4788	conclude 	2
+4788	inclose 	1
+4788	shut up 	1
+4789	fellow heir 	1
+4789	joint heir 	1
+4789	heir together 	1
+4789	heir with 	1
+4790	have fellowship with 	1
+4790	communicate with 	1
+4790	be partaker of 	1
+4791	partaker with 	1
+4791	partaker with 	1
+4791	partaker 	1
+4791	companion  	1
+4792	carry 	1
+4793	compare with 	2
+4793	compare among 	1
+4794	bow together 	1
+4795	chance 	1
+4796	rejoice with 	6
+4796	rejoice in 	1
+4797	confound 	2
+4797	confuse 	1
+4797	be in an uproar 	1
+4797	stir up 	1
+4798	have dealings with 	1
+4799	confusion 	1
+4800	live with 	3
+4801	join together 	2
+4802	question with 	2
+4802	question 	2
+4802	question one with another 	1
+4802	enquire 	1
+4802	dispute with 	1
+4802	dispute 	1
+4802	reason together 	1
+4802	reason 	1
+4803	disputation 	1
+4803	disputing 	1
+4803	reasoning 	1
+4804	disputer 	1
+4805	yokefellow 	1
+4806	quicken together with 	1
+4806	quicken together 	1
+4807	sycamine tree 	1
+4808	fig tree 	16
+4809	sycomore tree 	1
+4810	fig 	4
+4811	accuse falsely 	1
+4811	take by false accusation 	1
+4812	spoil 	1
+4813	rob 	1
+4814	talk with 	2
+4814	talk 	1
+4814	speak 	1
+4814	commune with 	1
+4814	confer 	1
+4815	take 	8
+4815	conceive 	5
+4815	help 	2
+4815	catch 	1
+4816	gather 	5
+4816	gather up 	2
+4816	gather together 	1
+4817	reason 	1
+4818	be grieved 	1
+4819	happen unto 	4
+4819	happen 	2
+4819	befall 	1
+4819	so it be 	1
+4820	ponder 	1
+4820	make 	1
+4820	confer 	1
+4820	encounter 	1
+4820	help 	1
+4820	meet with 	1
+4821	reign with 	2
+4822	knit together 	2
+4822	prove 	1
+4822	assuredly gather 	1
+4822	instruct 	1
+4822	compact 	1
+4823	consult 	1
+4823	counsel 	1
+4823	take counsel 	1
+4823	give counsel 	1
+4823	take counsel together 	1
+4824	counsel 	5
+4824	council 	2
+4824	consultation 	1
+4825	counsellor 	1
+4826	Simeon 	6
+4826	Simon Peter 	1
+4827	fellowdisciples 	1
+4828	also bear witness 	2
+4828	testify unto 	1
+4828	bear witness with 	1
+4829	be partaker with 	1
+4830	partaker 	2
+4831	follower together 	1
+4832	conformed to 	1
+4832	fashioned like unto 	1
+4833	make conformable unto 	1
+4834	have compassion 	1
+4834	be touched with a feeling of 	1
+4835	having compassion one of another 	1
+4836	come together 	1
+4836	stand with 	1
+4837	comfort together 	1
+4838	take with 	4
+4839	continue with 	1
+4840	be here present with 	1
+4841	suffer with 	2
+4842	send 	1
+4842	send with 	1
+4843	embrace 	1
+4844	drink with 	1
+4845	fill 	1
+4845	be come 	1
+4845	be fully come 	1
+4846	choke 	4
+4846	throng 	1
+4847	fellowcitizens 	1
+4848	go with 	3
+4848	resort 	1
+4849	company 	1
+4849	not tr. 	1
+4850	also an elder 	1
+4851	be expedient 	7
+4851	profit 	4
+4851	be profitable 	3
+4851	bring together 	1
+4851	be better 	1
+4851	be good 	1
+4852	consent unto 	1
+4853	countryman 	1
+4854	planted together 	1
+4855	spring up with 	1
+4856	agree 	3
+4856	agree with 	2
+4856	agree together 	1
+4857	concord 	1
+4858	music 	1
+4859	consent 	1
+4860	count 	1
+4861	of one accord 	1
+4862	with 	123
+4862	beside 	1
+4862	accompany 1 	
+4863	gather 	15
+4863	be gathered together 	12
+4863	gather together 	9
+4863	come together 	6
+4863	be gathered 	4
+4863	be assembled 	3
+4863	take in 	3
+4863	miscellaneous 	10
+4864	synagogue 	55
+4864	congregation 	1
+4864	assembly 	1
+4865	strive together with 	1
+4866	strive together for 	1
+4866	labour with 	1
+4867	gather together 	2
+4867	call together 	1
+4868	take 	1
+4868	reckon 	1
+4869	fellowprisoner 	3
+4870	follow 	2
+4871	assemble together 	1
+4872	come up with 	2
+4873	sit at meat with 	4
+4873	sit with 	2
+4873	sit together with 	1
+4873	sit down with 	1
+4873	sit at table with 	1
+4874	company with 	1
+4874	keep company 	1
+4874	have company with 	1
+4875	be refreshed with 	1
+4876	meet 	5
+4876	befall 	1
+4877	to meet 	1
+4878	help 	2
+4879	condescend 	1
+4879	carry away with 	1
+4879	lead away with 	1
+4880	die with 	2
+4880	be dead with 	1
+4881	perish with 	1
+4882	send with 	1
+4883	be fitly framed together 	1
+4883	be fitly joined together 	1
+4884	catch 	4
+4885	grow together 	1
+4886	bond 	3
+4886	band 	1
+4887	bound with 	1
+4888	glorify together 	1
+4889	fellowservant 	10
+4890	run together 	1
+4891	rise with 	2
+4891	raise up together 	1
+4892	council 	22
+4893	conscience 	32
+4894	by privy 	1
+4894	consider 	1
+4894	be ware of 	1
+4894	know 	1
+4895	be with 	2
+4896	gather together 	1
+4897	go with into 	1
+4897	go in with 	1
+4898	companion in travel 	1
+4898	travel with 	1
+4899	elected together with 	1
+4900	set at one again + (1515) + version=kjv (1519) 	1
+4901	also bear witness 	1
+4902	accompany 	1
+4903	work with 	2
+4903	help with 	1
+4903	workers together 	1
+4903	work together 	1
+4904	fellowlabourer 	4
+4904	helper 	3
+4904	fellowhelper 	2
+4904	fellowworkers 	1
+4904	workfellow 	1
+4904	labourer together with 	1
+4904	companion in labour 	1
+4905	come together 	18
+4905	go with 	4
+4905	come with 	2
+4905	resort 	2
+4905	come 	2
+4905	come with 	1
+4905	company with 	1
+4905	accompany 	1
+4905	assemble with 	1
+4906	eat with 	5
+4907	understanding 	6
+4907	knowledge 	1
+4908	prudent 	4
+4909	consent unto 	2
+4909	be pleased 	2
+4909	allow 	1
+4909	have pleasure in 	1
+4910	feast with 	2
+4911	rise up together 	1
+4912	be taken with 	3
+4912	throng 	1
+4912	straiten 	1
+4912	keep in 	1
+4912	hold 	1
+4912	stop 	1
+4912	press 	1
+4912	lie sick of 	1
+4912	constrain 	1
+4912	be in a strait 	1
+4913	delight 	1
+4914	custom 	2
+4915	equal 	1
+4916	bury with 	2
+4917	break 	2
+4918	throng 	2
+4919	break 	1
+4920	understand 	24
+4920	consider 	1
+4920	be wise 	1
+4921	commend 	10
+4921	approve 	2
+4921	consist 	1
+4921	make 	1
+4921	stand 	1
+4921	stand with 	1
+4922	journey with 	1
+4923	company 	1
+4924	dwell with 	1
+4925	build together 	1
+4926	talk with 	1
+4927	join hard 	1
+4928	distress 	1
+4928	anguish 	1
+4929	appoint 	2
+4930	end 	6
+4931	end 	4
+4931	fulfil 	1
+4931	finish 	1
+4931	make 	1
+4932	cut short 	1
+4932	short 	1
+4933	preserve 	2
+4933	observe 	1
+4933	keep 	1
+4934	agree 	2
+4934	covenant 	1
+4934	assent 	1
+4935	a few words 	1
+4936	run 	1
+4936	run together 	1
+4936	run with 	1
+4937	bruise 	3
+4937	break 	2
+4937	broken to shivers 	1
+4937	brokenhearted 	1
+4937	break in pieces 	1
+4938	destruction 	1
+4939	brought up with 	1
+4940	come at 	1
+4941	Syntyche 	1
+4942	dissemble with 	1
+4943	help together 	1
+4944	travail in pain together 	1
+4945	conspiracy 	1
+4946	Syracuse 	1
+4947	Syria 	8
+4948	Syrian 	1
+4949	Syrophenician 	1
+4950	quicksands 	1
+4951	draw 	3
+4951	drag 	1
+4951	hale 	1
+4952	tear 	1
+4953	token 	1
+4954	of the same body 	1
+4955	make insurrection with 	1
+4956	of commendation 	2
+4957	crucify with 	5
+4958	wind up 	1
+4958	short 	1
+4959	groan together 	1
+4960	answer to 	1
+4961	fellowsoldier 	2
+4962	gather 	1
+4963	concourse 	1
+4963	band together 	1
+4964	conform to 	1
+4964	fashion (one's) self according to 	1
+4965	Sychar 	1
+4966	Sychem (City in Ephraim) 	1
+4966	Sychem (son of Emmor) 	1
+4967	slaughter 	3
+4968	slain beast 	1
+4969	slay 	8
+4969	kill 	1
+4969	wound 	1
+4970	exceeding 	4
+4970	very 	3
+4970	greatly 	2
+4970	exceedingly 	1
+4970	sore 	1
+4971	exceedingly 	1
+4972	seal 	22
+4972	set to (one's) seal 	1
+4972	stop 	1
+4972	seal up 	1
+4972	set a seal 	1
+4972	vr seal 	1
+4973	seal 	16
+4974	ankle bone 	1
+4975	almost 	3
+4976	fashion 	2
+4977	rend 	5
+4977	divide 	2
+4977	open 	1
+4977	break 	1
+4977	make a rent 	1
+4978	division 	5
+4978	rent 	2
+4978	schism 	1
+4979	small cord 	1
+4979	rope 	1
+4980	empty 	1
+4980	give (one's) self to 	1
+4981	school 	1
+4982	save 	93
+4982	make whole 	9
+4982	heal 	3
+4982	be whole 	2
+4982	miscellaneous 	3
+4983	body 	144
+4983	bodily 	1
+4983	slave 	1
+4984	bodily 	2
+4985	bodily 	1
+4986	Sopater 	1
+4987	heap 	1
+4987	lade 	1
+4988	Sosthenes 	2
+4989	Sosipater 	1
+4990	Saviour 	24
+4991	salvation 	40
+4991	the (one) be saved 	1
+4991	deliver 	1
+4991	health 	1
+4991	saving 	1
+4991	that (one) be saved + (1519) 	1
+4992	salvation 	4
+4992	that brings salvation 	1
+4993	be in right mind 	2
+4993	be sober 	2
+4993	be sober minded 	1
+4993	soberly 	1
+4994	teach to be sober 	1
+4995	sound mind 	1
+4996	soberly 	1
+4997	sobriety 	2
+4997	soberness 	1
+4998	sober 	2
+4998	temperate 	1
+4998	discreet 	1
+4999	taverns 	1
+5000	Tabitha 	2
+5001	order 	1
+5002	set 	1
+5003	be afflicted 	1
+5004	misery 	2
+5005	wretched 	2
+5006	weight of a talent 	1
+5007	talent 	15
+5008	Talitha 	1
+5009	closet 	2
+5009	secret chamber 	1
+5009	storehouse 	1
+5010	order 	10
+5011	of low degree 	2
+5011	humble 	2
+5011	base 	1
+5011	cast down 	1
+5011	of low estate 	1
+5011	lowly 	1
+5012	humility 	3
+5012	humbleness of mind 	1
+5012	humility of mind 	1
+5012	lowliness 	1
+5012	lowliness of mind 	1
+5013	humble 	6
+5013	abase 	5
+5013	humble (one's) self 	2
+5013	bring low 	1
+5014	low estate 	1
+5014	humiliation 	1
+5014	vile 	1
+5014	be made low 	1
+5015	trouble 	17
+5016	trouble 	1
+5016	troubling 	1
+5017	stir 	2
+5018	Tarsus 	2
+5019	Tarsus 	3
+5020	cast down to hell 	1
+5021	appoint 	3
+5021	ordain 	2
+5021	set 	1
+5021	determine 	1
+5021	addict 	1
+5022	ox 	2
+5022	bull 	2
+5023	these things 	158
+5023	these 	26
+5023	thus 	17
+5023	that 	7
+5023	these words 	7
+5023	this 	6
+5023	afterwards 	4
+5023	miscellaneous 	22
+5024	like 	1
+5024	like manner 	1
+5024	so 	1
+5024	even thus 	1
+5025	these 	12
+5025	those 	6
+5025	them 	1
+5025	that 	1
+5025	hence 	1
+5026	this 	105
+5026	that 	4
+5026	the same 	4
+5026	miscellaneous 	9
+5027	to bury 	1
+5028	sepulchre 	6
+5028	tomb 	1
+5029	peradventure 	1
+5029	perhaps 	1
+5030	shortly 	4
+5030	quickly 	2
+5030	soon 	2
+5030	hastily 	1
+5030	suddenly 	1
+5031	shortly 	1
+5031	swift 	1
+5032	shortly 	2
+5032	quickly 	1
+5032	outrun 	1
+5032	the sooner 	1
+5033	with all speed 	1
+5034	shortly 	4
+5034	quickly + (1722) 	2
+5034	speedily + (1722) 	1
+5035	quickly 	12
+5035	lightly 	1
+5036	swift 	1
+5037	and 	130
+5037	both 	36
+5037	then 	2
+5037	whether 	1
+5037	even 	1
+5037	also 	1
+5037	not translated 	41
+5038	wall 	9
+5039	infallible proof 	1
+5040	little children 	9
+5041	bear children 	1
+5042	childbearing 	1
+5043	child 	77
+5043	son 	21
+5043	daughter 	1
+5044	bring up children 	1
+5045	carpenter 	2
+5046	perfect 	17
+5046	man 	1
+5046	of full age 	1
+5047	perfectness 	1
+5047	perfection 	1
+5048	make perfect 	12
+5048	perfect 	4
+5048	finish 	4
+5048	fulfil 	2
+5048	be perfect 	1
+5048	consecrate 	1
+5049	to the end 	1
+5050	performance 	1
+5050	perfection 	1
+5051	finisher 	1
+5052	bring fruit to perfection 	1
+5053	die 	8
+5053	be dead 	3
+5053	decrease 	1
+5054	death 	1
+5055	finish 	8
+5055	fulfil 	7
+5055	accomplish 	4
+5055	pay 	2
+5055	perform 	1
+5055	expire 	1
+5055	miscellaneous 	3
+5056	end 	35
+5056	custom 	3
+5056	uttermost 	1
+5056	finally 	1
+5056	ending 	1
+5056	by (one's) continual 	1
+5057	publican 	22
+5058	receipt of custom 	3
+5059	wonder 	16
+5060	Tertius 	1
+5061	Tertullus 	2
+5062	forty 	22
+5063	forty years old 	1
+5063	of forty years 	1
+5064	four 	42
+5065	fourteenth 	2
+5066	four days 	1
+5067	fourth 	9
+5067	four 	1
+5068	foursquare 	1
+5069	quaternion 	1
+5070	four thousand 	5
+5071	four hundred 	4
+5072	four months 	1
+5073	fourfold 	1
+5074	fourfooted beast 	3
+5075	tetrarch 	2
+5075	be tetrarch 	1
+5076	tetrarch 	4
+5077	turn into ashes 	1
+5078	art 	1
+5078	occupation 	1
+5078	craft 	1
+5079	craftsman 	3
+5079	builder 	1
+5080	melt 	1
+5081	clearly 	1
+5082	so great 	3
+5082	so mighty 	1
+5083	keep 	57
+5083	reserve 	8
+5083	observe 	4
+5083	watch 	2
+5083	preserve 	2
+5083	keeper 	1
+5083	hold fast 	1
+5084	hold 	1
+5084	prison 	1
+5084	keeping 	1
+5085	Tiberias 	3
+5086	Tiberius 	1
+5087	lay 	28
+5087	put 	18
+5087	lay down 	12
+5087	make 	10
+5087	appoint 	6
+5087	kneel down + (1119) + version=kjv (3588) 	5
+5087	miscellaneous 	17
+5088	bring forth 	9
+5088	be delivered 	5
+5088	be born 	3
+5088	be in travail 	1
+5088	bear 	1
+5089	pluck 	3
+5090	Timaeus 	1
+5091	honour 	19
+5091	value 	2
+5092	honour 	35
+5092	price 	8
+5092	sum 	1
+5092	precious 	1
+5093	precious 	8
+5093	most precious 	2
+5093	more precious 	1
+5093	dear 	1
+5093	honourable 	1
+5093	had in reputation 	1
+5094	costliness 	1
+5095	Timotheus 	19
+5095	Timothy 	9
+5096	Timon 	1
+5097	punish 	2
+5098	punishment 	1
+5099	be punished 	1
+5100	certain 	104
+5100	some 	73
+5100	any man 	55
+5100	any 	37
+5100	one 	34
+5100	man 	34
+5100	anything 	24
+5100	a 	9
+5100	certain man 	7
+5100	something 	6
+5100	somewhat 	6
+5100	ought 	5
+5100	some man 	4
+5100	certain thing 	2
+5100	nothing 	2
+5100	divers 	2
+5100	he 	2
+5100	thing 	1
+5100	another 	2
+5100	not translated 	17
+5100	miscellaneous 	22
+5101	what 	260
+5101	who 	102
+5101	why 	66
+5101	whom 	25
+5101	which 	17
+5101	miscellaneous 	67
+5102	title 	2
+5103	Titus 	15
+5104	nevertheless 	1
+5105	therefore 	1
+5105	wherefore 	1
+5106	therefore 	3
+5106	then 	1
+5107	such 	1
+5108	such 	39
+5108	such thing 	11
+5108	such an one 	8
+5108	like 	1
+5108	such a man 	1
+5108	such a fellow 	1
+5109	wall 	1
+5110	usury 	2
+5111	durst 	7
+5111	dare 	4
+5111	be bold 	4
+5111	boldly 	1
+5112	the more boldly 	1
+5113	presumptuous 	1
+5114	sharper 	1
+5115	bow 	1
+5116	topaz 	1
+5117	place 	80
+5117	room 	5
+5117	quarter 	2
+5117	licence 	1
+5117	coast 	1
+5117	where 	1
+5117	plain 	1
+5117	rock + (5138) 	1
+5118	so much 	7
+5118	so great 	5
+5118	so many 	4
+5118	so long 	2
+5118	as large 	1
+5118	these many 	1
+5118	so many things 	1
+5119	then 	149
+5119	that time 	4
+5119	when 	1
+5119	not translated 	5
+5120	his 	1
+5121	contrariwise 	3
+5122	name 	1
+5123	that is 	12
+5123	that is to say 	5
+5123	that is to say 	5
+5124	this 	199
+5124	therefore 	44
+5124	that 	22
+5124	for this cause + (1223) 	14
+5124	wherefore + (1223) 	7
+5124	it 	5
+5124	not translated 	1
+5124	miscellaneous 	25
+5125	these 	7
+5125	these things 	3
+5125	this 	2
+5125	such 	1
+5125	them 	1
+5125	therein 	1
+5125	therewith 	1
+5125	those 	1
+5125	therewith 	1
+5125	not translated 	1
+5126	this 	39
+5126	him 	18
+5126	that 	4
+5126	this fellow 	2
+5126	the same 	1
+5127	this 	64
+5127	that 	4
+5127	him 	2
+5127	thus 	1
+5127	thereabout 	1
+5127	it 	1
+5127	thenceforth 	1
+5127	miscellaneous 	3
+5128	these 	17
+5128	them 	7
+5128	these men 	1
+5128	this 	1
+5128	such 	1
+5129	this 	59
+5129	him 	10
+5129	hereby 	8
+5129	herein + (1722) 	7
+5129	miscellaneous 	5
+5130	these 	38
+5130	these things 	21
+5130	such 	2
+5130	these matters 	1
+5130	such matters 	1
+5130	those 	1
+5130	not translated 	1
+5130	miscellaneous 	4
+5131	goat 	4
+5132	table 	13
+5132	bank 	1
+5132	meat 	1
+5133	exchanger 	1
+5134	wound 	1
+5135	wound 	2
+5136	open 	1
+5137	neck 	7
+5138	rough 	1
+5138	rock 	1
+5139	Trachonitis 	1
+5140	three 	69
+5141	tremble 	4
+5142	feed 	4
+5142	nourish 	3
+5142	bring up 	1
+5143	run 	19
+5143	have course 	1
+5144	thirty 	9
+5144	thirty fold 	2
+5145	three hundred 	2
+5146	thistle 	1
+5146	brier 	1
+5147	path 	3
+5148	space of three years 	1
+5149	gnash 	1
+5150	three months 	1
+5151	thrice 	11
+5151	three times 	1
+5152	third loft 	1
+5153	three thousand 	1
+5154	third 	56
+5154	thirdly 	1
+5155	of hair 	1
+5156	trembling 	4
+5156	tremble 	1
+5157	turning 	1
+5158	as 	3
+5158	even as + (2596) + (3739) 	2
+5158	way 	2
+5158	means 	2
+5158	even as + (3739) 	1
+5158	in like manner as + (3639) 	1
+5158	manner 	1
+5158	conversation 	1
+5159	suffer (one's) manners 	1
+5160	meat 	11
+5160	food 	2
+5160	some meat 	2
+5160	not translated 	1
+5161	Trophimus 	3
+5162	nurse 	1
+5163	path 	1
+5164	course 	1
+5165	dish 	2
+5166	gather 	3
+5167	turtledove 	1
+5168	eye 	2
+5169	eye 	1
+5170	Tryphena 	1
+5171	live in pleasure 	1
+5172	delicately 	1
+5172	to riot 	1
+5173	Tryphosa 	1
+5174	Troas 	6
+5175	Trogyllium 	1
+5176	eat 	6
+5177	obtain 	5
+5177	be 	1
+5177	chance 	1
+5177	little 	1
+5177	enjoy 	1
+5177	may be 	1
+5177	not translated 	1
+5177	miscellaneous 	2
+5178	torture 	1
+5179	ensample 	5
+5179	print 	2
+5179	figure 	2
+5179	example 	2
+5179	pattern 	2
+5179	fashion 	1
+5179	manner 	1
+5179	form 	1
+5180	smite 	9
+5180	beat 	3
+5180	strike 	1
+5180	wound 	1
+5181	Tyrannus 	1
+5182	trouble 	1
+5183	of Tyre 	1
+5184	Tyre 	11
+5185	blind 	44
+5185	blind man 	9
+5186	blind 	3
+5187	be proud 	1
+5187	be lifted up with pride 	1
+5187	highminded 	1
+5188	smoke 	1
+5189	tempestuous 	1
+5190	Tychicus 	7
+5191	jacinth 	1
+5192	jacinth 	1
+5193	of glass 	3
+5194	glass 	2
+5195	entreat spitefully 	2
+5195	reproach 	1
+5195	use despitefully 	1
+5195	shamefully entreat 	1
+5196	hurt 	1
+5196	harm 	1
+5196	reproach 	1
+5197	despiteful 	1
+5197	injurious 	1
+5198	sound 	6
+5198	be sound 	1
+5198	be whole 	1
+5198	whole 	1
+5198	wholesome 	1
+5198	be in health 	1
+5198	safe and sound 	1
+5199	whole 	13
+5199	sound 	1
+5200	green 	1
+5201	waterpot 	3
+5202	drink water 	1
+5203	have the dropsy 	1
+5204	water 	79
+5205	rain 	6
+5206	adoption 	3
+5206	adoption of children 	1
+5206	adoption of sons 	1
+5207	son(s) 	85
+5207	Son of Man 	87
+5207	Son of God + (2316) 	49
+5207	child(ren) 	49
+5207	Son 	42
+5207	his Son + (848) 	21
+5207	Son of David + (1138) 	15
+5207	my beloved Son + (27) + (3350) 	7
+5207	thy Son + (4575) 	5
+5207	only begotten Son + (3339) 	3
+5207	his (David's) son + (846) 	3
+5207	firstborn son + (4316) 	2
+5207	miscellaneous 	14
+5208	matter 	1
+5209	you 	376
+5209	ye 	42
+5209	for your sakes 	9
+5209	not translated 	1
+5209	miscellaneous 	9
+5210	ye 	235
+5210	ye yourselves 	1
+5210	you 	1
+5210	not translated 	5
+5211	Hymenaeus 	2
+5212	your 	7
+5212	yours 	2
+5212	your own 	1
+5213	you 	599
+5213	ye 	14
+5213	your 	6
+5213	not translated 	2
+5213	miscellaneous 	3
+5214	sing an hymn 	2
+5214	sing praise 	2
+5215	hymn 	2
+5216	your 	347
+5216	you 	202
+5216	ye 	9
+5216	yours 	5
+5216	not tr. 	1
+5216	miscellaneous 	17
+5217	go 	55
+5217	go (one's) way 	17
+5217	go away 	3
+5217	get thee 	3
+5217	depart 	2
+5217	get thee hence 	1
+5218	obedience 	11
+5218	obedient 	1
+5218	to make obedient 	1
+5218	to obey + (1519) 	1
+5218	obeying 	1
+5219	obey 	18
+5219	be obedient to 	2
+5219	hearken 	1
+5220	which hath an husband 	1
+5221	meet 	4
+5221	go and meet 	1
+5222	to meet 	1
+5223	goods 	1
+5223	substance 	1
+5224	goods 	7
+5224	that (one) has 	4
+5224	things which (one) possesses 	2
+5224	substance 	1
+5225	be 	42
+5225	have 	2
+5225	live 	1
+5225	after 	1
+5225	not translated 	2
+5226	submit (one's) self 	1
+5227	contrary 	1
+5227	adversary 	1
+5228	for 	104
+5228	of 	12
+5228	above 	12
+5228	for (one's) sake 	8
+5228	on (one's) behalf 	3
+5228	more than 	3
+5228	in (one's) stead 	2
+5228	than 	2
+5228	very chiefest 	2
+5228	beyond 	1
+5228	to 	1
+5228	over 	1
+5228	more 	1
+5228	exceedingly abundantly + (1537) + (4053) 	1
+5228	exceedingly + (1537) + (4053) 	1
+5228	very highly + (1537) + (4053) 	1
+5228	miscellaneous 	5
+5229	be exalted above measure 	2
+5229	exalt (one's) self 	1
+5230	pass the flower of (one's) age 	1
+5231	far above 	2
+5231	over 	1
+5232	grow exceedingly 	1
+5233	go beyond 	1
+5234	above measure 	1
+5235	exceed 	3
+5235	excel 	1
+5235	pass 	1
+5236	far more 	1
+5236	exceeding + (2596) 	1
+5236	more excellent + (2596) 	1
+5236	out of measure + (2596) 	1
+5236	beyond measure + (2596) 	1
+5236	excellency 	1
+5236	abundance 	1
+5236	exceeding + (1519) 	1
+5237	wink at 	1
+5238	beyond 	1
+5239	stretch beyond 	1
+5240	run over 	1
+5241	make intercession for 	1
+5242	higher 	1
+5242	better 	1
+5242	excellency 	1
+5242	pass 	1
+5242	supreme 	1
+5243	pride 	1
+5244	proud 	5
+5245	be more than conqueror 	1
+5246	great swelling 	2
+5247	excellency 	1
+5247	authority 	1
+5248	much more abound 	1
+5248	exceeding 	1
+5249	beyond measure 	1
+5250	to be exceeding abundant 	1
+5251	highly exalt 	1
+5252	think more highly 	1
+5253	upper chamber 	3
+5253	upper room 	1
+5254	suffer 	1
+5255	obedient 	2
+5255	obey 	1
+5256	serve 	1
+5256	minister unto 	1
+5256	minister 	1
+5257	officer 	11
+5257	minister 	5
+5257	servant 	4
+5258	sleep 	6
+5259	of 	116
+5259	by 	42
+5259	under 	48
+5259	with 	14
+5259	in 	1
+5259	not translated 	6
+5259	miscellaneous 	3
+5260	suborn 	1
+5261	example 	1
+5262	example 	4
+5262	pattern 	1
+5262	ensample 	1
+5263	show 	3
+5263	warn 	2
+5263	forewarn 	1
+5264	receive 	4
+5265	bind on 	1
+5265	shod 	1
+5265	be shod with 	1
+5266	shoe 10 	
+5267	guilty 	1
+5268	ass 	2
+5269	undergird 	1
+5270	under 	9
+5271	feign 	1
+5272	hypocrisy 	5
+5272	dissimulation 	1
+5272	condemnation 	1
+5273	hypocrite 	20
+5274	suppose 	2
+5274	answer 	1
+5274	receive 	1
+5275	leave 	1
+5276	winefat 	1
+5277	leave 	1
+5278	endure 	11
+5278	take patiently 	2
+5278	tarry behind 	1
+5278	abide 	1
+5278	patient 	1
+5278	suffer 	1
+5279	put in remembrance 	3
+5279	remember 	2
+5279	bring to remembrance 	1
+5279	put in mind 	1
+5280	remembrance 	2
+5280	put in remembrance 	1
+5281	patience 	29
+5281	enduring 	1
+5281	patient continuance 	1
+5281	patient waiting 	1
+5282	think 	1
+5282	suppose 	1
+5282	deem 	1
+5283	surmising 	1
+5284	sail under 	2
+5285	blow softly 	1
+5286	footstool 	8
+5286	footstool 	1
+5287	confidence 	2
+5287	confident 	1
+5287	person 	1
+5287	substance 	1
+5288	keep back 	1
+5288	shun 	1
+5288	withdraw 	1
+5288	draw back 	1
+5289	of them who draw back 	1
+5290	return 	28
+5290	return again 	3
+5290	turn back 	1
+5290	turn again 	1
+5290	return back again 	1
+5290	come again 	1
+5291	spread 	1
+5292	subjection 	4
+5293	put under 	6
+5293	be subject unto 	6
+5293	be subject to 	5
+5293	submit (one's) self unto 	5
+5293	submit (one's) self to 	3
+5293	be in subjection unto 	2
+5293	put in subjection under 	1
+5293	miscellaneous 	12
+5294	lay down 	1
+5294	put in remembrance 	1
+5295	run under 	1
+5296	pattern 	1
+5296	form 	1
+5297	endure 	2
+5297	bear 	1
+5298	withdrew 	1
+5298	go aside 	1
+5299	weary 	1
+5299	keep under 	1
+5300	sow 	1
+5301	hyssop 	2
+5302	lack 	3
+5302	be behind 	2
+5302	want 	2
+5302	come short 	1
+5302	be in want 	1
+5302	fail 	1
+5302	come behind 	1
+5302	be destitute 	1
+5302	miscellaneous 	4
+5303	which is lacking 	3
+5303	want 	3
+5303	which is behind 	1
+5303	lack 	1
+5303	penury 	1
+5304	want 	2
+5305	afterward 	8
+5305	last 	2
+5305	at the last 	1
+5305	last of all 	1
+5306	latter 	1
+5307	woven 	1
+5308	high 	8
+5308	higher 	1
+5308	highly esteemed 	1
+5308	high things 	1
+5309	be highminded 	2
+5310	highest 	8
+5310	most high 	5
+5311	on high 	2
+5311	height 	2
+5311	high 	1
+5311	be exalted 	1
+5312	exalt 	14
+5312	lift up 	6
+5313	height 	1
+5313	high thing 	1
+5314	gluttonous 	2
+5315	eat 	94
+5315	meat 	3
+5316	appear 	17
+5316	shine 	10
+5316	be seen 	2
+5316	seem 	1
+5316	think 	1
+5317	Phalec 	1
+5318	manifest 	9
+5318	openly + (1722) + version=kjv (3588) 	3
+5318	known 	3
+5318	abroad + (1519) 	2
+5318	spread abroad 	1
+5318	outwardly + (1722) + (3588) 	1
+5318	outward 	1
+5318	appear 	1
+5319	make manifest 	19
+5319	appear 	12
+5319	manifest 	9
+5319	show 	3
+5319	be manifest 	2
+5319	show (one's) self 	2
+5319	manifestly declare 	1
+5319	manifest forth 	1
+5320	openly 	2
+5320	evidently 	1
+5321	manifestation 	2
+5322	lantern 	1
+5323	Phanuel 	1
+5324	sight 	1
+5325	pomp 	1
+5326	spirit 	2
+5327	valley 	1
+5328	Pharaoh 	5
+5329	Phares 	3
+5330	Pharisee 	100
+5331	sorcery 	2
+5331	witchcraft 	1
+5332	sorcerer 	1
+5333	sorcerer 	1
+5334	tidings 	1
+5335	say 	2
+5335	affirm 	1
+5335	profess 	1
+5336	manger 	3
+5336	stall 	1
+5337	evil 	4
+5338	light 	3
+5339	spare 	9
+5339	forbear 	1
+5340	sparingly 	2
+5341	cloke 	1
+5342	bring 	34
+5342	bear 	8
+5342	bring forth 	5
+5342	come 	3
+5342	reach 	2
+5342	endure 	2
+5342	carry 	1
+5342	miscellaneous 	9
+5343	flee 	26
+5343	escape 	3
+5343	flee away 	2
+5344	Felix 	9
+5345	fame 	2
+5346	say 	57
+5346	affirm 	1
+5347	Festus 	13
+5348	come 	4
+5348	already attain 	1
+5348	attain 	1
+5348	prevent 1 	
+5349	corruptible 	6
+5350	speak 	3
+5351	corrupt 	4
+5351	corrupt (one's) self 	1
+5351	be corrupt 	1
+5351	defile 	1
+5351	destroy 	1
+5352	whose fruit withereth 	1
+5353	sound 	2
+5354	envy 	1
+5355	envy 	8
+5355	envying 	1
+5356	corruption 	7
+5356	to perish 	1
+5356	destroy 	1
+5357	vial 	12
+5358	lover of good men 	1
+5359	Philadelphia 	2
+5360	brotherly love 	3
+5360	brotherly kindness 	2
+5360	love of the brethren 	1
+5361	love as brethren 	1
+5362	love their husbands 	1
+5363	kindness 	1
+5363	love toward man 	1
+5364	courteously 	1
+5365	love of money 	1
+5366	covetous 	2
+5367	lover of (one's) own self 	1
+5368	love 	22
+5368	kiss 	3
+5369	lover of pleasure 	1
+5370	kiss 	7
+5371	Philemon 	2
+5372	Philetus 	1
+5373	friendship 	1
+5374	Philippians 	2
+5375	Philippi 	6
+5376	Philip (the apostle) 	16
+5376	Philip (the evangelist) 	16
+5376	Philip (Herod) 	3
+5376	Philippi (an adjunct of Caesarea) 	2
+5376	Philip (the tetrarch) 	1
+5377	lover of God 	1
+5378	Philologus 	1
+5379	strife 	1
+5380	contentious 	1
+5381	hospitality 	1
+5381	lover of strangers 	1
+5382	given to hospitality 	1
+5382	lover of hospitality 	1
+5382	use hospitality 	1
+5383	love to have the preeminence 	1
+5384	friend 	29
+5385	philosophy 	1
+5386	philosopher 	1
+5387	kindly affectioned 	1
+5388	love (one's) children 	1
+5389	strive 	1
+5389	labour 	1
+5389	study 	1
+5390	courteously 	1
+5391	courteous 	1
+5392	put to silence 	2
+5392	hold (one's) peace 	2
+5392	muzzle 	2
+5392	be speechless 	1
+5392	be still 	1
+5393	Phlegon 	1
+5394	set on fire 	2
+5395	flame 	6
+5395	flaming 	1
+5396	prate against 	1
+5397	tattler 	1
+5398	fearful 	2
+5398	terrible 	1
+5399	fear 	62
+5399	be afraid 	23
+5399	be afraid of 	5
+5399	reverence 	1
+5399	miscellaneous 	2
+5400	fearful sight 	1
+5401	fear 	41
+5401	terror 	3
+5401	miscellaneous 	3
+5402	Phebe 	2
+5403	Phenice 	2
+5403	Phenicia 	1
+5404	palm tree 	1
+5404	palm 	1
+5405	Phenice 	1
+5406	murderer 	7
+5407	kill 	10
+5407	do murder 	1
+5407	slay 	1
+5408	murder 	8
+5408	slaughter 	1
+5408	be slain 	1
+5409	bear 	3
+5409	wear 	3
+5410	Forum 	1
+5411	tribute 	5
+5412	be heavy laden 	1
+5412	lade 	1
+5413	burden 	5
+5414	lading 	1
+5415	Fortunatus 	2
+5416	scourge 	1
+5417	scourge 	2
+5418	hedge 	2
+5418	hedge around about 	1
+5418	partition 	1
+5419	declare 	2
+5420	stop 	3
+5421	pit 	5
+5421	well 	2
+5422	deceive 	1
+5423	deceiver 	1
+5424	understanding 	2
+5425	tremble 	1
+5426	think 	5
+5426	regard 	4
+5426	mind 	3
+5426	be minded 	3
+5426	savour 	2
+5426	be of the same mind 	2
+5426	be like minded + (846) 	2
+5426	miscellaneous 	8
+5427	mind 	2
+5427	carnally minded 	1
+5427	spiritually minded + (4151) 	1
+5428	wisdom 	1
+5428	prudence 	1
+5429	wise 	14
+5430	wisely 	1
+5431	be careful 	1
+5432	keep 	3
+5432	keep with a garrison 	1
+5433	rage 	1
+5434	stick 	1
+5435	Phrygia 	4
+5436	Phygellus 	1
+5437	flight 	2
+5438	prison 	36
+5438	watch 	6
+5438	imprisonment 	2
+5438	hold 	1
+5438	cage 	1
+5438	ward 	1
+5439	imprison 	1
+5440	phylactery 	1
+5441	keeper 	3
+5442	keep 	23
+5442	observe 	2
+5442	beware 	2
+5442	keep (one's) self 	1
+5442	save 	1
+5442	be ... ware 	1
+5443	tribe 	25
+5443	kindred 	6
+5444	leaf 	6
+5445	lump 	5
+5446	natural 	3
+5447	naturally 	1
+5448	puff up 	7
+5449	nature 	10
+5449	natural 	2
+5449	kind 	1
+5449	mankind + (442) 1 	
+5450	swelling 	1
+5451	plant 	1
+5452	plant 	11
+5453	spring up 	1
+5453	spring 	1
+5453	as soon as it be sprung up 	1
+5454	hole 	2
+5455	call 	23
+5455	crow 	12
+5455	cry 	5
+5455	call for 	2
+5456	voice 	131
+5456	sound 	8
+5456	be noised abroad 	1
+5456	noise 	1
+5457	light 	68
+5457	fire 	2
+5458	light 	2
+5459	day star 	1
+5460	full of light 	4
+5460	bright 	1
+5461	give light 	2
+5461	bring to light 	2
+5461	lighten 	2
+5461	enlighten 	2
+5461	light 	1
+5461	illuminate 	1
+5461	make to see 	1
+5462	light 	2
+5463	rejoice 	42
+5463	be glad 	14
+5463	joy 	5
+5463	hail 	5
+5463	greeting 	3
+5463	God speed 	2
+5463	all hail 	1
+5463	joyfully 	1
+5463	farewell 	1
+5464	hail 	4
+5465	let down 	6
+5465	strike 	1
+5466	Chaldean 	1
+5467	fierce 	1
+5467	perilous 	1
+5468	bridle 	2
+5469	bit 	1
+5469	bridle 	1
+5470	brass 	1
+5471	coppersmith 	1
+5472	chalcedony 	1
+5473	brasen vessel 	1
+5474	fine brass 	2
+5475	brass 	3
+5475	money 	2
+5476	on the ground 	1
+5476	to the ground 	1
+5477	Chanaan 	2
+5478	of Canaan 	1
+5479	joy 	51
+5479	gladness 	3
+5479	joyful 	1
+5479	joyous 	1
+5479	joyfulness 	1
+5479	joyfully 	1
+5479	greatly 	1
+5480	mark 	8
+5480	graven 	1
+5481	express image 	1
+5482	trench 	1
+5483	forgive 	11
+5483	give 	6
+5483	freely give 	2
+5483	deliver 	2
+5483	grant 	1
+5483	frankly forgive 	1
+5484	for this cause 	3
+5484	because of 	2
+5484	wherefore + (3739) 	1
+5484	wherefore 5101 	1
+5484	for ... sake 	1
+5484	to speak reproachfully + (3059) 	1
+5485	grace 	130
+5485	favour 	6
+5485	thanks 	4
+5485	thank 	4
+5485	thank 	3
+5485	pleasure 	2
+5485	miscellaneous 	7
+5486	gift 	15
+5486	free gift 	2
+5487	be highly favoured 	1
+5487	make accepted 	1
+5488	Charran 	2
+5489	paper 	1
+5490	gulf 	1
+5491	lip 	6
+5491	shore 	1
+5492	be tossed with tempest 	1
+5493	brook 	1
+5494	winter 	4
+5494	tempest 	1
+5494	foul weather 	1
+5495	hand 	178
+5495	not translated 	1
+5496	lead by the hand 	2
+5497	some to lead by the hand 	1
+5498	handwriting 	1
+5499	made with hands 	5
+5499	made by hands 	1
+5500	ordain 	3
+5500	choose 	1
+5501	worse 	7
+5501	sorer 	1
+5501	worse + (1519) + version=kjv (3588) 	1
+5501	worse and worse + (1909) + (3588) 	1
+5501	a worse thing + (5100) 	1
+5502	cherubim 	1
+5503	widow 	27
+5504	yesterday 	3
+5505	thousand 	23
+5506	chief captain 	19
+5506	captain 	2
+5506	high captain 	1
+5507	thousand 	11
+5508	Chios 	1
+5509	coat 	9
+5509	garment 	1
+5509	clothes 	1
+5510	snow 	3
+5511	robe 	2
+5512	mock 	2
+5513	lukewarm 	1
+5514	Chloe 	1
+5515	green 	3
+5515	pale 	1
+5516	six hundred threescore and six 	1
+5517	earthly 	4
+5518	measure 	2
+5519	swine 	14
+5520	be angry 	1
+5521	gall 	2
+5522	dust 	2
+5523	Chorazin 	2
+5524	minister 	1
+5524	give 	1
+5525	dancing 	1
+5526	fill 	12
+5526	be full 	1
+5526	satisfy 	1
+5526	feed 	1
+5527	sustenance 	1
+5528	grass 	12
+5528	blade 	2
+5528	hay 	1
+5529	Chuza 	1
+5530	use 	10
+5530	entreat 	1
+5531	lend 	1
+5532	need 	25
+5532	necessity 	3
+5532	use 	2
+5532	needful 	1
+5532	necessary 	1
+5532	business 	1
+5532	lack 	1
+5532	wants 	1
+5533	debtor 	2
+5534	ought 	1
+5535	have need 	3
+5535	need 	2
+5536	money 	4
+5536	riches 	3
+5537	be warned of God 	3
+5537	call 	2
+5537	be admonished of God 	1
+5537	reveal 	1
+5537	speak 	1
+5537	be warned from God 	1
+5538	answer of God 	1
+5539	profit 	1
+5540	use 	2
+5541	be kind 	1
+5542	good words 	1
+5543	kind 	2
+5543	easy 	1
+5543	better 	1
+5543	goodness 	1
+5543	good 	1
+5543	gracious 	1
+5544	goodness 	4
+5544	kindness 	4
+5544	good 	1
+5544	gentleness 	1
+5545	anointing 	2
+5545	unction 	1
+5546	Christian 	3
+5547	Christ 	569
+5548	anoint 	5
+5549	delay 	2
+5549	tarry 	2
+5549	tarry so long 	1
+5550	time 	33
+5550	season 	4
+5550	while 	2
+5550	a while 	2
+5550	space 	2
+5550	oftentimes 	1
+5550	not translated 	5
+5550	miscellaneous 	4
+5551	spend time 	1
+5552	golden 	15
+5552	of gold 	3
+5553	gold 	9
+5554	with a gold ring 	1
+5555	chrysolite 	1
+5556	chrysoprasus 	1
+5557	gold 	13
+5558	deck 	2
+5559	body 	1
+5560	lame 	10
+5560	halt 	4
+5560	cripple 	1
+5561	country 	15
+5561	region 	5
+5561	land 	3
+5561	field 	2
+5561	ground 	1
+5561	coast 	1
+5562	receive 	3
+5562	contain 	2
+5562	come 	1
+5562	go 	1
+5562	have place 	1
+5562	cannot receive 	1
+5562	be room to receive 	1
+5563	depart 	8
+5563	separate 	3
+5563	put asunder 	2
+5564	field 	3
+5564	land 	3
+5564	place 	2
+5564	parcel of ground 	1
+5564	possession 	1
+5565	without 	35
+5565	beside 	3
+5565	by itself 	1
+5566	north west 	1
+5567	sing 	3
+5567	sing psalms 	1
+5567	make melody 	1
+5568	psalm 	5
+5568	Psalm 	2
+5569	false brother 	2
+5570	false apostle 	1
+5571	liar 	2
+5571	false 	1
+5572	false teacher 	1
+5573	speaking lies 	1
+5574	lie 	11
+5574	falsely 	1
+5575	false witness 	3
+5576	bear false witness 	6
+5577	false witness 	2
+5578	false prophet 	11
+5579	lie 	7
+5579	lying 	2
+5580	false Christ 	2
+5581	falsely so called 	1
+5582	lie 	1
+5583	liar 	10
+5584	handle 	2
+5584	feel after 	1
+5584	touch 	1
+5585	count 	2
+5586	stone 	2
+5586	voice 	1
+5587	whispering 	1
+5588	whisperer 	1
+5589	crumb 	3
+5590	soul 	58
+5590	life 	40
+5590	mind 	3
+5590	heart 	1
+5590	heartily 	1
+5590	not translated 	2
+5591	natural 	4
+5591	sensual 	2
+5592	cold 	3
+5593	cold 	4
+5594	wax cold 	1
+5595	bestow to feed 	1
+5595	feed 	1
+5596	sop 	4
+5597	rub 	1
+5598	Omega 	4
+5599	O 	16
+5599	not translated 	1
+5600	be 	22
+5600	may be 	22
+5600	should be 	6
+5600	is 	5
+5600	might be 	2
+5600	were 	1
+5600	not translated 	4
+5600	miscellaneous 	4
+5601	Obed 	3
+5602	here 	44
+5602	hither 	13
+5602	in this place 	1
+5602	this place 	1
+5602	there 	1
+5603	song 	7
+5604	sorrow 	2
+5604	pain 	1
+5604	travail 	1
+5605	travail in birth 	2
+5605	travail 	1
+5606	shoulder 	2
+5607	being 	36
+5607	when ... was 	8
+5607	which is 	12
+5607	that is 	8
+5607	not translated 	10
+5607	miscellaneous 	80
+5608	buy 	1
+5609	egg 	1
+5610	hour 	89
+5610	time 	11
+5610	season 	3
+5610	miscellaneous 	5
+5611	beautiful 	4
+5612	roaring 	1
+5613	as 	342
+5613	when 	42
+5613	how 	18
+5613	as it were 	20
+5613	about 	14
+5613	miscellaneous 	56
+5614	Hosanna 	6
+5615	likewise 	13
+5615	in like manner 	2
+5615	even so 	1
+5615	after the same manner 	1
+5616	about 	18
+5616	as 	7
+5616	like 	5
+5616	as it had been 	2
+5616	as it were 	1
+5616	like as 	1
+5617	Osee 	1
+5618	as 	39
+5618	even as 	2
+5618	like as 	1
+5619	as 	1
+5620	so that 	25
+5620	wherefore 	17
+5620	insomuch that 	16
+5620	therefore 	9
+5620	that 	6
+5620	so then 	5
+5620	to 	3
+5620	as 	1
+5620	insomuch as 	1
+5621	ear 	5
+5622	profit 	1
+5622	advantage 	1
+5623	profit 	11
+5623	prevail 	2
+5623	better 	1
+5623	advantage 	1
+5624	profitable 	3
+5624	profit 	1
