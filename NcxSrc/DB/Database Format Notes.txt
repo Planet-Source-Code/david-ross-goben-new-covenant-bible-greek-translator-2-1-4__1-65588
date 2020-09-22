@@ -1,0 +1,191 @@
+Database Format Notes:
+------------------------------------------------------------------------------
+All databases are flat ASCII files for easy transport to other platforms and applications.
+
+
+BOOKS.TXT
+---------
+List each of the 27 books of the New Covenant in various forms, consisting of a header 
+line, and followed by comma-delimited text with various renditions of the titles, plus 
+the number of chapters in each Book.
+
+Example, following are the first 3 lines of the file:
+
+ID,SRT,NAME,PROPER,CHAPTERS
+01,MAT,MATTHEW,Matthew,28
+02,MRK,MARK,Mark,16
+
+
+BIBLE VERSIONS
+--------------
+This database contains 7 separate versions of the New Covenant Bible: GREEK.TXT, 
+KJV.TXT, MKJV.TXT, RSV.TXT, YLT.TXT, WEB.TXT, and ASV.TXT.
+
+Each line consists of an artificial invention only created in 1551 (for strictly 
+academic research) called verses.  These are arbitrarily fashioned, as often verses 
+actually break a single sentence in more than one portion (Chapters were invented in 
+the late fifth century, breaking the text up where the sense of the text changes).
+
+Each line of each Bible database consisted of a ID tag and the words of the verse, 
+being space-delimited.  A header consist of the Book, chapter, and verse, in the 
+format: 010203, indicating Book 1 (Matthew), Chapter 2, Verse 3.  Notice that in this
+file that verses that do not contain Greek text may have an Asterisk following the
+header. This indicates to the application a verse that NEVER contained Greek text (the
+others which eventually were given Greek text, this Greek text was translated from
+the Latin Vulgate Bible; but this makes them no more viable or valid -- perhaps less so).
+
+GREEK.TXT contains the Greek version.  Notice that the standard Symbol Font is used 
+(it is also the easiest to type Greek text in).  Notice also that this text contains 
+absolutely no punctuation.  This is the way it SHOULD be, as punctuation did not exist 
+in this text until the ninth century.
+
+Notice that some verse text appears to be "missing".  They are not there because they 
+originally never existed (some do not exist to this day, but were added from the much 
+later Vulgate Latin text).  For example, the story of the adulterous woman brought to 
+Jesus described in John 7:53, and John 8:1 through 8:11, never originally existed in 
+the Greek text, being added many centuries later.
+
+KJV.TXT is the 1611 edition of the King James Version, updated to Victorian spelling and
+grammar.
+
+MKJV.TXT is the 1999 edition of the Modern King James Version.
+
+RSV.TXT is the 1971 edition of the Revised Standard Version.
+
+YLT.TXT is the 1898 Young's Literal Translation.  You may note that this is not quite as 
+literal as it boasts (as you will see by viewing ACTUAL literal translations of 
+verses for yourself with this program).
+
+WEB.TXT is the 1907 edition of the World English Bible version. Note that in order to
+accomodate this bible, I had to (RE)rearrange their movement of Romans 16:25-27 to Romans
+14:24-26 BACK to 16:25-27 (there is a note at the end of 14:23 explaining this, as well
+as Notes in 16:25, 16:26, and 16:27 explaing this. I had to do this in order to keep the
+1551 verse standard compliant between all versions of the New Covenant.  My Apologies
+to Fans of the WEB (I do, in the verse notes for 14:23, include these 3 verses).
+
+ASV.TXT is the 1901 American Standard Version.
+
+DBY.TXT is the 1884 edition of Darby's Translation.
+
+WBS.TXT is the 1833 edition of Webster's Translation.
+
+A later-added Bible is named MPV.TXT (My Personal Version), and is based upon YOUR
+choice of Bibles (just to get things rolling).  This is updated as YOUtranscribe each 
+verses and update these transliterated verses to this database.
+
+All these versions of the New Covenant contain exactly 7957 lines of verse, even if the
+verse data is not present (many newer versions appropriately dropped verses that did not
+exist in the Greek (these were verses that the Church Fathers ADDED from the 4th through
+the 9th centuries).  If a verse contains no data, then it will still contain the header
+for the verse assigned to that location by the 1551 standard.
+
+
+GREEKBBL.TXT
+------------
+This is a reference reflection of the GREEK.TXT, formatted in much the same way, but 
+with indexes instead of words.  Each index for each word points to a line number in 
+the GREEKDEFREF.FILE.
+
+
+VINEREF
+-------
+This database contains tab-delimited records made up of 3 fields.  The first field
+is simply a numeric reference ID tag.  The second field is a list of similar or
+related words.  The third field is a definition of the word or words.  The "\"
+character is a placeholder for Newline codes, and words enclosed within Curly
+braces "{word}" will be displayed in the Greek character set (Symbol).
+
+
+GREEKDEFREF.TXT
+---------------
+This is a tab-delimited file consisting of 6 fields, indicating ID, the root Greek 
+word, its Latinized rendition, phonetic pronunciations guide, Strong's Index Number, 
+and the "Definition Notes Data".  Notice that a backslash "\" indicates a New Line 
+code (Linefeed or Carriage-Return/Linefeed, depending upon the platform).
+
+The Strong's reference number is an index to the popular Strong's Concise Reference.  
+However, in practical terms, it is also an index to a line number in the 
+GREEKWORDREF.TXT file.
+
+
+GREEKWORDREF.TXT
+----------------
+This is a tab-delimited file consisting of 3 fields.  The first field is an index ID, 
+the second field is a "Quickie" index for the last word indexed within each line's list. 
+The third field is actually a comma-delimited list of current optional synonyms for 
+each referenced Greek word (you can add more practical synonyms within the program).  
+This data is used to offer you the list of optional synonyms to apply to each 
+transliterated verse.
+
+
+VNOTES.TXT
+----------
+This is a database containing over 6900 fixes and corrections to older Bible 
+translations.  Verse data for each displayed verse is shown within the program.  There 
+is not one chapter in the New Covenant that does not have error-corrections listed.
+
+This file is a flat string, consisting of a book, chapter, and verse 6-character 
+header (like the verses of the above bible versions), and followed by text.  A 
+backslash indicates a new line character.
+
+
+WORDMAP.TXT
+-----------
+This database file is created on program startup.  It creates a map similar to 
+GREEKDEFREF.TXT, except that each index is initially -1.  Once a verse is displayed, 
+indexes into the synonym list in GREEKWORDREF.TXT are applied, initially based upon 
+last-made choices for each of the words the user had previously selected, defaulting 
+to the first (0) if no choices can be detected.  Once the user actually chooses a 
+synonym, then defaults are no longer applied, but are locked and record in this 
+database file.  An index entry exists for every single word in the GREEK.TXT file.
+
+
+MYNOTES.TXT
+-----------
+This file is created upon program startup.  Its formatting is exactly the same as the bible
+files, such as KJV.TXT or GREEK.TXT, but the "verse" data are notes that you add
+through an editor, or editing this file with a text editor.
+
+Each line of this database consists of a ID tag and the words of the notes, 
+being space-delimited.  A header consist of the Book, chapter, and verse, in the 
+format: 010203, indicating Book 1 (Matthew), Chapter 2, Verse 3. This is followed by a
+space, and then the text of the name.  Notice that a backslash "\" is used to tag
+Newline code, and text enclosed within Curly Braces "{word}" are
+assumed to be displayed in the Greek character set (Symbol font).
+
+
+PMAP.TXT
+--------
+This is a map of each verse in the New Covenant.  It is one long string of characters,
+where each successive character position presents a verse (hence, the first character
+position represents Matthew 1:1, and the last character position is Revelation 22:21).
+If the current verse is the start of a new paragraph, it is tagged with a "$" character,
+otherwise it is a space, unless it is the first verse of a chapter, and then it is also
+tagged with a space.
+
+
+KJVDICT.TXT
+-----------
+This is a 2-column tab-delimited file that contains a KJV term and its cooresponding
+modern equivalent meaning.
+
+
+KJVVERSEWORDS.TXT
+-----------
+This is a 2-column file.  The first column contains the Bible Book, Chapter, and verse
+tag, in a BBCCVV format.  The second column is a comma-delimited field containing KJV
+words used in translating each verse.  Each word corresponds to a entry in the
+KJVVERSEINDEX.TXT file, which in turn points to a line in the GREEKDEFREF.TXT file. This
+file is used to let the user explore the original methods used for translating the KJV
+back in the early 1600's.
+
+
+KJVVERSEINDEX.TXT
+-----------
+This is a 2-column file.  The first column contains the Bible Book, Chapter, and verse
+tag, in a BBCCVV format.  The second column is a comma-delimited field containing KJV
+index values used in translating each verse.  Each index corresponds to a word entry in
+the KJVVERSEWORDS.TXT file. It points to a line in the GREEKDEFREF.TXT file. This file 
+is used to let the user explore the original methods used for translating the KJV
+back in the early 1600's.
+
